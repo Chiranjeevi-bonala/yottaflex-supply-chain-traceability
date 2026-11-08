@@ -1,0 +1,5002 @@
+[
+  {
+    "supplier_id": "SUP-000001",
+    "name": "Gomez, Campbell and Thompson and Sons",
+    "country": "Denmark",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@smith.com",
+    "contact_phone": "3335491328",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000002",
+    "name": "Hayes, Chapman and Richardson PLC",
+    "country": "Guernsey",
+    "category": "CHEMICAL",
+    "contact_email": "contact@brown-bass.com",
+    "contact_phone": "(371)419-3885",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000003",
+    "name": "Gilbert-Butler Inc",
+    "country": "Japan",
+    "category": "PACKAGING",
+    "contact_email": "contact@page-deleon.com",
+    "contact_phone": "(883)501-5148x3011",
+    "is_active": false,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000004",
+    "name": "Mcknight, Mendoza and Jones PLC",
+    "country": "Togo",
+    "category": "PACKAGING",
+    "contact_email": "contact@diaz.biz",
+    "contact_phone": "7702302488",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000005",
+    "name": "Mcdonald-Richard Inc",
+    "country": "Antarctica (the territory South of 60 deg S)",
+    "category": "ADDITIVE",
+    "contact_email": "contact@perkins-williams.com",
+    "contact_phone": "001-980-668-4607x5359",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000006",
+    "name": "Beck, Scott and Robertson Group",
+    "country": "Taiwan",
+    "category": "PACKAGING",
+    "contact_email": "contact@roth.com",
+    "contact_phone": "(228)227-8472",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000007",
+    "name": "Carey, Mahoney and Stevens PLC",
+    "country": "Ethiopia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@fritz.com",
+    "contact_phone": "001-776-382-2739x0968",
+    "is_active": false,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000008",
+    "name": "Sullivan Inc LLC",
+    "country": "Tonga",
+    "category": "PACKAGING",
+    "contact_email": "contact@lawson.com",
+    "contact_phone": "001-945-569-8719x9023",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000009",
+    "name": "Rollins-Garcia and Sons",
+    "country": "Lebanon",
+    "category": "CHEMICAL",
+    "contact_email": "contact@hickman.biz",
+    "contact_phone": "(452)265-9400x17837",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000010",
+    "name": "Kramer-Newton Group",
+    "country": "Japan",
+    "category": "INGREDIENT",
+    "contact_email": "contact@foster-brown.com",
+    "contact_phone": "+1-828-336-8871",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000011",
+    "name": "Combs Inc Ltd",
+    "country": "Morocco",
+    "category": "PACKAGING",
+    "contact_email": "contact@williams-miranda.net",
+    "contact_phone": "+1-684-529-5428x49500",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000012",
+    "name": "Martinez-Howard Ltd",
+    "country": "Bahrain",
+    "category": "CHEMICAL",
+    "contact_email": "contact@norris.biz",
+    "contact_phone": "001-224-575-6383",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000013",
+    "name": "Sweeney, Chapman and Gray Group",
+    "country": "Guernsey",
+    "category": "INGREDIENT",
+    "contact_email": "contact@colon.info",
+    "contact_phone": "699-651-9770",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000014",
+    "name": "Moon PLC LLC",
+    "country": "Albania",
+    "category": "CHEMICAL",
+    "contact_email": "contact@gentry-espinoza.com",
+    "contact_phone": "3412288922",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000015",
+    "name": "Lara-Garcia LLC",
+    "country": "San Marino",
+    "category": "ADDITIVE",
+    "contact_email": "contact@castro.biz",
+    "contact_phone": "001-205-715-0874x2555",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000016",
+    "name": "Johns-Williams LLC",
+    "country": "Cameroon",
+    "category": "CHEMICAL",
+    "contact_email": "contact@green.com",
+    "contact_phone": "001-810-339-4314x803",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000017",
+    "name": "Rogers Ltd and Sons",
+    "country": "United Kingdom",
+    "category": "PACKAGING",
+    "contact_email": "contact@mclaughlin.info",
+    "contact_phone": "(908)800-5565x24934",
+    "is_active": false,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000018",
+    "name": "Collins, Gray and Scott Inc",
+    "country": "Tonga",
+    "category": "PACKAGING",
+    "contact_email": "contact@lambert.com",
+    "contact_phone": "653-210-0704",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000019",
+    "name": "Thornton, Cochran and Baker Ltd",
+    "country": "Suriname",
+    "category": "CHEMICAL",
+    "contact_email": "contact@barber.com",
+    "contact_phone": "001-272-665-2129x12306",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000020",
+    "name": "Leonard and Sons Inc",
+    "country": "Sweden",
+    "category": "CHEMICAL",
+    "contact_email": "contact@ferrell.com",
+    "contact_phone": "510.423.6499x6338",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000021",
+    "name": "Roberts Inc Inc",
+    "country": "Saint Lucia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@paul-adams.com",
+    "contact_phone": "635.545.2808x186",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000022",
+    "name": "Riley, Porter and Blair Ltd",
+    "country": "Norfolk Island",
+    "category": "INGREDIENT",
+    "contact_email": "contact@taylor-thomas.info",
+    "contact_phone": "357-556-5535",
+    "is_active": false,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000023",
+    "name": "Pierce, Franklin and Henderson Inc",
+    "country": "Aruba",
+    "category": "PACKAGING",
+    "contact_email": "contact@wilson.com",
+    "contact_phone": "298.634.1999x31249",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000024",
+    "name": "Mcneil-Jackson Group",
+    "country": "Falkland Islands (Malvinas)",
+    "category": "ADDITIVE",
+    "contact_email": "contact@cantrell-rollins.com",
+    "contact_phone": "001-509-822-4834x95630",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000025",
+    "name": "Wright-Jackson PLC",
+    "country": "Myanmar",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@nelson.biz",
+    "contact_phone": "986.268.7631",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000026",
+    "name": "Bond Ltd Inc",
+    "country": "Holy See (Vatican City State)",
+    "category": "CHEMICAL",
+    "contact_email": "contact@porter.com",
+    "contact_phone": "908.945.4958x834",
+    "is_active": false,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000027",
+    "name": "Cohen Group and Sons",
+    "country": "France",
+    "category": "ADDITIVE",
+    "contact_email": "contact@robinson.com",
+    "contact_phone": "+1-894-321-4975x11932",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000028",
+    "name": "Briggs PLC and Sons",
+    "country": "Portugal",
+    "category": "ADDITIVE",
+    "contact_email": "contact@turner.com",
+    "contact_phone": "+1-591-353-9433x0325",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000029",
+    "name": "Rojas, Blevins and Bowman Inc",
+    "country": "Saint Vincent and the Grenadines",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@small.com",
+    "contact_phone": "001-631-291-6141",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000030",
+    "name": "Johnson Ltd LLC",
+    "country": "Saint Barthelemy",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@sampson-williams.com",
+    "contact_phone": "001-644-897-1307x77614",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000031",
+    "name": "Parrish and Sons LLC",
+    "country": "Turkmenistan",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@evans-walker.com",
+    "contact_phone": "521.590.5466",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000032",
+    "name": "Le, Barron and Williams Group",
+    "country": "Dominican Republic",
+    "category": "ADDITIVE",
+    "contact_email": "contact@cervantes.org",
+    "contact_phone": "001-233-823-3922x2772",
+    "is_active": true,
+    "reliability_score": 0.97
+  },
+  {
+    "supplier_id": "SUP-000033",
+    "name": "Davis Group Inc",
+    "country": "Guadeloupe",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@gonzalez.com",
+    "contact_phone": "+1-272-301-8704",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000034",
+    "name": "Houston PLC LLC",
+    "country": "Canada",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@tate-carroll.org",
+    "contact_phone": "+1-491-915-2007x176",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000035",
+    "name": "Johnson-Edwards and Sons",
+    "country": "Mozambique",
+    "category": "ADDITIVE",
+    "contact_email": "contact@adams.com",
+    "contact_phone": "272-490-2530x2191",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000036",
+    "name": "Camacho Group Ltd",
+    "country": "San Marino",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@harris.com",
+    "contact_phone": "+1-995-978-5134x229",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000037",
+    "name": "Bush-Thomas Inc",
+    "country": "Chile",
+    "category": "INGREDIENT",
+    "contact_email": "contact@williams.com",
+    "contact_phone": "+1-521-647-1630x96392",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000038",
+    "name": "Haney, Thomas and Hale and Sons",
+    "country": "Chad",
+    "category": "CHEMICAL",
+    "contact_email": "contact@conway.biz",
+    "contact_phone": "001-310-286-4375x220",
+    "is_active": false,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000039",
+    "name": "Logan-Calhoun Ltd",
+    "country": "Maldives",
+    "category": "INGREDIENT",
+    "contact_email": "contact@frazier-wu.com",
+    "contact_phone": "(985)216-8208x621",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000040",
+    "name": "Horton, Holland and Lee PLC",
+    "country": "Austria",
+    "category": "ADDITIVE",
+    "contact_email": "contact@horton-james.org",
+    "contact_phone": "(927)365-6119x25997",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000041",
+    "name": "Bennett Ltd LLC",
+    "country": "Italy",
+    "category": "CHEMICAL",
+    "contact_email": "contact@tyler.info",
+    "contact_phone": "993-297-7194",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000042",
+    "name": "Graham, Carlson and Daniels Group",
+    "country": "Korea",
+    "category": "INGREDIENT",
+    "contact_email": "contact@murphy.net",
+    "contact_phone": "001-410-673-7537x63496",
+    "is_active": true,
+    "reliability_score": 0.97
+  },
+  {
+    "supplier_id": "SUP-000043",
+    "name": "Rowe PLC PLC",
+    "country": "Saint Lucia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@cabrera.org",
+    "contact_phone": "+1-540-819-8555x9966",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000044",
+    "name": "Dixon Ltd PLC",
+    "country": "Svalbard & Jan Mayen Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@tanner.com",
+    "contact_phone": "626-528-7314",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000045",
+    "name": "George-Harris Inc",
+    "country": "Mongolia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@gill.com",
+    "contact_phone": "(527)353-6382x7328",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000046",
+    "name": "Ruiz, Le and Moss PLC",
+    "country": "Kuwait",
+    "category": "INGREDIENT",
+    "contact_email": "contact@brown.com",
+    "contact_phone": "+1-460-840-9011x20290",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000047",
+    "name": "Jensen-Snyder LLC",
+    "country": "Uruguay",
+    "category": "CHEMICAL",
+    "contact_email": "contact@schmidt.info",
+    "contact_phone": "418.590.0820",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000048",
+    "name": "Rogers, Fields and Brown Group",
+    "country": "Armenia",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@snow-lewis.com",
+    "contact_phone": "(507)628-9443",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000049",
+    "name": "Robinson Group Ltd",
+    "country": "Palau",
+    "category": "ADDITIVE",
+    "contact_email": "contact@stephens.com",
+    "contact_phone": "504.735.0153x73290",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000050",
+    "name": "Kirby and Sons Inc",
+    "country": "Libyan Arab Jamahiriya",
+    "category": "CHEMICAL",
+    "contact_email": "contact@khan.com",
+    "contact_phone": "001-453-724-7860x349",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000051",
+    "name": "Gonzalez-Mitchell and Sons",
+    "country": "Australia",
+    "category": "PACKAGING",
+    "contact_email": "contact@williams-scott.org",
+    "contact_phone": "+1-578-462-8567x9477",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000052",
+    "name": "Jackson-Curtis Inc",
+    "country": "Guatemala",
+    "category": "CHEMICAL",
+    "contact_email": "contact@evans-garcia.info",
+    "contact_phone": "(617)216-7638x259",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000053",
+    "name": "King, Watson and Gray Group",
+    "country": "Canada",
+    "category": "PACKAGING",
+    "contact_email": "contact@padilla-watson.com",
+    "contact_phone": "942.923.9483",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000054",
+    "name": "Shannon PLC Group",
+    "country": "United Kingdom",
+    "category": "PACKAGING",
+    "contact_email": "contact@bennett-patterson.com",
+    "contact_phone": "(924)680-1610x3659",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000055",
+    "name": "Anderson Ltd and Sons",
+    "country": "Liberia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@vance.com",
+    "contact_phone": "923-220-0236x82225",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000056",
+    "name": "Arnold, Cross and Foster and Sons",
+    "country": "Denmark",
+    "category": "CHEMICAL",
+    "contact_email": "contact@jones.biz",
+    "contact_phone": "369-832-0388x70146",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000057",
+    "name": "Kirk PLC Group",
+    "country": "Bulgaria",
+    "category": "ADDITIVE",
+    "contact_email": "contact@harris.com",
+    "contact_phone": "337-488-4851",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000058",
+    "name": "Key, Jones and Blair Group",
+    "country": "Brunei Darussalam",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@neal-kim.net",
+    "contact_phone": "307.964.8152",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000059",
+    "name": "Shelton, Brown and Conrad Ltd",
+    "country": "Maldives",
+    "category": "INGREDIENT",
+    "contact_email": "contact@delacruz.com",
+    "contact_phone": "+1-309-956-4752",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000060",
+    "name": "Jordan and Sons and Sons",
+    "country": "Mozambique",
+    "category": "CHEMICAL",
+    "contact_email": "contact@stephens.com",
+    "contact_phone": "823-340-4887x3981",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000061",
+    "name": "Jackson and Sons Ltd",
+    "country": "Bermuda",
+    "category": "ADDITIVE",
+    "contact_email": "contact@galvan-robinson.com",
+    "contact_phone": "(434)549-2297",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000062",
+    "name": "Hobbs-Lee Inc",
+    "country": "Saint Lucia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@vazquez-bray.org",
+    "contact_phone": "(478)739-5492",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000063",
+    "name": "Peters Ltd PLC",
+    "country": "Montserrat",
+    "category": "INGREDIENT",
+    "contact_email": "contact@conway-bush.com",
+    "contact_phone": "924.555.1810x349",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000064",
+    "name": "Davis, Christensen and Haney LLC",
+    "country": "Saudi Arabia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@black.net",
+    "contact_phone": "(658)764-8110x4174",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000065",
+    "name": "Ortiz-Anderson Ltd",
+    "country": "Swaziland",
+    "category": "CHEMICAL",
+    "contact_email": "contact@perez.com",
+    "contact_phone": "610-850-8940x058",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000066",
+    "name": "Yates Inc PLC",
+    "country": "France",
+    "category": "INGREDIENT",
+    "contact_email": "contact@caldwell-smith.biz",
+    "contact_phone": "(548)400-1350",
+    "is_active": false,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000067",
+    "name": "Rose-Burns LLC",
+    "country": "Latvia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@beck-hansen.info",
+    "contact_phone": "536.754.2997x71441",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000068",
+    "name": "Rodriguez-Sanchez and Sons",
+    "country": "Saint Helena",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@moreno.com",
+    "contact_phone": "+1-808-723-4650x640",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000069",
+    "name": "Floyd, Perry and Thomas PLC",
+    "country": "Indonesia",
+    "category": "PACKAGING",
+    "contact_email": "contact@arellano-erickson.biz",
+    "contact_phone": "381-894-2886x736",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000070",
+    "name": "Miller, Vaughn and Monroe Ltd",
+    "country": "Honduras",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@howard.org",
+    "contact_phone": "001-407-468-8422x070",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000071",
+    "name": "Valentine-Reynolds Group",
+    "country": "Congo",
+    "category": "ADDITIVE",
+    "contact_email": "contact@smith-mejia.info",
+    "contact_phone": "773.942.3684x8688",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000072",
+    "name": "Murphy Group PLC",
+    "country": "Norfolk Island",
+    "category": "PACKAGING",
+    "contact_email": "contact@whitehead.com",
+    "contact_phone": "358-418-3532x95065",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000073",
+    "name": "York Group Inc",
+    "country": "Jersey",
+    "category": "CHEMICAL",
+    "contact_email": "contact@simmons-hernandez.net",
+    "contact_phone": "+1-347-450-5715x887",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000074",
+    "name": "Rice Group PLC",
+    "country": "Monaco",
+    "category": "PACKAGING",
+    "contact_email": "contact@foster.info",
+    "contact_phone": "(784)408-8293x208",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000075",
+    "name": "Valenzuela and Sons Group",
+    "country": "Spain",
+    "category": "PACKAGING",
+    "contact_email": "contact@collins-hawkins.biz",
+    "contact_phone": "846.972.4208x91744",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000076",
+    "name": "Jimenez Inc Inc",
+    "country": "British Virgin Islands",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@mccoy.com",
+    "contact_phone": "001-719-989-6867x98386",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000077",
+    "name": "Gonzalez, Torres and Perez and Sons",
+    "country": "British Indian Ocean Territory (Chagos Archipelago)",
+    "category": "ADDITIVE",
+    "contact_email": "contact@newman.net",
+    "contact_phone": "855.387.7806",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000078",
+    "name": "Suarez, Young and Wilson LLC",
+    "country": "Algeria",
+    "category": "CHEMICAL",
+    "contact_email": "contact@brock.net",
+    "contact_phone": "+1-976-473-4257",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000079",
+    "name": "Neal-Freeman Inc",
+    "country": "Guam",
+    "category": "INGREDIENT",
+    "contact_email": "contact@wise.com",
+    "contact_phone": "5258388136",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000080",
+    "name": "Collier-Soto Group",
+    "country": "Saint Martin",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@luna-adams.info",
+    "contact_phone": "884.712.0997",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000081",
+    "name": "Smith and Sons PLC",
+    "country": "Antigua and Barbuda",
+    "category": "CHEMICAL",
+    "contact_email": "contact@mendoza.info",
+    "contact_phone": "719.825.7362",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000082",
+    "name": "Mitchell-Rodriguez Ltd",
+    "country": "Guinea-Bissau",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@williams-martinez.com",
+    "contact_phone": "541-772-4044x48116",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000083",
+    "name": "Williamson-Johnson Ltd",
+    "country": "Liechtenstein",
+    "category": "INGREDIENT",
+    "contact_email": "contact@weeks-suarez.com",
+    "contact_phone": "+1-586-566-8146x61916",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000084",
+    "name": "Hawkins, Hill and Wells and Sons",
+    "country": "Greece",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@lyons-cooper.com",
+    "contact_phone": "+1-814-908-1033",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000085",
+    "name": "Meyers-Watson LLC",
+    "country": "North Macedonia",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@barnes.com",
+    "contact_phone": "001-942-809-6232x3125",
+    "is_active": false,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000086",
+    "name": "Davis Group Group",
+    "country": "United States Virgin Islands",
+    "category": "INGREDIENT",
+    "contact_email": "contact@velazquez-jacobs.org",
+    "contact_phone": "001-644-221-7479x38787",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000087",
+    "name": "Brady Inc Inc",
+    "country": "Singapore",
+    "category": "PACKAGING",
+    "contact_email": "contact@ryan.org",
+    "contact_phone": "682.816.1004",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000088",
+    "name": "Bryant-Watson Ltd",
+    "country": "United Arab Emirates",
+    "category": "ADDITIVE",
+    "contact_email": "contact@taylor.com",
+    "contact_phone": "(507)646-2756x147",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000089",
+    "name": "Murphy, Kline and Underwood LLC",
+    "country": "Belgium",
+    "category": "CHEMICAL",
+    "contact_email": "contact@hernandez.com",
+    "contact_phone": "001-858-447-8234x7417",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000090",
+    "name": "Taylor and Sons Ltd",
+    "country": "Ethiopia",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@benjamin-reid.org",
+    "contact_phone": "001-277-704-9520x49022",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000091",
+    "name": "Ray PLC LLC",
+    "country": "Saint Lucia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@irwin-chavez.net",
+    "contact_phone": "5704341148",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000092",
+    "name": "Scott-Lopez LLC",
+    "country": "Zimbabwe",
+    "category": "INGREDIENT",
+    "contact_email": "contact@hammond.com",
+    "contact_phone": "5714621431",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000093",
+    "name": "Zimmerman Group and Sons",
+    "country": "Portugal",
+    "category": "CHEMICAL",
+    "contact_email": "contact@morrow.net",
+    "contact_phone": "001-732-927-3251x10388",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000094",
+    "name": "Johnson-Cain Group",
+    "country": "Northern Mariana Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@barr.org",
+    "contact_phone": "(826)545-5268x57592",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000095",
+    "name": "Jackson, Gibson and Gilbert PLC",
+    "country": "Vanuatu",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@marshall-hicks.com",
+    "contact_phone": "569.952.2793x147",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000096",
+    "name": "Dodson Inc LLC",
+    "country": "Uganda",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@christensen.info",
+    "contact_phone": "981-683-4800",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000097",
+    "name": "Gardner-Nelson Inc",
+    "country": "Niue",
+    "category": "CHEMICAL",
+    "contact_email": "contact@edwards-bennett.info",
+    "contact_phone": "439.616.9964x8957",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000098",
+    "name": "Morales, Mora and Hoffman Ltd",
+    "country": "Saint Lucia",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@andersen-smith.biz",
+    "contact_phone": "001-214-328-3931x070",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000099",
+    "name": "Friedman, Armstrong and Buckley and Sons",
+    "country": "Turkmenistan",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@schaefer-day.com",
+    "contact_phone": "001-772-703-2968x933",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000100",
+    "name": "Burnett Group and Sons",
+    "country": "Jamaica",
+    "category": "ADDITIVE",
+    "contact_email": "contact@atkinson-torres.com",
+    "contact_phone": "220-838-8511x165",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000101",
+    "name": "Vazquez Inc PLC",
+    "country": "Benin",
+    "category": "CHEMICAL",
+    "contact_email": "contact@rodriguez.com",
+    "contact_phone": "+1-681-212-0106x562",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000102",
+    "name": "Marquez, Hutchinson and Davis Ltd",
+    "country": "Sao Tome and Principe",
+    "category": "CHEMICAL",
+    "contact_email": "contact@taylor-collins.org",
+    "contact_phone": "001-915-477-0760x702",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000103",
+    "name": "Anderson-Levy Ltd",
+    "country": "Philippines",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@navarro-johnson.com",
+    "contact_phone": "407.287.8427x8741",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000104",
+    "name": "Hernandez, Wilson and Baker and Sons",
+    "country": "French Southern Territories",
+    "category": "CHEMICAL",
+    "contact_email": "contact@stephens.com",
+    "contact_phone": "756-598-3165x1278",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000105",
+    "name": "King-Taylor Ltd",
+    "country": "British Indian Ocean Territory (Chagos Archipelago)",
+    "category": "INGREDIENT",
+    "contact_email": "contact@fisher.com",
+    "contact_phone": "001-897-288-5073",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000106",
+    "name": "Simmons, Mills and Knight PLC",
+    "country": "British Virgin Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@dyer.com",
+    "contact_phone": "(877)677-2206x453",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000107",
+    "name": "Dixon, Jackson and Andersen and Sons",
+    "country": "Moldova",
+    "category": "CHEMICAL",
+    "contact_email": "contact@bailey.com",
+    "contact_phone": "(930)352-4277",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000108",
+    "name": "Burns Ltd Ltd",
+    "country": "Fiji",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@lee.net",
+    "contact_phone": "001-717-208-4468x3352",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000109",
+    "name": "Walters PLC PLC",
+    "country": "Hong Kong",
+    "category": "ADDITIVE",
+    "contact_email": "contact@daniels.biz",
+    "contact_phone": "918.302.9965x890",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000110",
+    "name": "Hurst, Martinez and Maynard Inc",
+    "country": "Japan",
+    "category": "INGREDIENT",
+    "contact_email": "contact@richardson.com",
+    "contact_phone": "(681)741-5785",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000111",
+    "name": "Clay, Hughes and Schwartz PLC",
+    "country": "Uganda",
+    "category": "ADDITIVE",
+    "contact_email": "contact@murray.com",
+    "contact_phone": "+1-939-223-2736x6819",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000112",
+    "name": "Leblanc, Gentry and Calderon Group",
+    "country": "Congo",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@potter-long.net",
+    "contact_phone": "(653)627-0539x94383",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000113",
+    "name": "Castro, Vazquez and Gonzalez PLC",
+    "country": "Andorra",
+    "category": "INGREDIENT",
+    "contact_email": "contact@taylor-hicks.com",
+    "contact_phone": "909.548.4536",
+    "is_active": false,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000114",
+    "name": "Jones-Cuevas LLC",
+    "country": "Falkland Islands (Malvinas)",
+    "category": "CHEMICAL",
+    "contact_email": "contact@jones.com",
+    "contact_phone": "(630)687-7675x1671",
+    "is_active": false,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000115",
+    "name": "Gaines, Rogers and Malone PLC",
+    "country": "Belgium",
+    "category": "PACKAGING",
+    "contact_email": "contact@allen-peters.com",
+    "contact_phone": "498.284.0789",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000116",
+    "name": "Henderson, Burke and Reed Group",
+    "country": "Libyan Arab Jamahiriya",
+    "category": "PACKAGING",
+    "contact_email": "contact@clark.com",
+    "contact_phone": "(647)838-5441x94209",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000117",
+    "name": "Galvan, Boyer and Moore LLC",
+    "country": "Canada",
+    "category": "INGREDIENT",
+    "contact_email": "contact@taylor.com",
+    "contact_phone": "001-854-754-7046x012",
+    "is_active": false,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000118",
+    "name": "Freeman-Holmes PLC",
+    "country": "Czech Republic",
+    "category": "CHEMICAL",
+    "contact_email": "contact@stevens-palmer.com",
+    "contact_phone": "453.906.4939x8062",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000119",
+    "name": "Rodriguez-Rodriguez PLC",
+    "country": "Qatar",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@butler.info",
+    "contact_phone": "(664)263-1338x805",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000120",
+    "name": "Calhoun, Peterson and Mendoza LLC",
+    "country": "Nauru",
+    "category": "PACKAGING",
+    "contact_email": "contact@howell-hall.com",
+    "contact_phone": "(646)445-3590x41657",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000121",
+    "name": "Smith-Jones and Sons",
+    "country": "Turkmenistan",
+    "category": "PACKAGING",
+    "contact_email": "contact@sanchez-wright.info",
+    "contact_phone": "267-786-2940x5032",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000122",
+    "name": "Clayton, Williams and Kirk and Sons",
+    "country": "Comoros",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@rodgers.com",
+    "contact_phone": "(391)819-6118x02919",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000123",
+    "name": "Miller, Evans and Torres PLC",
+    "country": "Syrian Arab Republic",
+    "category": "CHEMICAL",
+    "contact_email": "contact@ross.com",
+    "contact_phone": "734-911-1244",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000124",
+    "name": "Smith, Murphy and Bennett Ltd",
+    "country": "Yemen",
+    "category": "PACKAGING",
+    "contact_email": "contact@torres.org",
+    "contact_phone": "680.490.3756x6659",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000125",
+    "name": "Wu-Cook LLC",
+    "country": "Reunion",
+    "category": "INGREDIENT",
+    "contact_email": "contact@jones.com",
+    "contact_phone": "5908235515",
+    "is_active": false,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000126",
+    "name": "Best LLC Inc",
+    "country": "Ukraine",
+    "category": "PACKAGING",
+    "contact_email": "contact@johnson.org",
+    "contact_phone": "255-687-0053",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000127",
+    "name": "Dominguez Inc Inc",
+    "country": "Christmas Island",
+    "category": "CHEMICAL",
+    "contact_email": "contact@wagner.com",
+    "contact_phone": "653-693-3670x9216",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000128",
+    "name": "Crawford, Johnson and Jordan and Sons",
+    "country": "Bermuda",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@moore-riley.info",
+    "contact_phone": "+1-963-800-2441",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000129",
+    "name": "Stevenson-Campbell Inc",
+    "country": "Taiwan",
+    "category": "PACKAGING",
+    "contact_email": "contact@wilson.com",
+    "contact_phone": "001-230-246-0136x33797",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000130",
+    "name": "Soto-Fernandez Group",
+    "country": "Russian Federation",
+    "category": "ADDITIVE",
+    "contact_email": "contact@white-phillips.com",
+    "contact_phone": "847-516-6964",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000131",
+    "name": "Roberts-Bailey PLC",
+    "country": "Jersey",
+    "category": "PACKAGING",
+    "contact_email": "contact@henry.com",
+    "contact_phone": "(819)610-0993",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000132",
+    "name": "Mcintyre, Fernandez and White Group",
+    "country": "Cape Verde",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@jones-rogers.info",
+    "contact_phone": "(250)491-4330x150",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000133",
+    "name": "Santos Inc Group",
+    "country": "Russian Federation",
+    "category": "INGREDIENT",
+    "contact_email": "contact@murphy-nichols.com",
+    "contact_phone": "(850)233-9664x314",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000134",
+    "name": "Wilson-Smith Inc",
+    "country": "Niue",
+    "category": "PACKAGING",
+    "contact_email": "contact@collier-moran.org",
+    "contact_phone": "881.828.2471",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000135",
+    "name": "Parks and Sons and Sons",
+    "country": "Mongolia",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@hobbs.biz",
+    "contact_phone": "+1-540-870-7706",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000136",
+    "name": "Marquez, Coleman and Manning Inc",
+    "country": "Netherlands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@gomez.com",
+    "contact_phone": "+1-453-273-6889",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000137",
+    "name": "Nelson, Villanueva and Flores PLC",
+    "country": "Kazakhstan",
+    "category": "ADDITIVE",
+    "contact_email": "contact@edwards.com",
+    "contact_phone": "(398)432-2006",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000138",
+    "name": "Grant Inc PLC",
+    "country": "Uruguay",
+    "category": "ADDITIVE",
+    "contact_email": "contact@wilson.com",
+    "contact_phone": "618-607-6193",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000139",
+    "name": "Porter, Figueroa and Ortega Inc",
+    "country": "Niue",
+    "category": "PACKAGING",
+    "contact_email": "contact@macdonald.com",
+    "contact_phone": "+1-417-277-7874x593",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000140",
+    "name": "Berger and Sons PLC",
+    "country": "Turkmenistan",
+    "category": "PACKAGING",
+    "contact_email": "contact@moore-cook.com",
+    "contact_phone": "+1-358-212-5236x07040",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000141",
+    "name": "White, Washington and Ward LLC",
+    "country": "British Indian Ocean Territory (Chagos Archipelago)",
+    "category": "INGREDIENT",
+    "contact_email": "contact@norris.info",
+    "contact_phone": "941.476.8859x79759",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000142",
+    "name": "Jones, Taylor and Gomez LLC",
+    "country": "Belgium",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@charles-leon.org",
+    "contact_phone": "2248088406",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000143",
+    "name": "Harris Group Group",
+    "country": "Niue",
+    "category": "INGREDIENT",
+    "contact_email": "contact@gonzalez.com",
+    "contact_phone": "(403)872-8095",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000144",
+    "name": "Dougherty, Avila and Green Group",
+    "country": "Ukraine",
+    "category": "PACKAGING",
+    "contact_email": "contact@anderson.com",
+    "contact_phone": "617-797-3809x500",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000145",
+    "name": "Weiss LLC Group",
+    "country": "Myanmar",
+    "category": "ADDITIVE",
+    "contact_email": "contact@velez-lewis.org",
+    "contact_phone": "+1-348-477-8622x9064",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000146",
+    "name": "Brandt Inc and Sons",
+    "country": "Ireland",
+    "category": "INGREDIENT",
+    "contact_email": "contact@johnson.com",
+    "contact_phone": "+1-260-645-2724x139",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000147",
+    "name": "Carter Group LLC",
+    "country": "Guinea",
+    "category": "CHEMICAL",
+    "contact_email": "contact@roberts-rogers.net",
+    "contact_phone": "619-682-9324x34689",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000148",
+    "name": "Hicks-Henry Group",
+    "country": "Guernsey",
+    "category": "ADDITIVE",
+    "contact_email": "contact@cruz-dunlap.com",
+    "contact_phone": "437.422.1894x8299",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000149",
+    "name": "Henderson Group Ltd",
+    "country": "Senegal",
+    "category": "CHEMICAL",
+    "contact_email": "contact@henry.org",
+    "contact_phone": "001-932-940-4545x68046",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000150",
+    "name": "Goodman Inc LLC",
+    "country": "Guinea-Bissau",
+    "category": "PACKAGING",
+    "contact_email": "contact@murphy.org",
+    "contact_phone": "+1-694-866-2821x718",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000151",
+    "name": "Cole-Anderson and Sons",
+    "country": "Nepal",
+    "category": "ADDITIVE",
+    "contact_email": "contact@young.com",
+    "contact_phone": "754.657.2548x5871",
+    "is_active": false,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000152",
+    "name": "Kane Inc LLC",
+    "country": "Reunion",
+    "category": "ADDITIVE",
+    "contact_email": "contact@alvarado.com",
+    "contact_phone": "(344)680-3594x78088",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000153",
+    "name": "Wilson-Mccoy Inc",
+    "country": "Namibia",
+    "category": "PACKAGING",
+    "contact_email": "contact@davidson-cook.com",
+    "contact_phone": "4895406649",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000154",
+    "name": "Montgomery PLC and Sons",
+    "country": "Suriname",
+    "category": "ADDITIVE",
+    "contact_email": "contact@newton.com",
+    "contact_phone": "768-567-0551x03437",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000155",
+    "name": "Gardner, Davis and Novak Group",
+    "country": "Germany",
+    "category": "CHEMICAL",
+    "contact_email": "contact@davis.info",
+    "contact_phone": "(672)797-8040x485",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000156",
+    "name": "Alexander PLC PLC",
+    "country": "Ethiopia",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@greer.biz",
+    "contact_phone": "+1-993-299-6760x42659",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000157",
+    "name": "Schmidt Ltd Ltd",
+    "country": "Estonia",
+    "category": "PACKAGING",
+    "contact_email": "contact@fleming.net",
+    "contact_phone": "+1-955-850-0287x455",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000158",
+    "name": "Vazquez, Mcbride and Delgado Inc",
+    "country": "Paraguay",
+    "category": "INGREDIENT",
+    "contact_email": "contact@banks-gomez.biz",
+    "contact_phone": "972-991-1470x65917",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000159",
+    "name": "Wagner-Harris LLC",
+    "country": "Dominican Republic",
+    "category": "INGREDIENT",
+    "contact_email": "contact@sullivan.com",
+    "contact_phone": "459-669-2152x6143",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000160",
+    "name": "Allen-Foster PLC",
+    "country": "Bhutan",
+    "category": "PACKAGING",
+    "contact_email": "contact@thomas-nelson.com",
+    "contact_phone": "332.734.5303",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000161",
+    "name": "Meza, Koch and Davis Ltd",
+    "country": "Argentina",
+    "category": "ADDITIVE",
+    "contact_email": "contact@miller.info",
+    "contact_phone": "001-449-579-2943x64885",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000162",
+    "name": "Murphy Group LLC",
+    "country": "Guyana",
+    "category": "CHEMICAL",
+    "contact_email": "contact@harris-bowen.net",
+    "contact_phone": "938.967.1009",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000163",
+    "name": "Hernandez and Sons and Sons",
+    "country": "Fiji",
+    "category": "INGREDIENT",
+    "contact_email": "contact@figueroa-spence.com",
+    "contact_phone": "(586)683-9255",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000164",
+    "name": "Williams Group and Sons",
+    "country": "Bulgaria",
+    "category": "PACKAGING",
+    "contact_email": "contact@young.info",
+    "contact_phone": "+1-918-821-8217x5149",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000165",
+    "name": "Moore, Guerrero and Moore Group",
+    "country": "Svalbard & Jan Mayen Islands",
+    "category": "CHEMICAL",
+    "contact_email": "contact@parker-mcdowell.com",
+    "contact_phone": "(754)720-3630",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000166",
+    "name": "Marshall and Sons LLC",
+    "country": "Bulgaria",
+    "category": "CHEMICAL",
+    "contact_email": "contact@owens-morrison.org",
+    "contact_phone": "001-579-393-4274x14060",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000167",
+    "name": "Martin-Rubio Group",
+    "country": "Benin",
+    "category": "ADDITIVE",
+    "contact_email": "contact@martin.info",
+    "contact_phone": "494.257.1016",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000168",
+    "name": "Ellis-Odom Inc",
+    "country": "Guernsey",
+    "category": "ADDITIVE",
+    "contact_email": "contact@dodson.net",
+    "contact_phone": "4106595371",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000169",
+    "name": "Werner-Santiago Group",
+    "country": "Bouvet Island (Bouvetoya)",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@durham.net",
+    "contact_phone": "001-634-476-5011",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000170",
+    "name": "Valenzuela PLC Ltd",
+    "country": "North Macedonia",
+    "category": "PACKAGING",
+    "contact_email": "contact@mckee-bell.com",
+    "contact_phone": "(475)293-8982x83390",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000171",
+    "name": "Cannon-Morris Group",
+    "country": "Nicaragua",
+    "category": "ADDITIVE",
+    "contact_email": "contact@gonzales.biz",
+    "contact_phone": "(306)710-5461",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000172",
+    "name": "Atkins Inc LLC",
+    "country": "Cambodia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@allen.biz",
+    "contact_phone": "776-934-2225x96962",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000173",
+    "name": "Gonzales-Martinez PLC",
+    "country": "Faroe Islands",
+    "category": "PACKAGING",
+    "contact_email": "contact@bell.net",
+    "contact_phone": "+1-925-960-1570x36270",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000174",
+    "name": "Gonzalez-Sullivan PLC",
+    "country": "Guam",
+    "category": "PACKAGING",
+    "contact_email": "contact@morris.com",
+    "contact_phone": "+1-273-602-6732x7390",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000175",
+    "name": "Craig, Carter and Luna Ltd",
+    "country": "Andorra",
+    "category": "ADDITIVE",
+    "contact_email": "contact@fernandez.com",
+    "contact_phone": "+1-550-408-3450",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000176",
+    "name": "Day Group Group",
+    "country": "British Indian Ocean Territory (Chagos Archipelago)",
+    "category": "CHEMICAL",
+    "contact_email": "contact@rivers.net",
+    "contact_phone": "(648)729-4409x2207",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000177",
+    "name": "White-Fernandez PLC",
+    "country": "Turkey",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@beck.biz",
+    "contact_phone": "805.754.0878",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000178",
+    "name": "Compton Group Inc",
+    "country": "Kiribati",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@duffy-lyons.net",
+    "contact_phone": "(832)351-0271x2486",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000179",
+    "name": "Price PLC Group",
+    "country": "Liechtenstein",
+    "category": "PACKAGING",
+    "contact_email": "contact@smith.com",
+    "contact_phone": "(855)234-8549",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000180",
+    "name": "Walker LLC PLC",
+    "country": "Latvia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@zuniga.com",
+    "contact_phone": "783-545-0061",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000181",
+    "name": "Fisher PLC LLC",
+    "country": "Anguilla",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@jones-gonzales.com",
+    "contact_phone": "(791)690-7446",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000182",
+    "name": "Vargas-Hughes Ltd",
+    "country": "Guinea-Bissau",
+    "category": "CHEMICAL",
+    "contact_email": "contact@thomas-guerra.com",
+    "contact_phone": "644.406.6861x3275",
+    "is_active": false,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000183",
+    "name": "Gregory-Smith and Sons",
+    "country": "Romania",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@martin.info",
+    "contact_phone": "001-206-210-1568",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000184",
+    "name": "Dougherty-Logan Inc",
+    "country": "El Salvador",
+    "category": "PACKAGING",
+    "contact_email": "contact@freeman-alvarado.biz",
+    "contact_phone": "+1-683-887-2490",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000185",
+    "name": "Schwartz Group PLC",
+    "country": "Cook Islands",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@thompson-hale.com",
+    "contact_phone": "(705)619-0873",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000186",
+    "name": "Jenkins Ltd Ltd",
+    "country": "Turkmenistan",
+    "category": "ADDITIVE",
+    "contact_email": "contact@garcia.org",
+    "contact_phone": "6367650838",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000187",
+    "name": "Young, Blake and Smith and Sons",
+    "country": "Anguilla",
+    "category": "CHEMICAL",
+    "contact_email": "contact@anderson-gomez.org",
+    "contact_phone": "+1-856-926-2741x08603",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000188",
+    "name": "Wheeler-Murphy Ltd",
+    "country": "French Guiana",
+    "category": "CHEMICAL",
+    "contact_email": "contact@lam.net",
+    "contact_phone": "6555511035",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000189",
+    "name": "Rosario, Price and Powell Ltd",
+    "country": "Nigeria",
+    "category": "PACKAGING",
+    "contact_email": "contact@bright.biz",
+    "contact_phone": "945-810-3183x01110",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000190",
+    "name": "Mcintosh and Sons LLC",
+    "country": "Malaysia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@aguilar-smith.com",
+    "contact_phone": "6805683402",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000191",
+    "name": "Stein Ltd PLC",
+    "country": "Madagascar",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@morris-mcconnell.com",
+    "contact_phone": "001-571-602-1299x023",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000192",
+    "name": "Barnes PLC Ltd",
+    "country": "Montserrat",
+    "category": "PACKAGING",
+    "contact_email": "contact@knapp.com",
+    "contact_phone": "+1-918-963-1379x0072",
+    "is_active": false,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000193",
+    "name": "Jones, Montoya and Garcia Group",
+    "country": "Gibraltar",
+    "category": "INGREDIENT",
+    "contact_email": "contact@cooley-robinson.com",
+    "contact_phone": "+1-990-536-1716x25969",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000194",
+    "name": "Sanders-Kelley Ltd",
+    "country": "Palau",
+    "category": "PACKAGING",
+    "contact_email": "contact@flowers.com",
+    "contact_phone": "(854)933-8829",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000195",
+    "name": "Duke and Sons Group",
+    "country": "El Salvador",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@ray-oliver.info",
+    "contact_phone": "(927)635-0785",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000196",
+    "name": "Leonard-Gonzales Group",
+    "country": "Indonesia",
+    "category": "PACKAGING",
+    "contact_email": "contact@smith-duarte.net",
+    "contact_phone": "849-212-9429x216",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000197",
+    "name": "Becker-Thornton LLC",
+    "country": "Malta",
+    "category": "INGREDIENT",
+    "contact_email": "contact@kelly.com",
+    "contact_phone": "480.363.2805x68800",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000198",
+    "name": "Vang PLC Inc",
+    "country": "Uganda",
+    "category": "INGREDIENT",
+    "contact_email": "contact@wilson-parker.biz",
+    "contact_phone": "+1-654-277-3964",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000199",
+    "name": "Raymond, Duran and Villarreal LLC",
+    "country": "Timor-Leste",
+    "category": "INGREDIENT",
+    "contact_email": "contact@ball.info",
+    "contact_phone": "+1-924-676-5321x737",
+    "is_active": false,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000200",
+    "name": "Douglas, Fox and Warren and Sons",
+    "country": "Luxembourg",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@alexander-evans.com",
+    "contact_phone": "001-482-789-4107x5496",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000201",
+    "name": "Jones-Page Group",
+    "country": "Poland",
+    "category": "CHEMICAL",
+    "contact_email": "contact@livingston.com",
+    "contact_phone": "241-306-9075x93456",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000202",
+    "name": "Christensen Group Inc",
+    "country": "Nicaragua",
+    "category": "PACKAGING",
+    "contact_email": "contact@cooper.net",
+    "contact_phone": "+1-520-470-1935x652",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000203",
+    "name": "Payne Ltd Inc",
+    "country": "Dominica",
+    "category": "CHEMICAL",
+    "contact_email": "contact@howell.biz",
+    "contact_phone": "591.558.6706",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000204",
+    "name": "Wright Group and Sons",
+    "country": "Sri Lanka",
+    "category": "INGREDIENT",
+    "contact_email": "contact@duncan.com",
+    "contact_phone": "(829)995-2072x38641",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000205",
+    "name": "Massey-Davis Inc",
+    "country": "Belarus",
+    "category": "PACKAGING",
+    "contact_email": "contact@davis.com",
+    "contact_phone": "001-597-412-4258x996",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000206",
+    "name": "Nelson, Cuevas and Bailey Ltd",
+    "country": "South Georgia and the South Sandwich Islands",
+    "category": "CHEMICAL",
+    "contact_email": "contact@mccann-sanchez.com",
+    "contact_phone": "415.958.1441x99407",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000207",
+    "name": "Walker, Pope and Nichols and Sons",
+    "country": "North Macedonia",
+    "category": "PACKAGING",
+    "contact_email": "contact@miller.com",
+    "contact_phone": "9238895371",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000208",
+    "name": "Payne, Smith and Anderson PLC",
+    "country": "Aruba",
+    "category": "ADDITIVE",
+    "contact_email": "contact@hodge.biz",
+    "contact_phone": "+1-255-560-8272x97585",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000209",
+    "name": "Reed, Cook and Sanders Inc",
+    "country": "Heard Island and McDonald Islands",
+    "category": "PACKAGING",
+    "contact_email": "contact@johnston.com",
+    "contact_phone": "001-922-886-8297",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000210",
+    "name": "Mcguire, Wolf and Kennedy Ltd",
+    "country": "Burundi",
+    "category": "PACKAGING",
+    "contact_email": "contact@bowen.biz",
+    "contact_phone": "946.297.7960x1788",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000211",
+    "name": "Lewis, Ellison and Wagner PLC",
+    "country": "Australia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@meyer.net",
+    "contact_phone": "4528368984",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000212",
+    "name": "Cooke, Jones and Spears Ltd",
+    "country": "Kyrgyz Republic",
+    "category": "PACKAGING",
+    "contact_email": "contact@dickerson-spears.com",
+    "contact_phone": "001-383-904-9901x9890",
+    "is_active": false,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000213",
+    "name": "Jackson, Moore and Brock and Sons",
+    "country": "Syrian Arab Republic",
+    "category": "PACKAGING",
+    "contact_email": "contact@davis.org",
+    "contact_phone": "001-560-766-5913",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000214",
+    "name": "Mcmillan, Mccarthy and Stevens and Sons",
+    "country": "New Zealand",
+    "category": "CHEMICAL",
+    "contact_email": "contact@perkins.com",
+    "contact_phone": "001-844-220-8877x54434",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000215",
+    "name": "Salazar-Lyons and Sons",
+    "country": "Falkland Islands (Malvinas)",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@morgan.com",
+    "contact_phone": "001-869-551-1326x995",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000216",
+    "name": "Bailey, Webb and Lindsey LLC",
+    "country": "Korea",
+    "category": "INGREDIENT",
+    "contact_email": "contact@bennett-hamilton.com",
+    "contact_phone": "6756227410",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000217",
+    "name": "Riddle-Kim and Sons",
+    "country": "Saint Martin",
+    "category": "INGREDIENT",
+    "contact_email": "contact@thomas.com",
+    "contact_phone": "9303393511",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000218",
+    "name": "Hall Inc Ltd",
+    "country": "El Salvador",
+    "category": "CHEMICAL",
+    "contact_email": "contact@howell-baker.com",
+    "contact_phone": "(903)391-7142",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000219",
+    "name": "Charles PLC Inc",
+    "country": "Korea",
+    "category": "ADDITIVE",
+    "contact_email": "contact@davies.net",
+    "contact_phone": "266.737.7850",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000220",
+    "name": "Alvarez Inc and Sons",
+    "country": "Ukraine",
+    "category": "INGREDIENT",
+    "contact_email": "contact@jones-garcia.com",
+    "contact_phone": "+1-432-398-9399x910",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000221",
+    "name": "Holden-Gregory and Sons",
+    "country": "Northern Mariana Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@hill.org",
+    "contact_phone": "+1-438-503-0803x4473",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000222",
+    "name": "Gill LLC Inc",
+    "country": "Sri Lanka",
+    "category": "CHEMICAL",
+    "contact_email": "contact@harrison.com",
+    "contact_phone": "(618)290-2433x289",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000223",
+    "name": "Sellers, Mcfarland and Smith Ltd",
+    "country": "American Samoa",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@anderson-mcdowell.net",
+    "contact_phone": "313-359-7440x93557",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000224",
+    "name": "Burns-Boyd PLC",
+    "country": "Malaysia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@oconnor.info",
+    "contact_phone": "(205)687-1177",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000225",
+    "name": "Prince, Miller and Vincent Ltd",
+    "country": "Haiti",
+    "category": "INGREDIENT",
+    "contact_email": "contact@porter-jimenez.biz",
+    "contact_phone": "(566)763-5260",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000226",
+    "name": "Cisneros, Sanders and Jones Inc",
+    "country": "Singapore",
+    "category": "CHEMICAL",
+    "contact_email": "contact@perez.org",
+    "contact_phone": "494.351.8320",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000227",
+    "name": "Pearson Group Group",
+    "country": "Nepal",
+    "category": "ADDITIVE",
+    "contact_email": "contact@charles.com",
+    "contact_phone": "264-597-3427x038",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000228",
+    "name": "Garcia-Hart and Sons",
+    "country": "Saint Lucia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@harper.com",
+    "contact_phone": "+1-225-582-4988x1969",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000229",
+    "name": "Rasmussen-Finley Group",
+    "country": "Mali",
+    "category": "INGREDIENT",
+    "contact_email": "contact@moore-banks.net",
+    "contact_phone": "340-797-5369",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000230",
+    "name": "Washington, Jefferson and Burns PLC",
+    "country": "Lithuania",
+    "category": "PACKAGING",
+    "contact_email": "contact@matthews-harris.info",
+    "contact_phone": "+1-720-284-0596",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000231",
+    "name": "Briggs LLC Inc",
+    "country": "Marshall Islands",
+    "category": "PACKAGING",
+    "contact_email": "contact@tate-johnson.com",
+    "contact_phone": "001-298-289-1697x86908",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000232",
+    "name": "Suarez and Sons Ltd",
+    "country": "Namibia",
+    "category": "PACKAGING",
+    "contact_email": "contact@kirk.com",
+    "contact_phone": "001-991-701-2797",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000233",
+    "name": "Brown, Taylor and Anderson Inc",
+    "country": "Reunion",
+    "category": "INGREDIENT",
+    "contact_email": "contact@brown.biz",
+    "contact_phone": "(519)568-3949",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000234",
+    "name": "Jones, Thomas and Griffith Ltd",
+    "country": "Mauritius",
+    "category": "PACKAGING",
+    "contact_email": "contact@hernandez.com",
+    "contact_phone": "367-706-8775x14794",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000235",
+    "name": "Thomas-Becker and Sons",
+    "country": "Cuba",
+    "category": "ADDITIVE",
+    "contact_email": "contact@padilla.net",
+    "contact_phone": "616-684-3883x000",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000236",
+    "name": "Hunter LLC Ltd",
+    "country": "Bulgaria",
+    "category": "INGREDIENT",
+    "contact_email": "contact@richards-oliver.com",
+    "contact_phone": "(665)913-6650x8045",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000237",
+    "name": "Rose-Ellis Inc",
+    "country": "Iraq",
+    "category": "CHEMICAL",
+    "contact_email": "contact@hodges-green.info",
+    "contact_phone": "001-750-976-9117",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000238",
+    "name": "Brown PLC Inc",
+    "country": "Venezuela",
+    "category": "PACKAGING",
+    "contact_email": "contact@reynolds.com",
+    "contact_phone": "(608)437-0586x2726",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000239",
+    "name": "Gibson and Sons Ltd",
+    "country": "Guinea-Bissau",
+    "category": "INGREDIENT",
+    "contact_email": "contact@mcdaniel.com",
+    "contact_phone": "+1-817-950-8115x28714",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000240",
+    "name": "Gibson, Williams and Rangel PLC",
+    "country": "Guinea-Bissau",
+    "category": "CHEMICAL",
+    "contact_email": "contact@long.org",
+    "contact_phone": "+1-237-208-2411",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000241",
+    "name": "Berry-Taylor LLC",
+    "country": "Lesotho",
+    "category": "CHEMICAL",
+    "contact_email": "contact@smith.com",
+    "contact_phone": "211.776.9521",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000242",
+    "name": "Hunter and Sons PLC",
+    "country": "Montenegro",
+    "category": "PACKAGING",
+    "contact_email": "contact@carpenter.com",
+    "contact_phone": "+1-801-851-6158",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000243",
+    "name": "Walker Group PLC",
+    "country": "Ireland",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@fowler.com",
+    "contact_phone": "256.319.0806x5846",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000244",
+    "name": "Washington, Smith and Trujillo and Sons",
+    "country": "Azerbaijan",
+    "category": "INGREDIENT",
+    "contact_email": "contact@parrish.com",
+    "contact_phone": "001-389-472-7981x4188",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000245",
+    "name": "Sanders, Reyes and Silva and Sons",
+    "country": "South Africa",
+    "category": "CHEMICAL",
+    "contact_email": "contact@osborne.com",
+    "contact_phone": "(588)322-1512",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000246",
+    "name": "Forbes Inc Group",
+    "country": "Western Sahara",
+    "category": "INGREDIENT",
+    "contact_email": "contact@sanchez.org",
+    "contact_phone": "625-468-5770x140",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000247",
+    "name": "Snow, Jones and Crawford Group",
+    "country": "Mayotte",
+    "category": "PACKAGING",
+    "contact_email": "contact@blackwell.com",
+    "contact_phone": "532-819-0656x258",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000248",
+    "name": "Atkins Inc and Sons",
+    "country": "Kenya",
+    "category": "ADDITIVE",
+    "contact_email": "contact@rivas.biz",
+    "contact_phone": "(590)589-7520",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000249",
+    "name": "Park, Meyer and Vaughan Ltd",
+    "country": "Armenia",
+    "category": "PACKAGING",
+    "contact_email": "contact@terrell.com",
+    "contact_phone": "(388)362-4901x77616",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000250",
+    "name": "Larsen-Barnes Ltd",
+    "country": "Luxembourg",
+    "category": "INGREDIENT",
+    "contact_email": "contact@jackson-bowman.info",
+    "contact_phone": "843-640-0055",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000251",
+    "name": "Martinez LLC PLC",
+    "country": "Saint Helena",
+    "category": "INGREDIENT",
+    "contact_email": "contact@johnson.net",
+    "contact_phone": "424.571.1370",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000252",
+    "name": "Conrad-Greene Group",
+    "country": "Pitcairn Islands",
+    "category": "INGREDIENT",
+    "contact_email": "contact@phillips.com",
+    "contact_phone": "980-581-7564x853",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000253",
+    "name": "Allen-Watkins PLC",
+    "country": "Niue",
+    "category": "PACKAGING",
+    "contact_email": "contact@acosta.com",
+    "contact_phone": "+1-239-335-5774x1283",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000254",
+    "name": "Holder, Watson and Greer Group",
+    "country": "South Georgia and the South Sandwich Islands",
+    "category": "CHEMICAL",
+    "contact_email": "contact@kelly.com",
+    "contact_phone": "655.623.1276x152",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000255",
+    "name": "Harris-English Inc",
+    "country": "New Zealand",
+    "category": "ADDITIVE",
+    "contact_email": "contact@doyle.com",
+    "contact_phone": "546-685-0556x277",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000256",
+    "name": "Dean, Flowers and Castillo Group",
+    "country": "Mexico",
+    "category": "CHEMICAL",
+    "contact_email": "contact@ball.com",
+    "contact_phone": "728.408.5855x9269",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000257",
+    "name": "Ball, Miller and Christensen LLC",
+    "country": "Saint Vincent and the Grenadines",
+    "category": "ADDITIVE",
+    "contact_email": "contact@kelley-richard.org",
+    "contact_phone": "464.493.3554",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000258",
+    "name": "Reid, Hampton and Olsen and Sons",
+    "country": "Malta",
+    "category": "INGREDIENT",
+    "contact_email": "contact@wilcox.com",
+    "contact_phone": "001-214-610-9083x6211",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000259",
+    "name": "Mccormick PLC LLC",
+    "country": "Mali",
+    "category": "INGREDIENT",
+    "contact_email": "contact@grimes.info",
+    "contact_phone": "(762)986-2789x877",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000260",
+    "name": "Hansen, Young and Oneal LLC",
+    "country": "Bahamas",
+    "category": "ADDITIVE",
+    "contact_email": "contact@curtis.com",
+    "contact_phone": "+1-891-268-0910x4459",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000261",
+    "name": "Chapman Group LLC",
+    "country": "Namibia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@larson-ayala.org",
+    "contact_phone": "(230)260-3347x59117",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000262",
+    "name": "Ramsey Group Inc",
+    "country": "Western Sahara",
+    "category": "ADDITIVE",
+    "contact_email": "contact@alvarado.org",
+    "contact_phone": "(909)683-1134x4161",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000263",
+    "name": "Mcgrath, Norris and Gonzales LLC",
+    "country": "Equatorial Guinea",
+    "category": "INGREDIENT",
+    "contact_email": "contact@daniels.info",
+    "contact_phone": "681-608-2950x566",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000264",
+    "name": "Johnson and Sons and Sons",
+    "country": "Saint Barthelemy",
+    "category": "PACKAGING",
+    "contact_email": "contact@chaney-walker.net",
+    "contact_phone": "+1-863-971-9687x79902",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000265",
+    "name": "Wade, Owens and Walsh Group",
+    "country": "Thailand",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@berg.com",
+    "contact_phone": "614.971.7690x398",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000266",
+    "name": "Walker and Sons Inc",
+    "country": "Guatemala",
+    "category": "PACKAGING",
+    "contact_email": "contact@becker.info",
+    "contact_phone": "(201)446-1709x014",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000267",
+    "name": "Stevens, Moran and Scott Inc",
+    "country": "Germany",
+    "category": "ADDITIVE",
+    "contact_email": "contact@brown-johnson.org",
+    "contact_phone": "+1-358-407-9083",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000268",
+    "name": "Moore, Odom and Parker Inc",
+    "country": "Bahrain",
+    "category": "PACKAGING",
+    "contact_email": "contact@valdez.com",
+    "contact_phone": "282-216-7072x144",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000269",
+    "name": "Rodriguez, Sims and Williams Ltd",
+    "country": "Central African Republic",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@jones-bryan.com",
+    "contact_phone": "+1-444-576-6218x916",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000270",
+    "name": "Myers Inc Group",
+    "country": "Argentina",
+    "category": "INGREDIENT",
+    "contact_email": "contact@drake-mcguire.com",
+    "contact_phone": "+1-470-462-9020x66871",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000271",
+    "name": "Walker, Mejia and Harper Ltd",
+    "country": "Netherlands",
+    "category": "CHEMICAL",
+    "contact_email": "contact@fuentes.biz",
+    "contact_phone": "(317)789-2703x6859",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000272",
+    "name": "Griffin-Miller Ltd",
+    "country": "Iceland",
+    "category": "ADDITIVE",
+    "contact_email": "contact@moreno.com",
+    "contact_phone": "001-305-945-4977x65572",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000273",
+    "name": "Foley and Sons LLC",
+    "country": "Norway",
+    "category": "ADDITIVE",
+    "contact_email": "contact@cohen-swanson.com",
+    "contact_phone": "374.970.3826",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000274",
+    "name": "Wright-Larson Inc",
+    "country": "Estonia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@williams.com",
+    "contact_phone": "+1-731-691-7042x81023",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000275",
+    "name": "Ellis-Richardson Inc",
+    "country": "Benin",
+    "category": "INGREDIENT",
+    "contact_email": "contact@carrillo.net",
+    "contact_phone": "(983)478-5190",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000276",
+    "name": "Campbell-Pierce PLC",
+    "country": "Wallis and Futuna",
+    "category": "PACKAGING",
+    "contact_email": "contact@hawkins.com",
+    "contact_phone": "4958971476",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000277",
+    "name": "Melton Ltd Ltd",
+    "country": "Azerbaijan",
+    "category": "CHEMICAL",
+    "contact_email": "contact@walton.com",
+    "contact_phone": "(715)850-1132x5291",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000278",
+    "name": "Harrington-Richardson LLC",
+    "country": "Guam",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@melendez.com",
+    "contact_phone": "9013540879",
+    "is_active": true,
+    "reliability_score": 0.97
+  },
+  {
+    "supplier_id": "SUP-000279",
+    "name": "Ball, Lynch and Taylor Ltd",
+    "country": "Denmark",
+    "category": "INGREDIENT",
+    "contact_email": "contact@farrell-palmer.biz",
+    "contact_phone": "(876)263-5386x19504",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000280",
+    "name": "Ortega-Lopez Group",
+    "country": "Cote d'Ivoire",
+    "category": "INGREDIENT",
+    "contact_email": "contact@chandler-pearson.com",
+    "contact_phone": "910.457.8852x47013",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000281",
+    "name": "Fowler-Williams Inc",
+    "country": "Uruguay",
+    "category": "PACKAGING",
+    "contact_email": "contact@diaz.info",
+    "contact_phone": "602.220.1855x0780",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000282",
+    "name": "Doyle-Turner Inc",
+    "country": "Kyrgyz Republic",
+    "category": "ADDITIVE",
+    "contact_email": "contact@riley.com",
+    "contact_phone": "(856)678-7735",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000283",
+    "name": "Jones-Smith LLC",
+    "country": "Croatia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@bennett-king.org",
+    "contact_phone": "001-840-295-0666x3644",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000284",
+    "name": "Crawford-Cisneros Ltd",
+    "country": "Congo",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@rivera-hawkins.com",
+    "contact_phone": "+1-296-758-5289x32114",
+    "is_active": false,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000285",
+    "name": "Stark-Stone Group",
+    "country": "Uzbekistan",
+    "category": "ADDITIVE",
+    "contact_email": "contact@hooper.com",
+    "contact_phone": "207-428-2625x206",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000286",
+    "name": "Aguilar, Ramos and Stevenson Group",
+    "country": "Anguilla",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@wade-griffith.com",
+    "contact_phone": "710.542.5578",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000287",
+    "name": "Butler-Winters Inc",
+    "country": "Jordan",
+    "category": "ADDITIVE",
+    "contact_email": "contact@brown.net",
+    "contact_phone": "3159599488",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000288",
+    "name": "Gregory, Frye and Hamilton LLC",
+    "country": "Cuba",
+    "category": "PACKAGING",
+    "contact_email": "contact@butler.biz",
+    "contact_phone": "001-737-973-5627x7304",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000289",
+    "name": "Webb and Sons Inc",
+    "country": "Romania",
+    "category": "INGREDIENT",
+    "contact_email": "contact@thomas-hawkins.com",
+    "contact_phone": "+1-860-755-7275x8877",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000290",
+    "name": "White Ltd Group",
+    "country": "Malaysia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@bush.com",
+    "contact_phone": "(274)238-5177",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000291",
+    "name": "Martin PLC Group",
+    "country": "Cameroon",
+    "category": "CHEMICAL",
+    "contact_email": "contact@wilson.com",
+    "contact_phone": "558-274-6441x9073",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000292",
+    "name": "Carter-Lyons Inc",
+    "country": "Turkey",
+    "category": "ADDITIVE",
+    "contact_email": "contact@burns-wade.com",
+    "contact_phone": "+1-896-957-6312x6594",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000293",
+    "name": "Wilson-Jones Group",
+    "country": "Holy See (Vatican City State)",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@whitaker.com",
+    "contact_phone": "(248)590-3495",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000294",
+    "name": "Oconnor, Mcneil and Freeman Ltd",
+    "country": "Montserrat",
+    "category": "PACKAGING",
+    "contact_email": "contact@brown-white.biz",
+    "contact_phone": "422.244.4959",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000295",
+    "name": "Owens-Williams Ltd",
+    "country": "Saint Lucia",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@lopez.com",
+    "contact_phone": "662-560-1130x177",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000296",
+    "name": "Fleming, Kerr and Obrien PLC",
+    "country": "Monaco",
+    "category": "INGREDIENT",
+    "contact_email": "contact@rice-mitchell.com",
+    "contact_phone": "383.399.8779",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000297",
+    "name": "Hale, Knox and Richardson PLC",
+    "country": "Holy See (Vatican City State)",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@haynes.com",
+    "contact_phone": "297-566-0797x409",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000298",
+    "name": "Moore Ltd PLC",
+    "country": "Eritrea",
+    "category": "ADDITIVE",
+    "contact_email": "contact@riddle-smith.com",
+    "contact_phone": "001-805-435-9009x89618",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000299",
+    "name": "Morrow, Vasquez and Alexander Inc",
+    "country": "Madagascar",
+    "category": "ADDITIVE",
+    "contact_email": "contact@esparza.com",
+    "contact_phone": "001-843-520-3959",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000300",
+    "name": "Rogers, Welch and Webb Group",
+    "country": "Falkland Islands (Malvinas)",
+    "category": "INGREDIENT",
+    "contact_email": "contact@mcclain.com",
+    "contact_phone": "846.654.3542",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000301",
+    "name": "Robinson-Tucker Inc",
+    "country": "Jersey",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@pitts-riley.org",
+    "contact_phone": "930-578-5377x2307",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000302",
+    "name": "Morgan, Thompson and Kelly PLC",
+    "country": "Canada",
+    "category": "ADDITIVE",
+    "contact_email": "contact@vasquez.info",
+    "contact_phone": "959-366-8955x953",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000303",
+    "name": "Gibson LLC LLC",
+    "country": "Liechtenstein",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@casey-martinez.com",
+    "contact_phone": "(841)921-2860x329",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000304",
+    "name": "Juarez PLC Ltd",
+    "country": "Saint Lucia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@peters.com",
+    "contact_phone": "2512460619",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000305",
+    "name": "Webb Ltd Ltd",
+    "country": "Honduras",
+    "category": "CHEMICAL",
+    "contact_email": "contact@smith.com",
+    "contact_phone": "+1-660-250-1225",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000306",
+    "name": "Anderson-Payne PLC",
+    "country": "India",
+    "category": "PACKAGING",
+    "contact_email": "contact@thompson.com",
+    "contact_phone": "3617407255",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000307",
+    "name": "Kelly Ltd LLC",
+    "country": "Timor-Leste",
+    "category": "PACKAGING",
+    "contact_email": "contact@mendoza.biz",
+    "contact_phone": "001-917-607-2451x3435",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000308",
+    "name": "Smith Ltd Ltd",
+    "country": "Armenia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@norris-pace.biz",
+    "contact_phone": "(821)237-8746x931",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000309",
+    "name": "Blackburn PLC and Sons",
+    "country": "Armenia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@carey-simmons.com",
+    "contact_phone": "628-551-1299x35700",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000310",
+    "name": "Martinez Group Inc",
+    "country": "Lao People's Democratic Republic",
+    "category": "ADDITIVE",
+    "contact_email": "contact@camacho.biz",
+    "contact_phone": "001-760-918-6652x814",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000311",
+    "name": "Baker-Brown PLC",
+    "country": "Czech Republic",
+    "category": "PACKAGING",
+    "contact_email": "contact@henry-blake.com",
+    "contact_phone": "+1-316-345-7670x636",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000312",
+    "name": "Klein LLC Inc",
+    "country": "South Georgia and the South Sandwich Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@jimenez.com",
+    "contact_phone": "+1-436-585-5051x885",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000313",
+    "name": "Bishop, Hinton and Cole LLC",
+    "country": "Macao",
+    "category": "CHEMICAL",
+    "contact_email": "contact@price.biz",
+    "contact_phone": "(626)427-3096x882",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000314",
+    "name": "Dean, Jordan and Carlson and Sons",
+    "country": "Latvia",
+    "category": "PACKAGING",
+    "contact_email": "contact@wood.com",
+    "contact_phone": "001-947-382-2252x707",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000315",
+    "name": "Mays, Lopez and Greene and Sons",
+    "country": "Iraq",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@roberts.org",
+    "contact_phone": "+1-900-210-7136x6458",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000316",
+    "name": "Hernandez PLC LLC",
+    "country": "Egypt",
+    "category": "INGREDIENT",
+    "contact_email": "contact@wallace.org",
+    "contact_phone": "001-982-293-5728",
+    "is_active": false,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000317",
+    "name": "Johnson Ltd and Sons",
+    "country": "Switzerland",
+    "category": "PACKAGING",
+    "contact_email": "contact@henson.net",
+    "contact_phone": "001-773-863-2229",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000318",
+    "name": "Kelly Group Ltd",
+    "country": "Cote d'Ivoire",
+    "category": "CHEMICAL",
+    "contact_email": "contact@norris-gonzalez.net",
+    "contact_phone": "503-615-1899x70115",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000319",
+    "name": "Grant-Villarreal and Sons",
+    "country": "French Southern Territories",
+    "category": "ADDITIVE",
+    "contact_email": "contact@deleon.biz",
+    "contact_phone": "(455)862-4825x66530",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000320",
+    "name": "Esparza Ltd PLC",
+    "country": "Spain",
+    "category": "PACKAGING",
+    "contact_email": "contact@harrison.com",
+    "contact_phone": "918-411-3737x4167",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000321",
+    "name": "Stark, Davis and Evans and Sons",
+    "country": "Antarctica (the territory South of 60 deg S)",
+    "category": "INGREDIENT",
+    "contact_email": "contact@collier.org",
+    "contact_phone": "+1-966-611-8803x759",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000322",
+    "name": "Kim LLC PLC",
+    "country": "Congo",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@white.com",
+    "contact_phone": "722-802-6497x9355",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000323",
+    "name": "Johns, Long and Brooks LLC",
+    "country": "Thailand",
+    "category": "CHEMICAL",
+    "contact_email": "contact@vargas.info",
+    "contact_phone": "4822499089",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000324",
+    "name": "Smith and Sons PLC",
+    "country": "Malawi",
+    "category": "PACKAGING",
+    "contact_email": "contact@moreno-trujillo.com",
+    "contact_phone": "620-286-9015",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000325",
+    "name": "Carter Group Ltd",
+    "country": "Guyana",
+    "category": "PACKAGING",
+    "contact_email": "contact@hubbard-anderson.com",
+    "contact_phone": "447-642-0040",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000326",
+    "name": "Ford, Brennan and Scott Group",
+    "country": "Tunisia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@riley.com",
+    "contact_phone": "+1-435-510-1649x097",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000327",
+    "name": "Freeman-Perkins Ltd",
+    "country": "Uruguay",
+    "category": "PACKAGING",
+    "contact_email": "contact@bryant.com",
+    "contact_phone": "723.712.8618",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000328",
+    "name": "Stevens PLC Inc",
+    "country": "Marshall Islands",
+    "category": "CHEMICAL",
+    "contact_email": "contact@simmons.com",
+    "contact_phone": "6664812836",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000329",
+    "name": "Bowers-Aguilar Group",
+    "country": "Greenland",
+    "category": "ADDITIVE",
+    "contact_email": "contact@matthews.biz",
+    "contact_phone": "+1-271-539-9554x898",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000330",
+    "name": "Evans-Bell PLC",
+    "country": "Ecuador",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@orr-wilson.com",
+    "contact_phone": "917.215.3855",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000331",
+    "name": "Jones, Dorsey and Reid Ltd",
+    "country": "Wallis and Futuna",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@duncan.org",
+    "contact_phone": "+1-830-982-6453",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000332",
+    "name": "Acosta, Rivera and Walker Inc",
+    "country": "Falkland Islands (Malvinas)",
+    "category": "ADDITIVE",
+    "contact_email": "contact@roberts-malone.org",
+    "contact_phone": "406.983.6554",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000333",
+    "name": "Doyle-Hensley Ltd",
+    "country": "Brazil",
+    "category": "PACKAGING",
+    "contact_email": "contact@novak.com",
+    "contact_phone": "487-602-7999x86338",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000334",
+    "name": "Thomas-Lee PLC",
+    "country": "Singapore",
+    "category": "PACKAGING",
+    "contact_email": "contact@beck.biz",
+    "contact_phone": "462-604-2957",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000335",
+    "name": "Harrison Group PLC",
+    "country": "Palestinian Territory",
+    "category": "PACKAGING",
+    "contact_email": "contact@howard.com",
+    "contact_phone": "001-380-978-7739x377",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000336",
+    "name": "Mason, Reilly and Castillo and Sons",
+    "country": "Madagascar",
+    "category": "CHEMICAL",
+    "contact_email": "contact@berry-alvarez.info",
+    "contact_phone": "001-861-282-8230x90003",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000337",
+    "name": "Graham, Yang and Silva Ltd",
+    "country": "Armenia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@wang.com",
+    "contact_phone": "001-221-906-3600x0476",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000338",
+    "name": "Wright, Lee and Jennings Group",
+    "country": "Burundi",
+    "category": "ADDITIVE",
+    "contact_email": "contact@adams-harris.net",
+    "contact_phone": "780-488-7215x84995",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000339",
+    "name": "Daniels Inc and Sons",
+    "country": "Swaziland",
+    "category": "INGREDIENT",
+    "contact_email": "contact@melendez.com",
+    "contact_phone": "560.926.2727x366",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000340",
+    "name": "Bell, Cervantes and Graves Ltd",
+    "country": "Sweden",
+    "category": "INGREDIENT",
+    "contact_email": "contact@doyle.com",
+    "contact_phone": "+1-739-410-7883x82749",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000341",
+    "name": "Gonzalez and Sons PLC",
+    "country": "Gibraltar",
+    "category": "PACKAGING",
+    "contact_email": "contact@perez.com",
+    "contact_phone": "681-933-7382x48022",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000342",
+    "name": "Maldonado, Price and Gould Group",
+    "country": "Benin",
+    "category": "CHEMICAL",
+    "contact_email": "contact@riley-mack.com",
+    "contact_phone": "469-487-3651",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000343",
+    "name": "Nichols-Maynard Group",
+    "country": "Aruba",
+    "category": "CHEMICAL",
+    "contact_email": "contact@hoffman.com",
+    "contact_phone": "302-560-9934x666",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000344",
+    "name": "Jones, Taylor and Patterson Inc",
+    "country": "Guinea-Bissau",
+    "category": "INGREDIENT",
+    "contact_email": "contact@alexander-thomas.com",
+    "contact_phone": "(334)481-4500",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000345",
+    "name": "Duran-Mooney PLC",
+    "country": "Canada",
+    "category": "CHEMICAL",
+    "contact_email": "contact@perez.com",
+    "contact_phone": "422-989-0508x2527",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000346",
+    "name": "Santos LLC Inc",
+    "country": "Cote d'Ivoire",
+    "category": "INGREDIENT",
+    "contact_email": "contact@reed-mckinney.com",
+    "contact_phone": "6708486142",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000347",
+    "name": "Morales LLC PLC",
+    "country": "Azerbaijan",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@bennett-rodriguez.com",
+    "contact_phone": "2416764902",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000348",
+    "name": "Williams-Hopkins Ltd",
+    "country": "Grenada",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@richardson-lewis.com",
+    "contact_phone": "5416844247",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000349",
+    "name": "Flores-Brown Ltd",
+    "country": "Brunei Darussalam",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@carter.com",
+    "contact_phone": "466-942-5355",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000350",
+    "name": "Morgan, Burgess and Hale Inc",
+    "country": "Argentina",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@vaughn.com",
+    "contact_phone": "462.394.7336x56303",
+    "is_active": true,
+    "reliability_score": 0.97
+  },
+  {
+    "supplier_id": "SUP-000351",
+    "name": "Wright, Coleman and Thomas LLC",
+    "country": "Lithuania",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@davis-garcia.biz",
+    "contact_phone": "(502)909-1736x07240",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000352",
+    "name": "Duncan-Brown PLC",
+    "country": "Andorra",
+    "category": "PACKAGING",
+    "contact_email": "contact@howard.com",
+    "contact_phone": "557-902-1022",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000353",
+    "name": "Morales-Rowe PLC",
+    "country": "Belize",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@farmer.com",
+    "contact_phone": "+1-329-591-2021x40305",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000354",
+    "name": "Thomas Ltd and Sons",
+    "country": "Sao Tome and Principe",
+    "category": "INGREDIENT",
+    "contact_email": "contact@lee-hanson.info",
+    "contact_phone": "992-391-7575x71997",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000355",
+    "name": "Nguyen-Miller PLC",
+    "country": "Uzbekistan",
+    "category": "ADDITIVE",
+    "contact_email": "contact@myers.net",
+    "contact_phone": "250-555-5816",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000356",
+    "name": "Coffey-Young Group",
+    "country": "Canada",
+    "category": "PACKAGING",
+    "contact_email": "contact@rush.com",
+    "contact_phone": "(698)650-7179x11905",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000357",
+    "name": "Branch Ltd and Sons",
+    "country": "Sudan",
+    "category": "PACKAGING",
+    "contact_email": "contact@kim-allen.com",
+    "contact_phone": "385-732-9700x9217",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000358",
+    "name": "Garrett, Hall and Clarke LLC",
+    "country": "Paraguay",
+    "category": "CHEMICAL",
+    "contact_email": "contact@miller-carlson.info",
+    "contact_phone": "001-819-872-9840x960",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000359",
+    "name": "Freeman, Sanders and Wolf PLC",
+    "country": "Malaysia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@rogers-vaughn.net",
+    "contact_phone": "995.995.2426x7476",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000360",
+    "name": "Contreras Inc PLC",
+    "country": "Vietnam",
+    "category": "ADDITIVE",
+    "contact_email": "contact@walsh.com",
+    "contact_phone": "+1-751-957-1627x37048",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000361",
+    "name": "Clark-Fletcher PLC",
+    "country": "Dominica",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@keller.com",
+    "contact_phone": "746-267-3746",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000362",
+    "name": "Johnson LLC Inc",
+    "country": "Congo",
+    "category": "PACKAGING",
+    "contact_email": "contact@white-brooks.org",
+    "contact_phone": "(768)830-0679x830",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000363",
+    "name": "Knox, Brown and Silva Ltd",
+    "country": "Antarctica (the territory South of 60 deg S)",
+    "category": "CHEMICAL",
+    "contact_email": "contact@robinson-diaz.com",
+    "contact_phone": "001-254-597-5443x7274",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000364",
+    "name": "Bell-Kelly Ltd",
+    "country": "Montenegro",
+    "category": "CHEMICAL",
+    "contact_email": "contact@solomon.info",
+    "contact_phone": "508-429-6695x001",
+    "is_active": false,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000365",
+    "name": "Blackburn Inc Group",
+    "country": "Israel",
+    "category": "INGREDIENT",
+    "contact_email": "contact@jacobs-robertson.com",
+    "contact_phone": "+1-930-681-6665x2287",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000366",
+    "name": "Wolfe, Cain and Becker LLC",
+    "country": "Iran",
+    "category": "PACKAGING",
+    "contact_email": "contact@davis.com",
+    "contact_phone": "427-230-6027x0411",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000367",
+    "name": "Perez and Sons Ltd",
+    "country": "Jersey",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@nelson-garcia.biz",
+    "contact_phone": "549-931-7227x4505",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000368",
+    "name": "Moore-Bailey Ltd",
+    "country": "Micronesia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@oliver.com",
+    "contact_phone": "4726759622",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000369",
+    "name": "Mccormick, Stephens and Reid Ltd",
+    "country": "Afghanistan",
+    "category": "PACKAGING",
+    "contact_email": "contact@stout.com",
+    "contact_phone": "(819)389-7998",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000370",
+    "name": "Hernandez PLC Group",
+    "country": "Aruba",
+    "category": "PACKAGING",
+    "contact_email": "contact@bass.com",
+    "contact_phone": "542-325-1135x70592",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000371",
+    "name": "Cunningham-Fleming and Sons",
+    "country": "Argentina",
+    "category": "INGREDIENT",
+    "contact_email": "contact@taylor-garcia.info",
+    "contact_phone": "980.730.4407x7495",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000372",
+    "name": "Lee Ltd and Sons",
+    "country": "Austria",
+    "category": "CHEMICAL",
+    "contact_email": "contact@ashley-webb.org",
+    "contact_phone": "+1-432-630-3893x981",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000373",
+    "name": "Sanders-Brown Ltd",
+    "country": "Turkmenistan",
+    "category": "INGREDIENT",
+    "contact_email": "contact@hahn.com",
+    "contact_phone": "500-470-5809x3467",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000374",
+    "name": "Barnett, Dunn and Carson Ltd",
+    "country": "Northern Mariana Islands",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@nolan.com",
+    "contact_phone": "783-564-7454",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000375",
+    "name": "Bennett Inc LLC",
+    "country": "Djibouti",
+    "category": "ADDITIVE",
+    "contact_email": "contact@thompson.net",
+    "contact_phone": "001-942-627-3705x56895",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000376",
+    "name": "Miller, Taylor and Turner Inc",
+    "country": "Comoros",
+    "category": "CHEMICAL",
+    "contact_email": "contact@russell.biz",
+    "contact_phone": "838-981-3344",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000377",
+    "name": "Buckley Ltd Ltd",
+    "country": "Azerbaijan",
+    "category": "PACKAGING",
+    "contact_email": "contact@robles-hall.org",
+    "contact_phone": "9718005519",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000378",
+    "name": "Holland, Weber and Davis Group",
+    "country": "Chile",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@evans-phillips.com",
+    "contact_phone": "(889)528-8514x06802",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000379",
+    "name": "Vega, Underwood and Campbell and Sons",
+    "country": "Zambia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@williams-marshall.com",
+    "contact_phone": "777-376-1743x79663",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000380",
+    "name": "Murray-Smith Ltd",
+    "country": "Kazakhstan",
+    "category": "ADDITIVE",
+    "contact_email": "contact@conley.com",
+    "contact_phone": "001-593-595-0831x67438",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000381",
+    "name": "Johnson LLC Ltd",
+    "country": "Cuba",
+    "category": "CHEMICAL",
+    "contact_email": "contact@guerrero.com",
+    "contact_phone": "+1-342-388-9474x73346",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000382",
+    "name": "Arnold-Nunez Group",
+    "country": "Japan",
+    "category": "CHEMICAL",
+    "contact_email": "contact@carroll-powell.org",
+    "contact_phone": "(466)282-4785x43841",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000383",
+    "name": "Stephens-Clark Group",
+    "country": "Anguilla",
+    "category": "PACKAGING",
+    "contact_email": "contact@brady-glenn.com",
+    "contact_phone": "(991)707-3783",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000384",
+    "name": "Anderson Ltd Inc",
+    "country": "Mayotte",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@ryan.com",
+    "contact_phone": "001-550-928-3558x110",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000385",
+    "name": "Alexander-Sanchez Ltd",
+    "country": "Lebanon",
+    "category": "INGREDIENT",
+    "contact_email": "contact@kramer.info",
+    "contact_phone": "+1-569-529-0099",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000386",
+    "name": "Walker PLC Ltd",
+    "country": "Nigeria",
+    "category": "ADDITIVE",
+    "contact_email": "contact@miller.com",
+    "contact_phone": "731.225.3225",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000387",
+    "name": "Smith-Hampton and Sons",
+    "country": "Belize",
+    "category": "ADDITIVE",
+    "contact_email": "contact@bowman-lynch.net",
+    "contact_phone": "769-642-5872x8840",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000388",
+    "name": "Vargas, Gonzales and Anderson Ltd",
+    "country": "Saint Barthelemy",
+    "category": "CHEMICAL",
+    "contact_email": "contact@wilson.com",
+    "contact_phone": "(265)847-3546x756",
+    "is_active": true,
+    "reliability_score": 0.97
+  },
+  {
+    "supplier_id": "SUP-000389",
+    "name": "White, Anderson and Thomas and Sons",
+    "country": "Croatia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@valencia.com",
+    "contact_phone": "300-895-3672x556",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000390",
+    "name": "Young-Smith Group",
+    "country": "Saint Barthelemy",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@davis.com",
+    "contact_phone": "706.267.2847x32328",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000391",
+    "name": "Young-Cooper LLC",
+    "country": "Italy",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@johnson-clements.com",
+    "contact_phone": "(208)453-2212",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000392",
+    "name": "Sutton-Brooks Inc",
+    "country": "Saint Barthelemy",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@mckenzie-martinez.com",
+    "contact_phone": "582.446.6730x621",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000393",
+    "name": "Morgan-Thomas Ltd",
+    "country": "Gambia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@watson.com",
+    "contact_phone": "+1-682-691-2252x49732",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000394",
+    "name": "Adams, Moreno and Reynolds Inc",
+    "country": "British Indian Ocean Territory (Chagos Archipelago)",
+    "category": "PACKAGING",
+    "contact_email": "contact@robinson.com",
+    "contact_phone": "(259)447-5815x74170",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000395",
+    "name": "Blanchard, Scott and Greene LLC",
+    "country": "Montenegro",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@cross.com",
+    "contact_phone": "(549)437-0712",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000396",
+    "name": "Howell-Gonzalez LLC",
+    "country": "Nepal",
+    "category": "PACKAGING",
+    "contact_email": "contact@suarez.com",
+    "contact_phone": "001-548-563-4259x517",
+    "is_active": true,
+    "reliability_score": 0.97
+  },
+  {
+    "supplier_id": "SUP-000397",
+    "name": "Bowman-Hernandez LLC",
+    "country": "Germany",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@cook.info",
+    "contact_phone": "(923)455-1262x172",
+    "is_active": false,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000398",
+    "name": "Powers-White Group",
+    "country": "Germany",
+    "category": "ADDITIVE",
+    "contact_email": "contact@hampton.net",
+    "contact_phone": "001-902-513-4505",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000399",
+    "name": "Arellano PLC LLC",
+    "country": "Cayman Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@russo.com",
+    "contact_phone": "887-914-5673",
+    "is_active": true,
+    "reliability_score": 0.97
+  },
+  {
+    "supplier_id": "SUP-000400",
+    "name": "Reyes PLC Ltd",
+    "country": "United States Virgin Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@holland.biz",
+    "contact_phone": "618.958.1563x37074",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000401",
+    "name": "Wong-Gomez Group",
+    "country": "Cape Verde",
+    "category": "PACKAGING",
+    "contact_email": "contact@moore.net",
+    "contact_phone": "589.435.2703",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000402",
+    "name": "Miller-Joyce PLC",
+    "country": "Guinea-Bissau",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@williamson-vazquez.info",
+    "contact_phone": "(442)361-3438x12876",
+    "is_active": true,
+    "reliability_score": 0.76
+  },
+  {
+    "supplier_id": "SUP-000403",
+    "name": "Brown LLC PLC",
+    "country": "Nepal",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@conner-lane.com",
+    "contact_phone": "+1-522-629-4385x94739",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000404",
+    "name": "Kennedy-Lawrence Inc",
+    "country": "Tanzania",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@estrada.com",
+    "contact_phone": "918.970.9195",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000405",
+    "name": "Holden Inc LLC",
+    "country": "Bangladesh",
+    "category": "ADDITIVE",
+    "contact_email": "contact@walton.com",
+    "contact_phone": "(664)770-0855",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000406",
+    "name": "Smith-Jimenez Inc",
+    "country": "Solomon Islands",
+    "category": "PACKAGING",
+    "contact_email": "contact@ross-santiago.org",
+    "contact_phone": "239-202-6222x02769",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000407",
+    "name": "Hall, Hamilton and Steele LLC",
+    "country": "Benin",
+    "category": "PACKAGING",
+    "contact_email": "contact@king.com",
+    "contact_phone": "523-931-1439",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000408",
+    "name": "Navarro, Silva and Dunlap PLC",
+    "country": "Saint Barthelemy",
+    "category": "ADDITIVE",
+    "contact_email": "contact@mora.com",
+    "contact_phone": "479-665-3620x4508",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000409",
+    "name": "Bean, Montgomery and Nguyen LLC",
+    "country": "Guatemala",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@allison-montes.biz",
+    "contact_phone": "(853)794-5061",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000410",
+    "name": "Hatfield-Estrada LLC",
+    "country": "South Georgia and the South Sandwich Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@martinez.com",
+    "contact_phone": "435.948.9395",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000411",
+    "name": "Kramer-Richardson Ltd",
+    "country": "San Marino",
+    "category": "ADDITIVE",
+    "contact_email": "contact@robinson-boyd.com",
+    "contact_phone": "(377)405-9725x430",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000412",
+    "name": "Stevens, Robinson and Henry Group",
+    "country": "Jamaica",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@crane-barnes.com",
+    "contact_phone": "001-897-460-0779x804",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000413",
+    "name": "Stein Ltd LLC",
+    "country": "Guinea-Bissau",
+    "category": "PACKAGING",
+    "contact_email": "contact@aguilar.biz",
+    "contact_phone": "(547)934-8555x055",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000414",
+    "name": "Drake, Washington and Mcmahon LLC",
+    "country": "Singapore",
+    "category": "ADDITIVE",
+    "contact_email": "contact@nelson.com",
+    "contact_phone": "(890)481-7629x9096",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000415",
+    "name": "Kemp-Murphy PLC",
+    "country": "Equatorial Guinea",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@murillo.com",
+    "contact_phone": "(858)643-4771",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000416",
+    "name": "Morales-Scott PLC",
+    "country": "Qatar",
+    "category": "PACKAGING",
+    "contact_email": "contact@hobbs.com",
+    "contact_phone": "(653)463-5951",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000417",
+    "name": "Green Inc and Sons",
+    "country": "Guinea-Bissau",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@cooper-jimenez.com",
+    "contact_phone": "+1-518-871-9082x69545",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000418",
+    "name": "Case, Murillo and Potter LLC",
+    "country": "French Guiana",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@duncan-quinn.com",
+    "contact_phone": "304.369.2114",
+    "is_active": true,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000419",
+    "name": "Thompson-Ball PLC",
+    "country": "Central African Republic",
+    "category": "CHEMICAL",
+    "contact_email": "contact@simmons-stuart.net",
+    "contact_phone": "(817)655-4011x9440",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000420",
+    "name": "Odom, Owens and Miller Inc",
+    "country": "Mali",
+    "category": "PACKAGING",
+    "contact_email": "contact@johnston-dickerson.info",
+    "contact_phone": "(259)265-7668",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000421",
+    "name": "Smith, Bradley and Morgan Ltd",
+    "country": "Bouvet Island (Bouvetoya)",
+    "category": "INGREDIENT",
+    "contact_email": "contact@jacobs-jenkins.com",
+    "contact_phone": "(763)262-5812x2198",
+    "is_active": true,
+    "reliability_score": 0.89
+  },
+  {
+    "supplier_id": "SUP-000422",
+    "name": "Hunt, Bruce and Wang PLC",
+    "country": "Angola",
+    "category": "ADDITIVE",
+    "contact_email": "contact@rodriguez.info",
+    "contact_phone": "+1-336-541-4600x156",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000423",
+    "name": "Miller-Roman Group",
+    "country": "Dominican Republic",
+    "category": "CHEMICAL",
+    "contact_email": "contact@leon.com",
+    "contact_phone": "574-279-5021x2409",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000424",
+    "name": "Howe-Taylor Inc",
+    "country": "Chad",
+    "category": "INGREDIENT",
+    "contact_email": "contact@sullivan.info",
+    "contact_phone": "(735)650-2678x1445",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000425",
+    "name": "Hernandez Ltd and Sons",
+    "country": "French Guiana",
+    "category": "INGREDIENT",
+    "contact_email": "contact@wong.com",
+    "contact_phone": "591-503-1058x8332",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000426",
+    "name": "Fisher PLC Ltd",
+    "country": "Denmark",
+    "category": "CHEMICAL",
+    "contact_email": "contact@arellano.info",
+    "contact_phone": "494.216.5364x347",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000427",
+    "name": "Smith, Davis and Johnson and Sons",
+    "country": "Vietnam",
+    "category": "CHEMICAL",
+    "contact_email": "contact@wood-wilson.com",
+    "contact_phone": "(704)244-2484x920",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000428",
+    "name": "Taylor Ltd PLC",
+    "country": "Uruguay",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@gomez-jackson.com",
+    "contact_phone": "+1-289-239-6742x641",
+    "is_active": true,
+    "reliability_score": 0.95
+  },
+  {
+    "supplier_id": "SUP-000429",
+    "name": "Ballard Group Ltd",
+    "country": "Zambia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@mendoza.net",
+    "contact_phone": "542.655.6729x6251",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000430",
+    "name": "Bray-Wells LLC",
+    "country": "El Salvador",
+    "category": "ADDITIVE",
+    "contact_email": "contact@lee.com",
+    "contact_phone": "903.698.2396x3243",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000431",
+    "name": "Brown-Smith PLC",
+    "country": "Estonia",
+    "category": "INGREDIENT",
+    "contact_email": "contact@brown-crawford.com",
+    "contact_phone": "869-555-2531",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000432",
+    "name": "Simmons, Patel and Baker Ltd",
+    "country": "Zambia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@jackson-morris.com",
+    "contact_phone": "923-393-3409x88317",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000433",
+    "name": "Kaiser-Bishop LLC",
+    "country": "British Indian Ocean Territory (Chagos Archipelago)",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@smith-franklin.com",
+    "contact_phone": "(534)673-1193x654",
+    "is_active": false,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000434",
+    "name": "Blevins Inc Group",
+    "country": "Eritrea",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@haney.biz",
+    "contact_phone": "(765)381-4035",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000435",
+    "name": "Hammond and Sons and Sons",
+    "country": "Lesotho",
+    "category": "CHEMICAL",
+    "contact_email": "contact@cummings.com",
+    "contact_phone": "(665)392-2694",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000436",
+    "name": "Lopez-Parker Ltd",
+    "country": "Cape Verde",
+    "category": "CHEMICAL",
+    "contact_email": "contact@james.org",
+    "contact_phone": "(788)549-7140",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000437",
+    "name": "Smith, Schmidt and Yang Ltd",
+    "country": "Gibraltar",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@pena.com",
+    "contact_phone": "4313213695",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000438",
+    "name": "Cole, Patton and Robbins and Sons",
+    "country": "Somalia",
+    "category": "CHEMICAL",
+    "contact_email": "contact@barnes-townsend.com",
+    "contact_phone": "963.573.4092x817",
+    "is_active": false,
+    "reliability_score": 0.72
+  },
+  {
+    "supplier_id": "SUP-000439",
+    "name": "Allen Ltd Inc",
+    "country": "Congo",
+    "category": "PACKAGING",
+    "contact_email": "contact@smith.com",
+    "contact_phone": "+1-338-479-2533x2293",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000440",
+    "name": "Castro, Johnson and Burke Ltd",
+    "country": "Luxembourg",
+    "category": "PACKAGING",
+    "contact_email": "contact@boyer.com",
+    "contact_phone": "(422)764-5177x536",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000441",
+    "name": "Powers-Johnson PLC",
+    "country": "Tunisia",
+    "category": "PACKAGING",
+    "contact_email": "contact@lee.net",
+    "contact_phone": "831.878.3255x308",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000442",
+    "name": "Klein, Waller and Reed LLC",
+    "country": "Greece",
+    "category": "ADDITIVE",
+    "contact_email": "contact@hancock.info",
+    "contact_phone": "897.898.2349x3809",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000443",
+    "name": "Cruz Inc and Sons",
+    "country": "Guinea-Bissau",
+    "category": "INGREDIENT",
+    "contact_email": "contact@hubbard-flowers.net",
+    "contact_phone": "001-399-763-6376x7717",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000444",
+    "name": "Phillips-Bell PLC",
+    "country": "Kyrgyz Republic",
+    "category": "PACKAGING",
+    "contact_email": "contact@davis-nicholson.com",
+    "contact_phone": "(835)748-3287x4098",
+    "is_active": true,
+    "reliability_score": 0.81
+  },
+  {
+    "supplier_id": "SUP-000445",
+    "name": "Johnson, James and Keller LLC",
+    "country": "Israel",
+    "category": "PACKAGING",
+    "contact_email": "contact@goodman.biz",
+    "contact_phone": "001-711-219-4854",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000446",
+    "name": "Martinez Inc PLC",
+    "country": "Liechtenstein",
+    "category": "INGREDIENT",
+    "contact_email": "contact@campbell.com",
+    "contact_phone": "001-477-628-8107x4396",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000447",
+    "name": "Young-Smith Inc",
+    "country": "Libyan Arab Jamahiriya",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@walls.com",
+    "contact_phone": "3415952356",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000448",
+    "name": "Lindsey, Zimmerman and Smith Group",
+    "country": "Argentina",
+    "category": "CHEMICAL",
+    "contact_email": "contact@carter.net",
+    "contact_phone": "(339)712-8256x7818",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000449",
+    "name": "Brandt Inc Inc",
+    "country": "Mongolia",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@bowers-blackwell.biz",
+    "contact_phone": "+1-680-368-0752x83944",
+    "is_active": true,
+    "reliability_score": 0.77
+  },
+  {
+    "supplier_id": "SUP-000450",
+    "name": "Jones-Moore LLC",
+    "country": "Yemen",
+    "category": "PACKAGING",
+    "contact_email": "contact@brown-cobb.biz",
+    "contact_phone": "673-784-8601",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000451",
+    "name": "Sampson, Bryant and Lambert Ltd",
+    "country": "Madagascar",
+    "category": "CHEMICAL",
+    "contact_email": "contact@mayer-peters.biz",
+    "contact_phone": "6012459868",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000452",
+    "name": "Olson Inc Group",
+    "country": "Dominican Republic",
+    "category": "ADDITIVE",
+    "contact_email": "contact@allen.com",
+    "contact_phone": "001-909-691-7717x711",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000453",
+    "name": "Black-Herrera Group",
+    "country": "Guyana",
+    "category": "PACKAGING",
+    "contact_email": "contact@holloway-peters.net",
+    "contact_phone": "531-411-1317x70066",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000454",
+    "name": "Huber-Glass and Sons",
+    "country": "Vanuatu",
+    "category": "INGREDIENT",
+    "contact_email": "contact@robinson-barron.com",
+    "contact_phone": "251.669.9652x24741",
+    "is_active": true,
+    "reliability_score": 0.83
+  },
+  {
+    "supplier_id": "SUP-000455",
+    "name": "Jackson, Maynard and Barajas and Sons",
+    "country": "Wallis and Futuna",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@snyder-miller.info",
+    "contact_phone": "(696)467-2316x77608",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000456",
+    "name": "May LLC LLC",
+    "country": "Norway",
+    "category": "CHEMICAL",
+    "contact_email": "contact@gonzalez.com",
+    "contact_phone": "429.313.5446x1197",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000457",
+    "name": "Robinson-Joyce Group",
+    "country": "Ghana",
+    "category": "ADDITIVE",
+    "contact_email": "contact@aguilar-stevenson.biz",
+    "contact_phone": "416.213.6420",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000458",
+    "name": "Pena Group PLC",
+    "country": "Slovakia (Slovak Republic)",
+    "category": "PACKAGING",
+    "contact_email": "contact@fletcher.com",
+    "contact_phone": "419-942-8900x579",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000459",
+    "name": "Evans, May and Ross and Sons",
+    "country": "San Marino",
+    "category": "ADDITIVE",
+    "contact_email": "contact@fields.com",
+    "contact_phone": "(637)403-6138",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000460",
+    "name": "Horn, Fisher and Pierce Ltd",
+    "country": "Barbados",
+    "category": "ADDITIVE",
+    "contact_email": "contact@adams.com",
+    "contact_phone": "+1-351-944-4189x49533",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000461",
+    "name": "Wolfe Inc Group",
+    "country": "Iraq",
+    "category": "PACKAGING",
+    "contact_email": "contact@wilson.com",
+    "contact_phone": "001-815-727-0720x1009",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000462",
+    "name": "Carpenter Ltd PLC",
+    "country": "Marshall Islands",
+    "category": "ADDITIVE",
+    "contact_email": "contact@simpson.net",
+    "contact_phone": "001-296-444-3880x905",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000463",
+    "name": "Hudson, Smith and Hogan LLC",
+    "country": "Turkmenistan",
+    "category": "ADDITIVE",
+    "contact_email": "contact@love.com",
+    "contact_phone": "+1-368-384-5112x29255",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000464",
+    "name": "Gregory, Carson and Gross Group",
+    "country": "Kyrgyz Republic",
+    "category": "ADDITIVE",
+    "contact_email": "contact@atkins.com",
+    "contact_phone": "001-879-301-4418",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000465",
+    "name": "Barr Ltd LLC",
+    "country": "Japan",
+    "category": "PACKAGING",
+    "contact_email": "contact@rowe.com",
+    "contact_phone": "(742)244-9949",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000466",
+    "name": "Ray, Walsh and Raymond and Sons",
+    "country": "Jordan",
+    "category": "CHEMICAL",
+    "contact_email": "contact@brown.com",
+    "contact_phone": "+1-495-403-1434x4946",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000467",
+    "name": "Cabrera-Hill Group",
+    "country": "Nicaragua",
+    "category": "ADDITIVE",
+    "contact_email": "contact@jones-foster.com",
+    "contact_phone": "994.855.1316",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000468",
+    "name": "Nguyen-Smith Ltd",
+    "country": "Hong Kong",
+    "category": "CHEMICAL",
+    "contact_email": "contact@bennett.com",
+    "contact_phone": "+1-551-935-2558x41548",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000469",
+    "name": "Anderson and Sons PLC",
+    "country": "Norfolk Island",
+    "category": "PACKAGING",
+    "contact_email": "contact@whitehead-sullivan.info",
+    "contact_phone": "744.795.4621x82049",
+    "is_active": true,
+    "reliability_score": 0.87
+  },
+  {
+    "supplier_id": "SUP-000470",
+    "name": "Dominguez-Gardner Ltd",
+    "country": "Andorra",
+    "category": "INGREDIENT",
+    "contact_email": "contact@benjamin-martinez.com",
+    "contact_phone": "(951)922-8277",
+    "is_active": true,
+    "reliability_score": 0.7
+  },
+  {
+    "supplier_id": "SUP-000471",
+    "name": "Orozco, Curtis and Calhoun and Sons",
+    "country": "Trinidad and Tobago",
+    "category": "INGREDIENT",
+    "contact_email": "contact@patterson.com",
+    "contact_phone": "440.632.3637x315",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000472",
+    "name": "Pittman Ltd Group",
+    "country": "Chile",
+    "category": "PACKAGING",
+    "contact_email": "contact@walker-griffith.net",
+    "contact_phone": "358-429-5557x7484",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000473",
+    "name": "Murphy Inc Ltd",
+    "country": "Luxembourg",
+    "category": "PACKAGING",
+    "contact_email": "contact@estrada-waters.info",
+    "contact_phone": "001-245-615-8666x4603",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000474",
+    "name": "Dunn-Sanders and Sons",
+    "country": "India",
+    "category": "ADDITIVE",
+    "contact_email": "contact@jimenez-atkinson.com",
+    "contact_phone": "(689)710-4573",
+    "is_active": true,
+    "reliability_score": 0.92
+  },
+  {
+    "supplier_id": "SUP-000475",
+    "name": "Sims, Jones and Gaines Inc",
+    "country": "Algeria",
+    "category": "ADDITIVE",
+    "contact_email": "contact@taylor-white.com",
+    "contact_phone": "535-382-5175",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000476",
+    "name": "Cooper Ltd and Sons",
+    "country": "Pitcairn Islands",
+    "category": "INGREDIENT",
+    "contact_email": "contact@bailey-clark.com",
+    "contact_phone": "+1-577-891-0668",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000477",
+    "name": "Chan-Anderson Group",
+    "country": "Kenya",
+    "category": "ADDITIVE",
+    "contact_email": "contact@brown.info",
+    "contact_phone": "315-571-0614x38207",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000478",
+    "name": "Kerr, Davis and Blair LLC",
+    "country": "Kyrgyz Republic",
+    "category": "INGREDIENT",
+    "contact_email": "contact@humphrey-ramirez.com",
+    "contact_phone": "322.574.4145x74800",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000479",
+    "name": "Perez, Olson and White PLC",
+    "country": "Monaco",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@floyd-torres.com",
+    "contact_phone": "+1-501-651-6978",
+    "is_active": true,
+    "reliability_score": 0.73
+  },
+  {
+    "supplier_id": "SUP-000480",
+    "name": "Webb and Sons LLC",
+    "country": "Madagascar",
+    "category": "PACKAGING",
+    "contact_email": "contact@bullock.org",
+    "contact_phone": "001-684-859-6272",
+    "is_active": true,
+    "reliability_score": 0.74
+  },
+  {
+    "supplier_id": "SUP-000481",
+    "name": "Stephens-Bond Inc",
+    "country": "United Arab Emirates",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@shepherd.biz",
+    "contact_phone": "615-248-1604x8267",
+    "is_active": true,
+    "reliability_score": 0.99
+  },
+  {
+    "supplier_id": "SUP-000482",
+    "name": "Anderson Group LLC",
+    "country": "Saint Martin",
+    "category": "CHEMICAL",
+    "contact_email": "contact@houston-stafford.biz",
+    "contact_phone": "+1-315-269-5742x7156",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000483",
+    "name": "Johnson-Miller PLC",
+    "country": "Pitcairn Islands",
+    "category": "PACKAGING",
+    "contact_email": "contact@lang-perry.com",
+    "contact_phone": "906-248-7787",
+    "is_active": true,
+    "reliability_score": 0.82
+  },
+  {
+    "supplier_id": "SUP-000484",
+    "name": "Parker, Cox and Fernandez LLC",
+    "country": "Sudan",
+    "category": "INGREDIENT",
+    "contact_email": "contact@hess.com",
+    "contact_phone": "(236)790-5452",
+    "is_active": true,
+    "reliability_score": 0.93
+  },
+  {
+    "supplier_id": "SUP-000485",
+    "name": "Wright-Valdez Ltd",
+    "country": "Egypt",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@jordan.com",
+    "contact_phone": "(443)807-7017x3117",
+    "is_active": true,
+    "reliability_score": 0.96
+  },
+  {
+    "supplier_id": "SUP-000486",
+    "name": "Garrett, Hobbs and Harvey PLC",
+    "country": "Barbados",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@schneider-harris.info",
+    "contact_phone": "(465)972-7677x9462",
+    "is_active": true,
+    "reliability_score": 0.71
+  },
+  {
+    "supplier_id": "SUP-000487",
+    "name": "Miller-Henson LLC",
+    "country": "Anguilla",
+    "category": "INGREDIENT",
+    "contact_email": "contact@koch-kline.biz",
+    "contact_phone": "770-449-9184x580",
+    "is_active": true,
+    "reliability_score": 0.86
+  },
+  {
+    "supplier_id": "SUP-000488",
+    "name": "Roberts-Barnes and Sons",
+    "country": "Ghana",
+    "category": "ADDITIVE",
+    "contact_email": "contact@marshall-carpenter.com",
+    "contact_phone": "319-605-5643x921",
+    "is_active": true,
+    "reliability_score": 0.94
+  },
+  {
+    "supplier_id": "SUP-000489",
+    "name": "Trujillo, Juarez and Schwartz Ltd",
+    "country": "Bahamas",
+    "category": "PACKAGING",
+    "contact_email": "contact@white.info",
+    "contact_phone": "9175055940",
+    "is_active": true,
+    "reliability_score": 0.84
+  },
+  {
+    "supplier_id": "SUP-000490",
+    "name": "Khan, Burch and Smith Group",
+    "country": "Equatorial Guinea",
+    "category": "ADDITIVE",
+    "contact_email": "contact@oneill-le.org",
+    "contact_phone": "521-215-3064",
+    "is_active": true,
+    "reliability_score": 0.8
+  },
+  {
+    "supplier_id": "SUP-000491",
+    "name": "Jackson, Morris and Smith Inc",
+    "country": "Seychelles",
+    "category": "INGREDIENT",
+    "contact_email": "contact@velasquez.com",
+    "contact_phone": "+1-385-337-5042x4430",
+    "is_active": true,
+    "reliability_score": 0.78
+  },
+  {
+    "supplier_id": "SUP-000492",
+    "name": "Henderson-Porter and Sons",
+    "country": "Norway",
+    "category": "ADDITIVE",
+    "contact_email": "contact@hudson.com",
+    "contact_phone": "001-457-773-0236x3025",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000493",
+    "name": "Hall-Weaver and Sons",
+    "country": "Nigeria",
+    "category": "ADDITIVE",
+    "contact_email": "contact@oneal-baker.biz",
+    "contact_phone": "001-458-268-4968x7446",
+    "is_active": true,
+    "reliability_score": 0.75
+  },
+  {
+    "supplier_id": "SUP-000494",
+    "name": "Mitchell-Boyle Inc",
+    "country": "Guinea-Bissau",
+    "category": "ADDITIVE",
+    "contact_email": "contact@walker-cervantes.info",
+    "contact_phone": "(260)693-4290x7208",
+    "is_active": true,
+    "reliability_score": 0.9
+  },
+  {
+    "supplier_id": "SUP-000495",
+    "name": "Collins Inc Inc",
+    "country": "Germany",
+    "category": "PACKAGING",
+    "contact_email": "contact@bauer-moody.info",
+    "contact_phone": "717.900.1312x55854",
+    "is_active": true,
+    "reliability_score": 0.88
+  },
+  {
+    "supplier_id": "SUP-000496",
+    "name": "Solis, Bailey and Hamilton Group",
+    "country": "Nicaragua",
+    "category": "INGREDIENT",
+    "contact_email": "contact@reid.org",
+    "contact_phone": "001-689-671-4401x4424",
+    "is_active": true,
+    "reliability_score": 0.79
+  },
+  {
+    "supplier_id": "SUP-000497",
+    "name": "Walker, Brown and Wilson Group",
+    "country": "Bolivia",
+    "category": "ADDITIVE",
+    "contact_email": "contact@gibson-hernandez.org",
+    "contact_phone": "(236)301-9713x88338",
+    "is_active": true,
+    "reliability_score": 0.85
+  },
+  {
+    "supplier_id": "SUP-000498",
+    "name": "Castillo and Sons LLC",
+    "country": "Greenland",
+    "category": "INGREDIENT",
+    "contact_email": "contact@robinson.com",
+    "contact_phone": "(961)301-2366x90350",
+    "is_active": true,
+    "reliability_score": 0.91
+  },
+  {
+    "supplier_id": "SUP-000499",
+    "name": "Welch, Schroeder and Neal and Sons",
+    "country": "Djibouti",
+    "category": "RAW_FOOD",
+    "contact_email": "contact@chavez.com",
+    "contact_phone": "(464)750-7412",
+    "is_active": true,
+    "reliability_score": 0.98
+  },
+  {
+    "supplier_id": "SUP-000500",
+    "name": "Mcgee-Thomas LLC",
+    "country": "Wallis and Futuna",
+    "category": "ADDITIVE",
+    "contact_email": "contact@sullivan.net",
+    "contact_phone": "001-640-692-4290x6853",
+    "is_active": true,
+    "reliability_score": 0.72
+  }
+]

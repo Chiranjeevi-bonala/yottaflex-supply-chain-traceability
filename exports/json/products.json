@@ -1,0 +1,452 @@
+[
+  {
+    "product_id": "PROD-000001",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 1",
+    "sku": "SKU-BEV-0001",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000002",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 2",
+    "sku": "SKU-SNA-0002",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000003",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 3",
+    "sku": "SKU-BEV-0003",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000004",
+    "name": "Artisan Bakery Premix 5kg - Variant 4",
+    "sku": "SKU-FOO-0004",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000005",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 5",
+    "sku": "SKU-ING-0005",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000006",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 6",
+    "sku": "SKU-BEV-0006",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000007",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 7",
+    "sku": "SKU-SNA-0007",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000008",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 8",
+    "sku": "SKU-BEV-0008",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000009",
+    "name": "Artisan Bakery Premix 5kg - Variant 9",
+    "sku": "SKU-FOO-0009",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000010",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 10",
+    "sku": "SKU-ING-0010",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000011",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 11",
+    "sku": "SKU-BEV-0011",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000012",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 12",
+    "sku": "SKU-SNA-0012",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000013",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 13",
+    "sku": "SKU-BEV-0013",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000014",
+    "name": "Artisan Bakery Premix 5kg - Variant 14",
+    "sku": "SKU-FOO-0014",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000015",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 15",
+    "sku": "SKU-ING-0015",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000016",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 16",
+    "sku": "SKU-BEV-0016",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000017",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 17",
+    "sku": "SKU-SNA-0017",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000018",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 18",
+    "sku": "SKU-BEV-0018",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000019",
+    "name": "Artisan Bakery Premix 5kg - Variant 19",
+    "sku": "SKU-FOO-0019",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000020",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 20",
+    "sku": "SKU-ING-0020",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000021",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 21",
+    "sku": "SKU-BEV-0021",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000022",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 22",
+    "sku": "SKU-SNA-0022",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000023",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 23",
+    "sku": "SKU-BEV-0023",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000024",
+    "name": "Artisan Bakery Premix 5kg - Variant 24",
+    "sku": "SKU-FOO-0024",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000025",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 25",
+    "sku": "SKU-ING-0025",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000026",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 26",
+    "sku": "SKU-BEV-0026",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000027",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 27",
+    "sku": "SKU-SNA-0027",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000028",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 28",
+    "sku": "SKU-BEV-0028",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000029",
+    "name": "Artisan Bakery Premix 5kg - Variant 29",
+    "sku": "SKU-FOO-0029",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000030",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 30",
+    "sku": "SKU-ING-0030",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000031",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 31",
+    "sku": "SKU-BEV-0031",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000032",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 32",
+    "sku": "SKU-SNA-0032",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000033",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 33",
+    "sku": "SKU-BEV-0033",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000034",
+    "name": "Artisan Bakery Premix 5kg - Variant 34",
+    "sku": "SKU-FOO-0034",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000035",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 35",
+    "sku": "SKU-ING-0035",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000036",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 36",
+    "sku": "SKU-BEV-0036",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000037",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 37",
+    "sku": "SKU-SNA-0037",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000038",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 38",
+    "sku": "SKU-BEV-0038",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000039",
+    "name": "Artisan Bakery Premix 5kg - Variant 39",
+    "sku": "SKU-FOO-0039",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000040",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 40",
+    "sku": "SKU-ING-0040",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000041",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 41",
+    "sku": "SKU-BEV-0041",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000042",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 42",
+    "sku": "SKU-SNA-0042",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000043",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 43",
+    "sku": "SKU-BEV-0043",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000044",
+    "name": "Artisan Bakery Premix 5kg - Variant 44",
+    "sku": "SKU-FOO-0044",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000045",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 45",
+    "sku": "SKU-ING-0045",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000046",
+    "name": "Organic Chocolate Protein Shake 500ml - Variant 46",
+    "sku": "SKU-BEV-0046",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 180,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000047",
+    "name": "Energy Bar High Fiber Almond 60g - Variant 47",
+    "sku": "SKU-SNA-0047",
+    "category": "SNACK",
+    "uom": "UNIT",
+    "shelf_life_days": 365,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000048",
+    "name": "Citrus Electrolyte Drink 250ml - Variant 48",
+    "sku": "SKU-BEV-0048",
+    "category": "BEVERAGE",
+    "uom": "UNIT",
+    "shelf_life_days": 270,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000049",
+    "name": "Artisan Bakery Premix 5kg - Variant 49",
+    "sku": "SKU-FOO-0049",
+    "category": "FOOD_SERVICE",
+    "uom": "KG",
+    "shelf_life_days": 120,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-000050",
+    "name": "Pure Soy Lecithin Emulsion 1L - Variant 50",
+    "sku": "SKU-ING-0050",
+    "category": "INGREDIENTS",
+    "uom": "LITER",
+    "shelf_life_days": 360,
+    "is_active": true
+  }
+]

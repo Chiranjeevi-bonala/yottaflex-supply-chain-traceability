@@ -1,0 +1,367 @@
+[
+  {
+    "recall_id": "REC-2026-000001",
+    "delivery_id": "DEL-007345",
+    "qty_in_scope": 127.996
+  },
+  {
+    "recall_id": "REC-2026-000001",
+    "delivery_id": "DEL-007346",
+    "qty_in_scope": 176.914
+  },
+  {
+    "recall_id": "REC-2026-000001",
+    "delivery_id": "DEL-001909",
+    "qty_in_scope": 315.676
+  },
+  {
+    "recall_id": "REC-2026-000001",
+    "delivery_id": "DEL-001910",
+    "qty_in_scope": 579.554
+  },
+  {
+    "recall_id": "REC-2026-000001",
+    "delivery_id": "DEL-010319",
+    "qty_in_scope": 801.88
+  },
+  {
+    "recall_id": "REC-2026-000001",
+    "delivery_id": "DEL-005937",
+    "qty_in_scope": 273.613
+  },
+  {
+    "recall_id": "REC-2026-000001",
+    "delivery_id": "DEL-005938",
+    "qty_in_scope": 316.147
+  },
+  {
+    "recall_id": "REC-2026-000002",
+    "delivery_id": "DEL-015740",
+    "qty_in_scope": 152.65
+  },
+  {
+    "recall_id": "REC-2026-000002",
+    "delivery_id": "DEL-018363",
+    "qty_in_scope": 99.735
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-002253",
+    "qty_in_scope": 144.619
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-002254",
+    "qty_in_scope": 105.961
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-015877",
+    "qty_in_scope": 473.6
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-007099",
+    "qty_in_scope": 1206.248
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-007100",
+    "qty_in_scope": 1523.872
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-004231",
+    "qty_in_scope": 207.011
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-004232",
+    "qty_in_scope": 240.509
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-019169",
+    "qty_in_scope": 868.37
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-010485",
+    "qty_in_scope": 963.5
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-011709",
+    "qty_in_scope": 142.02
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-015944",
+    "qty_in_scope": 73.73
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-016481",
+    "qty_in_scope": 42.59
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "delivery_id": "DEL-017384",
+    "qty_in_scope": 94.05
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-000121",
+    "qty_in_scope": 212.59
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-000122",
+    "qty_in_scope": 340.95
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-002947",
+    "qty_in_scope": 315.802
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-002948",
+    "qty_in_scope": 221.258
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-015664",
+    "qty_in_scope": 304.04
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-000805",
+    "qty_in_scope": 428.677
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-000806",
+    "qty_in_scope": 210.403
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-018450",
+    "qty_in_scope": 283.72
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-019664",
+    "qty_in_scope": 104.73
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "delivery_id": "DEL-012846",
+    "qty_in_scope": 1250.6
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-006947",
+    "qty_in_scope": 194.575
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-006948",
+    "qty_in_scope": 227.565
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-011183",
+    "qty_in_scope": 159.58
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-011342",
+    "qty_in_scope": 89.92
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-011597",
+    "qty_in_scope": 63.63
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-011868",
+    "qty_in_scope": 96.72
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-015879",
+    "qty_in_scope": 315.3
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-018277",
+    "qty_in_scope": 85.905
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-012269",
+    "qty_in_scope": 403.08
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "delivery_id": "DEL-016133",
+    "qty_in_scope": 428.91
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "delivery_id": "DEL-000145",
+    "qty_in_scope": 520.672
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "delivery_id": "DEL-000146",
+    "qty_in_scope": 454.708
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "delivery_id": "DEL-006239",
+    "qty_in_scope": 69.749
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "delivery_id": "DEL-006240",
+    "qty_in_scope": 75.321
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "delivery_id": "DEL-011240",
+    "qty_in_scope": 59.54
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "delivery_id": "DEL-013977",
+    "qty_in_scope": 77.58
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "delivery_id": "DEL-005235",
+    "qty_in_scope": 193.822
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "delivery_id": "DEL-005236",
+    "qty_in_scope": 118.298
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "delivery_id": "DEL-008691",
+    "qty_in_scope": 168.297
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "delivery_id": "DEL-008692",
+    "qty_in_scope": 122.013
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "delivery_id": "DEL-010652",
+    "qty_in_scope": 304.37
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "delivery_id": "DEL-011777",
+    "qty_in_scope": 207.79
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "delivery_id": "DEL-017990",
+    "qty_in_scope": 59.395
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "delivery_id": "DEL-001987",
+    "qty_in_scope": 365.844
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "delivery_id": "DEL-001988",
+    "qty_in_scope": 333.126
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "delivery_id": "DEL-008489",
+    "qty_in_scope": 79.332
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "delivery_id": "DEL-008490",
+    "qty_in_scope": 105.718
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "delivery_id": "DEL-014391",
+    "qty_in_scope": 77.27
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "delivery_id": "DEL-018739",
+    "qty_in_scope": 1017.95
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "delivery_id": "DEL-017184",
+    "qty_in_scope": 2080.24
+  },
+  {
+    "recall_id": "REC-2026-000009",
+    "delivery_id": "DEL-009007",
+    "qty_in_scope": 1382.775
+  },
+  {
+    "recall_id": "REC-2026-000009",
+    "delivery_id": "DEL-009008",
+    "qty_in_scope": 899.835
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-001299",
+    "qty_in_scope": 159.44
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-001300",
+    "qty_in_scope": 96.41
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-017265",
+    "qty_in_scope": 167.41
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-017965",
+    "qty_in_scope": 203.31
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-019598",
+    "qty_in_scope": 55.55
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-000421",
+    "qty_in_scope": 46.061
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-000422",
+    "qty_in_scope": 49.649
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-012724",
+    "qty_in_scope": 100.51
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "delivery_id": "DEL-015268",
+    "qty_in_scope": 59.63
+  }
+]

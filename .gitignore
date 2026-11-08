@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv
+venv/
+ENV/
+env/
+
+# Database & sqlite
+*.db
+*.sqlite3
+test_supply_chain.db
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exports (large data files)
+exports/csv/
+exports/json/
+exports/sql/
+exports/ground_truth/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+*.bak

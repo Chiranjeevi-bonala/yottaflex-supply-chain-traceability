@@ -1,0 +1,501 @@
+supplier_id,name,country,category,contact_email,contact_phone,is_active,reliability_score
+SUP-000001,"Gomez, Campbell and Thompson and Sons",Denmark,RAW_FOOD,contact@smith.com,3335491328,True,0.95
+SUP-000002,"Hayes, Chapman and Richardson PLC",Guernsey,CHEMICAL,contact@brown-bass.com,(371)419-3885,True,0.77
+SUP-000003,Gilbert-Butler Inc,Japan,PACKAGING,contact@page-deleon.com,(883)501-5148x3011,False,0.94
+SUP-000004,"Mcknight, Mendoza and Jones PLC",Togo,PACKAGING,contact@diaz.biz,7702302488,True,0.76
+SUP-000005,Mcdonald-Richard Inc,Antarctica (the territory South of 60 deg S),ADDITIVE,contact@perkins-williams.com,001-980-668-4607x5359,True,0.76
+SUP-000006,"Beck, Scott and Robertson Group",Taiwan,PACKAGING,contact@roth.com,(228)227-8472,True,0.76
+SUP-000007,"Carey, Mahoney and Stevens PLC",Ethiopia,INGREDIENT,contact@fritz.com,001-776-382-2739x0968,False,0.73
+SUP-000008,Sullivan Inc LLC,Tonga,PACKAGING,contact@lawson.com,001-945-569-8719x9023,True,0.84
+SUP-000009,Rollins-Garcia and Sons,Lebanon,CHEMICAL,contact@hickman.biz,(452)265-9400x17837,True,0.74
+SUP-000010,Kramer-Newton Group,Japan,INGREDIENT,contact@foster-brown.com,+1-828-336-8871,True,0.73
+SUP-000011,Combs Inc Ltd,Morocco,PACKAGING,contact@williams-miranda.net,+1-684-529-5428x49500,True,0.85
+SUP-000012,Martinez-Howard Ltd,Bahrain,CHEMICAL,contact@norris.biz,001-224-575-6383,True,0.83
+SUP-000013,"Sweeney, Chapman and Gray Group",Guernsey,INGREDIENT,contact@colon.info,699-651-9770,True,0.82
+SUP-000014,Moon PLC LLC,Albania,CHEMICAL,contact@gentry-espinoza.com,3412288922,True,0.81
+SUP-000015,Lara-Garcia LLC,San Marino,ADDITIVE,contact@castro.biz,001-205-715-0874x2555,True,0.72
+SUP-000016,Johns-Williams LLC,Cameroon,CHEMICAL,contact@green.com,001-810-339-4314x803,True,0.79
+SUP-000017,Rogers Ltd and Sons,United Kingdom,PACKAGING,contact@mclaughlin.info,(908)800-5565x24934,False,0.72
+SUP-000018,"Collins, Gray and Scott Inc",Tonga,PACKAGING,contact@lambert.com,653-210-0704,True,0.84
+SUP-000019,"Thornton, Cochran and Baker Ltd",Suriname,CHEMICAL,contact@barber.com,001-272-665-2129x12306,True,0.95
+SUP-000020,Leonard and Sons Inc,Sweden,CHEMICAL,contact@ferrell.com,510.423.6499x6338,True,0.92
+SUP-000021,Roberts Inc Inc,Saint Lucia,ADDITIVE,contact@paul-adams.com,635.545.2808x186,True,0.81
+SUP-000022,"Riley, Porter and Blair Ltd",Norfolk Island,INGREDIENT,contact@taylor-thomas.info,357-556-5535,False,0.96
+SUP-000023,"Pierce, Franklin and Henderson Inc",Aruba,PACKAGING,contact@wilson.com,298.634.1999x31249,True,0.85
+SUP-000024,Mcneil-Jackson Group,Falkland Islands (Malvinas),ADDITIVE,contact@cantrell-rollins.com,001-509-822-4834x95630,True,0.91
+SUP-000025,Wright-Jackson PLC,Myanmar,RAW_FOOD,contact@nelson.biz,986.268.7631,True,0.94
+SUP-000026,Bond Ltd Inc,Holy See (Vatican City State),CHEMICAL,contact@porter.com,908.945.4958x834,False,0.78
+SUP-000027,Cohen Group and Sons,France,ADDITIVE,contact@robinson.com,+1-894-321-4975x11932,True,0.71
+SUP-000028,Briggs PLC and Sons,Portugal,ADDITIVE,contact@turner.com,+1-591-353-9433x0325,True,0.81
+SUP-000029,"Rojas, Blevins and Bowman Inc",Saint Vincent and the Grenadines,RAW_FOOD,contact@small.com,001-631-291-6141,True,0.83
+SUP-000030,Johnson Ltd LLC,Saint Barthelemy,RAW_FOOD,contact@sampson-williams.com,001-644-897-1307x77614,True,0.9
+SUP-000031,Parrish and Sons LLC,Turkmenistan,RAW_FOOD,contact@evans-walker.com,521.590.5466,True,0.87
+SUP-000032,"Le, Barron and Williams Group",Dominican Republic,ADDITIVE,contact@cervantes.org,001-233-823-3922x2772,True,0.97
+SUP-000033,Davis Group Inc,Guadeloupe,RAW_FOOD,contact@gonzalez.com,+1-272-301-8704,True,0.95
+SUP-000034,Houston PLC LLC,Canada,RAW_FOOD,contact@tate-carroll.org,+1-491-915-2007x176,True,0.82
+SUP-000035,Johnson-Edwards and Sons,Mozambique,ADDITIVE,contact@adams.com,272-490-2530x2191,True,0.8
+SUP-000036,Camacho Group Ltd,San Marino,RAW_FOOD,contact@harris.com,+1-995-978-5134x229,True,0.85
+SUP-000037,Bush-Thomas Inc,Chile,INGREDIENT,contact@williams.com,+1-521-647-1630x96392,True,0.83
+SUP-000038,"Haney, Thomas and Hale and Sons",Chad,CHEMICAL,contact@conway.biz,001-310-286-4375x220,False,0.89
+SUP-000039,Logan-Calhoun Ltd,Maldives,INGREDIENT,contact@frazier-wu.com,(985)216-8208x621,True,0.78
+SUP-000040,"Horton, Holland and Lee PLC",Austria,ADDITIVE,contact@horton-james.org,(927)365-6119x25997,True,0.85
+SUP-000041,Bennett Ltd LLC,Italy,CHEMICAL,contact@tyler.info,993-297-7194,True,0.95
+SUP-000042,"Graham, Carlson and Daniels Group",Korea,INGREDIENT,contact@murphy.net,001-410-673-7537x63496,True,0.97
+SUP-000043,Rowe PLC PLC,Saint Lucia,ADDITIVE,contact@cabrera.org,+1-540-819-8555x9966,True,0.84
+SUP-000044,Dixon Ltd PLC,Svalbard & Jan Mayen Islands,ADDITIVE,contact@tanner.com,626-528-7314,True,0.88
+SUP-000045,George-Harris Inc,Mongolia,ADDITIVE,contact@gill.com,(527)353-6382x7328,True,0.73
+SUP-000046,"Ruiz, Le and Moss PLC",Kuwait,INGREDIENT,contact@brown.com,+1-460-840-9011x20290,True,0.72
+SUP-000047,Jensen-Snyder LLC,Uruguay,CHEMICAL,contact@schmidt.info,418.590.0820,True,0.76
+SUP-000048,"Rogers, Fields and Brown Group",Armenia,RAW_FOOD,contact@snow-lewis.com,(507)628-9443,True,0.81
+SUP-000049,Robinson Group Ltd,Palau,ADDITIVE,contact@stephens.com,504.735.0153x73290,True,0.88
+SUP-000050,Kirby and Sons Inc,Libyan Arab Jamahiriya,CHEMICAL,contact@khan.com,001-453-724-7860x349,True,0.84
+SUP-000051,Gonzalez-Mitchell and Sons,Australia,PACKAGING,contact@williams-scott.org,+1-578-462-8567x9477,True,0.99
+SUP-000052,Jackson-Curtis Inc,Guatemala,CHEMICAL,contact@evans-garcia.info,(617)216-7638x259,True,0.84
+SUP-000053,"King, Watson and Gray Group",Canada,PACKAGING,contact@padilla-watson.com,942.923.9483,True,0.82
+SUP-000054,Shannon PLC Group,United Kingdom,PACKAGING,contact@bennett-patterson.com,(924)680-1610x3659,True,0.81
+SUP-000055,Anderson Ltd and Sons,Liberia,ADDITIVE,contact@vance.com,923-220-0236x82225,True,0.94
+SUP-000056,"Arnold, Cross and Foster and Sons",Denmark,CHEMICAL,contact@jones.biz,369-832-0388x70146,True,0.88
+SUP-000057,Kirk PLC Group,Bulgaria,ADDITIVE,contact@harris.com,337-488-4851,True,0.74
+SUP-000058,"Key, Jones and Blair Group",Brunei Darussalam,RAW_FOOD,contact@neal-kim.net,307.964.8152,True,0.92
+SUP-000059,"Shelton, Brown and Conrad Ltd",Maldives,INGREDIENT,contact@delacruz.com,+1-309-956-4752,True,0.81
+SUP-000060,Jordan and Sons and Sons,Mozambique,CHEMICAL,contact@stephens.com,823-340-4887x3981,True,0.86
+SUP-000061,Jackson and Sons Ltd,Bermuda,ADDITIVE,contact@galvan-robinson.com,(434)549-2297,True,0.76
+SUP-000062,Hobbs-Lee Inc,Saint Lucia,ADDITIVE,contact@vazquez-bray.org,(478)739-5492,True,0.92
+SUP-000063,Peters Ltd PLC,Montserrat,INGREDIENT,contact@conway-bush.com,924.555.1810x349,True,0.87
+SUP-000064,"Davis, Christensen and Haney LLC",Saudi Arabia,CHEMICAL,contact@black.net,(658)764-8110x4174,True,0.94
+SUP-000065,Ortiz-Anderson Ltd,Swaziland,CHEMICAL,contact@perez.com,610-850-8940x058,True,0.87
+SUP-000066,Yates Inc PLC,France,INGREDIENT,contact@caldwell-smith.biz,(548)400-1350,False,0.92
+SUP-000067,Rose-Burns LLC,Latvia,ADDITIVE,contact@beck-hansen.info,536.754.2997x71441,True,0.86
+SUP-000068,Rodriguez-Sanchez and Sons,Saint Helena,RAW_FOOD,contact@moreno.com,+1-808-723-4650x640,True,0.8
+SUP-000069,"Floyd, Perry and Thomas PLC",Indonesia,PACKAGING,contact@arellano-erickson.biz,381-894-2886x736,True,0.89
+SUP-000070,"Miller, Vaughn and Monroe Ltd",Honduras,RAW_FOOD,contact@howard.org,001-407-468-8422x070,True,0.71
+SUP-000071,Valentine-Reynolds Group,Congo,ADDITIVE,contact@smith-mejia.info,773.942.3684x8688,True,0.77
+SUP-000072,Murphy Group PLC,Norfolk Island,PACKAGING,contact@whitehead.com,358-418-3532x95065,True,0.8
+SUP-000073,York Group Inc,Jersey,CHEMICAL,contact@simmons-hernandez.net,+1-347-450-5715x887,True,0.9
+SUP-000074,Rice Group PLC,Monaco,PACKAGING,contact@foster.info,(784)408-8293x208,True,0.82
+SUP-000075,Valenzuela and Sons Group,Spain,PACKAGING,contact@collins-hawkins.biz,846.972.4208x91744,True,0.93
+SUP-000076,Jimenez Inc Inc,British Virgin Islands,RAW_FOOD,contact@mccoy.com,001-719-989-6867x98386,True,0.93
+SUP-000077,"Gonzalez, Torres and Perez and Sons",British Indian Ocean Territory (Chagos Archipelago),ADDITIVE,contact@newman.net,855.387.7806,True,0.71
+SUP-000078,"Suarez, Young and Wilson LLC",Algeria,CHEMICAL,contact@brock.net,+1-976-473-4257,True,0.81
+SUP-000079,Neal-Freeman Inc,Guam,INGREDIENT,contact@wise.com,5258388136,True,0.94
+SUP-000080,Collier-Soto Group,Saint Martin,RAW_FOOD,contact@luna-adams.info,884.712.0997,True,0.77
+SUP-000081,Smith and Sons PLC,Antigua and Barbuda,CHEMICAL,contact@mendoza.info,719.825.7362,True,0.87
+SUP-000082,Mitchell-Rodriguez Ltd,Guinea-Bissau,RAW_FOOD,contact@williams-martinez.com,541-772-4044x48116,True,0.88
+SUP-000083,Williamson-Johnson Ltd,Liechtenstein,INGREDIENT,contact@weeks-suarez.com,+1-586-566-8146x61916,True,0.7
+SUP-000084,"Hawkins, Hill and Wells and Sons",Greece,RAW_FOOD,contact@lyons-cooper.com,+1-814-908-1033,True,0.8
+SUP-000085,Meyers-Watson LLC,North Macedonia,RAW_FOOD,contact@barnes.com,001-942-809-6232x3125,False,0.96
+SUP-000086,Davis Group Group,United States Virgin Islands,INGREDIENT,contact@velazquez-jacobs.org,001-644-221-7479x38787,True,0.79
+SUP-000087,Brady Inc Inc,Singapore,PACKAGING,contact@ryan.org,682.816.1004,True,0.89
+SUP-000088,Bryant-Watson Ltd,United Arab Emirates,ADDITIVE,contact@taylor.com,(507)646-2756x147,True,0.73
+SUP-000089,"Murphy, Kline and Underwood LLC",Belgium,CHEMICAL,contact@hernandez.com,001-858-447-8234x7417,True,0.78
+SUP-000090,Taylor and Sons Ltd,Ethiopia,RAW_FOOD,contact@benjamin-reid.org,001-277-704-9520x49022,True,0.96
+SUP-000091,Ray PLC LLC,Saint Lucia,ADDITIVE,contact@irwin-chavez.net,5704341148,True,0.86
+SUP-000092,Scott-Lopez LLC,Zimbabwe,INGREDIENT,contact@hammond.com,5714621431,True,0.7
+SUP-000093,Zimmerman Group and Sons,Portugal,CHEMICAL,contact@morrow.net,001-732-927-3251x10388,True,0.8
+SUP-000094,Johnson-Cain Group,Northern Mariana Islands,ADDITIVE,contact@barr.org,(826)545-5268x57592,True,0.79
+SUP-000095,"Jackson, Gibson and Gilbert PLC",Vanuatu,RAW_FOOD,contact@marshall-hicks.com,569.952.2793x147,True,0.86
+SUP-000096,Dodson Inc LLC,Uganda,RAW_FOOD,contact@christensen.info,981-683-4800,True,0.95
+SUP-000097,Gardner-Nelson Inc,Niue,CHEMICAL,contact@edwards-bennett.info,439.616.9964x8957,True,0.74
+SUP-000098,"Morales, Mora and Hoffman Ltd",Saint Lucia,RAW_FOOD,contact@andersen-smith.biz,001-214-328-3931x070,True,0.81
+SUP-000099,"Friedman, Armstrong and Buckley and Sons",Turkmenistan,RAW_FOOD,contact@schaefer-day.com,001-772-703-2968x933,True,0.71
+SUP-000100,Burnett Group and Sons,Jamaica,ADDITIVE,contact@atkinson-torres.com,220-838-8511x165,True,0.95
+SUP-000101,Vazquez Inc PLC,Benin,CHEMICAL,contact@rodriguez.com,+1-681-212-0106x562,True,0.79
+SUP-000102,"Marquez, Hutchinson and Davis Ltd",Sao Tome and Principe,CHEMICAL,contact@taylor-collins.org,001-915-477-0760x702,True,0.73
+SUP-000103,Anderson-Levy Ltd,Philippines,RAW_FOOD,contact@navarro-johnson.com,407.287.8427x8741,True,0.75
+SUP-000104,"Hernandez, Wilson and Baker and Sons",French Southern Territories,CHEMICAL,contact@stephens.com,756-598-3165x1278,True,0.77
+SUP-000105,King-Taylor Ltd,British Indian Ocean Territory (Chagos Archipelago),INGREDIENT,contact@fisher.com,001-897-288-5073,True,0.92
+SUP-000106,"Simmons, Mills and Knight PLC",British Virgin Islands,ADDITIVE,contact@dyer.com,(877)677-2206x453,True,0.88
+SUP-000107,"Dixon, Jackson and Andersen and Sons",Moldova,CHEMICAL,contact@bailey.com,(930)352-4277,True,0.8
+SUP-000108,Burns Ltd Ltd,Fiji,RAW_FOOD,contact@lee.net,001-717-208-4468x3352,True,0.78
+SUP-000109,Walters PLC PLC,Hong Kong,ADDITIVE,contact@daniels.biz,918.302.9965x890,True,0.78
+SUP-000110,"Hurst, Martinez and Maynard Inc",Japan,INGREDIENT,contact@richardson.com,(681)741-5785,True,0.88
+SUP-000111,"Clay, Hughes and Schwartz PLC",Uganda,ADDITIVE,contact@murray.com,+1-939-223-2736x6819,True,0.82
+SUP-000112,"Leblanc, Gentry and Calderon Group",Congo,RAW_FOOD,contact@potter-long.net,(653)627-0539x94383,True,0.92
+SUP-000113,"Castro, Vazquez and Gonzalez PLC",Andorra,INGREDIENT,contact@taylor-hicks.com,909.548.4536,False,0.92
+SUP-000114,Jones-Cuevas LLC,Falkland Islands (Malvinas),CHEMICAL,contact@jones.com,(630)687-7675x1671,False,0.95
+SUP-000115,"Gaines, Rogers and Malone PLC",Belgium,PACKAGING,contact@allen-peters.com,498.284.0789,True,0.91
+SUP-000116,"Henderson, Burke and Reed Group",Libyan Arab Jamahiriya,PACKAGING,contact@clark.com,(647)838-5441x94209,True,0.96
+SUP-000117,"Galvan, Boyer and Moore LLC",Canada,INGREDIENT,contact@taylor.com,001-854-754-7046x012,False,0.91
+SUP-000118,Freeman-Holmes PLC,Czech Republic,CHEMICAL,contact@stevens-palmer.com,453.906.4939x8062,True,0.76
+SUP-000119,Rodriguez-Rodriguez PLC,Qatar,RAW_FOOD,contact@butler.info,(664)263-1338x805,True,0.95
+SUP-000120,"Calhoun, Peterson and Mendoza LLC",Nauru,PACKAGING,contact@howell-hall.com,(646)445-3590x41657,True,0.98
+SUP-000121,Smith-Jones and Sons,Turkmenistan,PACKAGING,contact@sanchez-wright.info,267-786-2940x5032,True,0.75
+SUP-000122,"Clayton, Williams and Kirk and Sons",Comoros,RAW_FOOD,contact@rodgers.com,(391)819-6118x02919,True,0.91
+SUP-000123,"Miller, Evans and Torres PLC",Syrian Arab Republic,CHEMICAL,contact@ross.com,734-911-1244,True,0.86
+SUP-000124,"Smith, Murphy and Bennett Ltd",Yemen,PACKAGING,contact@torres.org,680.490.3756x6659,True,0.93
+SUP-000125,Wu-Cook LLC,Reunion,INGREDIENT,contact@jones.com,5908235515,False,0.95
+SUP-000126,Best LLC Inc,Ukraine,PACKAGING,contact@johnson.org,255-687-0053,True,0.71
+SUP-000127,Dominguez Inc Inc,Christmas Island,CHEMICAL,contact@wagner.com,653-693-3670x9216,True,0.77
+SUP-000128,"Crawford, Johnson and Jordan and Sons",Bermuda,RAW_FOOD,contact@moore-riley.info,+1-963-800-2441,True,0.73
+SUP-000129,Stevenson-Campbell Inc,Taiwan,PACKAGING,contact@wilson.com,001-230-246-0136x33797,True,0.78
+SUP-000130,Soto-Fernandez Group,Russian Federation,ADDITIVE,contact@white-phillips.com,847-516-6964,True,0.77
+SUP-000131,Roberts-Bailey PLC,Jersey,PACKAGING,contact@henry.com,(819)610-0993,True,0.74
+SUP-000132,"Mcintyre, Fernandez and White Group",Cape Verde,RAW_FOOD,contact@jones-rogers.info,(250)491-4330x150,True,0.72
+SUP-000133,Santos Inc Group,Russian Federation,INGREDIENT,contact@murphy-nichols.com,(850)233-9664x314,True,0.78
+SUP-000134,Wilson-Smith Inc,Niue,PACKAGING,contact@collier-moran.org,881.828.2471,True,0.98
+SUP-000135,Parks and Sons and Sons,Mongolia,RAW_FOOD,contact@hobbs.biz,+1-540-870-7706,True,0.8
+SUP-000136,"Marquez, Coleman and Manning Inc",Netherlands,ADDITIVE,contact@gomez.com,+1-453-273-6889,True,0.96
+SUP-000137,"Nelson, Villanueva and Flores PLC",Kazakhstan,ADDITIVE,contact@edwards.com,(398)432-2006,True,0.76
+SUP-000138,Grant Inc PLC,Uruguay,ADDITIVE,contact@wilson.com,618-607-6193,True,0.83
+SUP-000139,"Porter, Figueroa and Ortega Inc",Niue,PACKAGING,contact@macdonald.com,+1-417-277-7874x593,True,0.88
+SUP-000140,Berger and Sons PLC,Turkmenistan,PACKAGING,contact@moore-cook.com,+1-358-212-5236x07040,True,0.96
+SUP-000141,"White, Washington and Ward LLC",British Indian Ocean Territory (Chagos Archipelago),INGREDIENT,contact@norris.info,941.476.8859x79759,True,0.9
+SUP-000142,"Jones, Taylor and Gomez LLC",Belgium,RAW_FOOD,contact@charles-leon.org,2248088406,True,0.81
+SUP-000143,Harris Group Group,Niue,INGREDIENT,contact@gonzalez.com,(403)872-8095,True,0.89
+SUP-000144,"Dougherty, Avila and Green Group",Ukraine,PACKAGING,contact@anderson.com,617-797-3809x500,True,0.73
+SUP-000145,Weiss LLC Group,Myanmar,ADDITIVE,contact@velez-lewis.org,+1-348-477-8622x9064,True,0.88
+SUP-000146,Brandt Inc and Sons,Ireland,INGREDIENT,contact@johnson.com,+1-260-645-2724x139,True,0.71
+SUP-000147,Carter Group LLC,Guinea,CHEMICAL,contact@roberts-rogers.net,619-682-9324x34689,True,0.79
+SUP-000148,Hicks-Henry Group,Guernsey,ADDITIVE,contact@cruz-dunlap.com,437.422.1894x8299,True,0.77
+SUP-000149,Henderson Group Ltd,Senegal,CHEMICAL,contact@henry.org,001-932-940-4545x68046,True,0.96
+SUP-000150,Goodman Inc LLC,Guinea-Bissau,PACKAGING,contact@murphy.org,+1-694-866-2821x718,True,0.74
+SUP-000151,Cole-Anderson and Sons,Nepal,ADDITIVE,contact@young.com,754.657.2548x5871,False,0.89
+SUP-000152,Kane Inc LLC,Reunion,ADDITIVE,contact@alvarado.com,(344)680-3594x78088,True,0.99
+SUP-000153,Wilson-Mccoy Inc,Namibia,PACKAGING,contact@davidson-cook.com,4895406649,True,0.78
+SUP-000154,Montgomery PLC and Sons,Suriname,ADDITIVE,contact@newton.com,768-567-0551x03437,True,0.75
+SUP-000155,"Gardner, Davis and Novak Group",Germany,CHEMICAL,contact@davis.info,(672)797-8040x485,True,0.75
+SUP-000156,Alexander PLC PLC,Ethiopia,RAW_FOOD,contact@greer.biz,+1-993-299-6760x42659,True,0.89
+SUP-000157,Schmidt Ltd Ltd,Estonia,PACKAGING,contact@fleming.net,+1-955-850-0287x455,True,0.88
+SUP-000158,"Vazquez, Mcbride and Delgado Inc",Paraguay,INGREDIENT,contact@banks-gomez.biz,972-991-1470x65917,True,0.77
+SUP-000159,Wagner-Harris LLC,Dominican Republic,INGREDIENT,contact@sullivan.com,459-669-2152x6143,True,0.77
+SUP-000160,Allen-Foster PLC,Bhutan,PACKAGING,contact@thomas-nelson.com,332.734.5303,True,0.87
+SUP-000161,"Meza, Koch and Davis Ltd",Argentina,ADDITIVE,contact@miller.info,001-449-579-2943x64885,True,0.83
+SUP-000162,Murphy Group LLC,Guyana,CHEMICAL,contact@harris-bowen.net,938.967.1009,True,0.76
+SUP-000163,Hernandez and Sons and Sons,Fiji,INGREDIENT,contact@figueroa-spence.com,(586)683-9255,True,0.84
+SUP-000164,Williams Group and Sons,Bulgaria,PACKAGING,contact@young.info,+1-918-821-8217x5149,True,0.95
+SUP-000165,"Moore, Guerrero and Moore Group",Svalbard & Jan Mayen Islands,CHEMICAL,contact@parker-mcdowell.com,(754)720-3630,True,0.94
+SUP-000166,Marshall and Sons LLC,Bulgaria,CHEMICAL,contact@owens-morrison.org,001-579-393-4274x14060,True,0.84
+SUP-000167,Martin-Rubio Group,Benin,ADDITIVE,contact@martin.info,494.257.1016,True,0.83
+SUP-000168,Ellis-Odom Inc,Guernsey,ADDITIVE,contact@dodson.net,4106595371,True,0.78
+SUP-000169,Werner-Santiago Group,Bouvet Island (Bouvetoya),RAW_FOOD,contact@durham.net,001-634-476-5011,True,0.85
+SUP-000170,Valenzuela PLC Ltd,North Macedonia,PACKAGING,contact@mckee-bell.com,(475)293-8982x83390,True,0.77
+SUP-000171,Cannon-Morris Group,Nicaragua,ADDITIVE,contact@gonzales.biz,(306)710-5461,True,0.94
+SUP-000172,Atkins Inc LLC,Cambodia,INGREDIENT,contact@allen.biz,776-934-2225x96962,True,0.74
+SUP-000173,Gonzales-Martinez PLC,Faroe Islands,PACKAGING,contact@bell.net,+1-925-960-1570x36270,True,0.76
+SUP-000174,Gonzalez-Sullivan PLC,Guam,PACKAGING,contact@morris.com,+1-273-602-6732x7390,True,0.89
+SUP-000175,"Craig, Carter and Luna Ltd",Andorra,ADDITIVE,contact@fernandez.com,+1-550-408-3450,True,0.89
+SUP-000176,Day Group Group,British Indian Ocean Territory (Chagos Archipelago),CHEMICAL,contact@rivers.net,(648)729-4409x2207,True,0.92
+SUP-000177,White-Fernandez PLC,Turkey,RAW_FOOD,contact@beck.biz,805.754.0878,True,0.95
+SUP-000178,Compton Group Inc,Kiribati,RAW_FOOD,contact@duffy-lyons.net,(832)351-0271x2486,True,0.88
+SUP-000179,Price PLC Group,Liechtenstein,PACKAGING,contact@smith.com,(855)234-8549,True,0.73
+SUP-000180,Walker LLC PLC,Latvia,INGREDIENT,contact@zuniga.com,783-545-0061,True,0.9
+SUP-000181,Fisher PLC LLC,Anguilla,RAW_FOOD,contact@jones-gonzales.com,(791)690-7446,True,0.86
+SUP-000182,Vargas-Hughes Ltd,Guinea-Bissau,CHEMICAL,contact@thomas-guerra.com,644.406.6861x3275,False,0.87
+SUP-000183,Gregory-Smith and Sons,Romania,RAW_FOOD,contact@martin.info,001-206-210-1568,True,0.95
+SUP-000184,Dougherty-Logan Inc,El Salvador,PACKAGING,contact@freeman-alvarado.biz,+1-683-887-2490,True,0.76
+SUP-000185,Schwartz Group PLC,Cook Islands,RAW_FOOD,contact@thompson-hale.com,(705)619-0873,True,0.72
+SUP-000186,Jenkins Ltd Ltd,Turkmenistan,ADDITIVE,contact@garcia.org,6367650838,True,0.94
+SUP-000187,"Young, Blake and Smith and Sons",Anguilla,CHEMICAL,contact@anderson-gomez.org,+1-856-926-2741x08603,True,0.79
+SUP-000188,Wheeler-Murphy Ltd,French Guiana,CHEMICAL,contact@lam.net,6555511035,True,0.94
+SUP-000189,"Rosario, Price and Powell Ltd",Nigeria,PACKAGING,contact@bright.biz,945-810-3183x01110,True,0.87
+SUP-000190,Mcintosh and Sons LLC,Malaysia,INGREDIENT,contact@aguilar-smith.com,6805683402,True,0.78
+SUP-000191,Stein Ltd PLC,Madagascar,RAW_FOOD,contact@morris-mcconnell.com,001-571-602-1299x023,True,0.71
+SUP-000192,Barnes PLC Ltd,Montserrat,PACKAGING,contact@knapp.com,+1-918-963-1379x0072,False,0.91
+SUP-000193,"Jones, Montoya and Garcia Group",Gibraltar,INGREDIENT,contact@cooley-robinson.com,+1-990-536-1716x25969,True,0.71
+SUP-000194,Sanders-Kelley Ltd,Palau,PACKAGING,contact@flowers.com,(854)933-8829,True,0.98
+SUP-000195,Duke and Sons Group,El Salvador,RAW_FOOD,contact@ray-oliver.info,(927)635-0785,True,0.98
+SUP-000196,Leonard-Gonzales Group,Indonesia,PACKAGING,contact@smith-duarte.net,849-212-9429x216,True,0.99
+SUP-000197,Becker-Thornton LLC,Malta,INGREDIENT,contact@kelly.com,480.363.2805x68800,True,0.83
+SUP-000198,Vang PLC Inc,Uganda,INGREDIENT,contact@wilson-parker.biz,+1-654-277-3964,True,0.93
+SUP-000199,"Raymond, Duran and Villarreal LLC",Timor-Leste,INGREDIENT,contact@ball.info,+1-924-676-5321x737,False,0.74
+SUP-000200,"Douglas, Fox and Warren and Sons",Luxembourg,RAW_FOOD,contact@alexander-evans.com,001-482-789-4107x5496,True,0.83
+SUP-000201,Jones-Page Group,Poland,CHEMICAL,contact@livingston.com,241-306-9075x93456,True,0.8
+SUP-000202,Christensen Group Inc,Nicaragua,PACKAGING,contact@cooper.net,+1-520-470-1935x652,True,0.87
+SUP-000203,Payne Ltd Inc,Dominica,CHEMICAL,contact@howell.biz,591.558.6706,True,0.98
+SUP-000204,Wright Group and Sons,Sri Lanka,INGREDIENT,contact@duncan.com,(829)995-2072x38641,True,0.9
+SUP-000205,Massey-Davis Inc,Belarus,PACKAGING,contact@davis.com,001-597-412-4258x996,True,0.71
+SUP-000206,"Nelson, Cuevas and Bailey Ltd",South Georgia and the South Sandwich Islands,CHEMICAL,contact@mccann-sanchez.com,415.958.1441x99407,True,0.84
+SUP-000207,"Walker, Pope and Nichols and Sons",North Macedonia,PACKAGING,contact@miller.com,9238895371,True,0.78
+SUP-000208,"Payne, Smith and Anderson PLC",Aruba,ADDITIVE,contact@hodge.biz,+1-255-560-8272x97585,True,0.91
+SUP-000209,"Reed, Cook and Sanders Inc",Heard Island and McDonald Islands,PACKAGING,contact@johnston.com,001-922-886-8297,True,0.76
+SUP-000210,"Mcguire, Wolf and Kennedy Ltd",Burundi,PACKAGING,contact@bowen.biz,946.297.7960x1788,True,0.74
+SUP-000211,"Lewis, Ellison and Wagner PLC",Australia,INGREDIENT,contact@meyer.net,4528368984,True,0.91
+SUP-000212,"Cooke, Jones and Spears Ltd",Kyrgyz Republic,PACKAGING,contact@dickerson-spears.com,001-383-904-9901x9890,False,0.82
+SUP-000213,"Jackson, Moore and Brock and Sons",Syrian Arab Republic,PACKAGING,contact@davis.org,001-560-766-5913,True,0.99
+SUP-000214,"Mcmillan, Mccarthy and Stevens and Sons",New Zealand,CHEMICAL,contact@perkins.com,001-844-220-8877x54434,True,0.76
+SUP-000215,Salazar-Lyons and Sons,Falkland Islands (Malvinas),RAW_FOOD,contact@morgan.com,001-869-551-1326x995,True,0.89
+SUP-000216,"Bailey, Webb and Lindsey LLC",Korea,INGREDIENT,contact@bennett-hamilton.com,6756227410,True,0.73
+SUP-000217,Riddle-Kim and Sons,Saint Martin,INGREDIENT,contact@thomas.com,9303393511,True,0.71
+SUP-000218,Hall Inc Ltd,El Salvador,CHEMICAL,contact@howell-baker.com,(903)391-7142,True,0.94
+SUP-000219,Charles PLC Inc,Korea,ADDITIVE,contact@davies.net,266.737.7850,True,0.78
+SUP-000220,Alvarez Inc and Sons,Ukraine,INGREDIENT,contact@jones-garcia.com,+1-432-398-9399x910,True,0.86
+SUP-000221,Holden-Gregory and Sons,Northern Mariana Islands,ADDITIVE,contact@hill.org,+1-438-503-0803x4473,True,0.96
+SUP-000222,Gill LLC Inc,Sri Lanka,CHEMICAL,contact@harrison.com,(618)290-2433x289,True,0.99
+SUP-000223,"Sellers, Mcfarland and Smith Ltd",American Samoa,RAW_FOOD,contact@anderson-mcdowell.net,313-359-7440x93557,True,0.95
+SUP-000224,Burns-Boyd PLC,Malaysia,CHEMICAL,contact@oconnor.info,(205)687-1177,True,0.94
+SUP-000225,"Prince, Miller and Vincent Ltd",Haiti,INGREDIENT,contact@porter-jimenez.biz,(566)763-5260,True,0.83
+SUP-000226,"Cisneros, Sanders and Jones Inc",Singapore,CHEMICAL,contact@perez.org,494.351.8320,True,0.75
+SUP-000227,Pearson Group Group,Nepal,ADDITIVE,contact@charles.com,264-597-3427x038,True,0.91
+SUP-000228,Garcia-Hart and Sons,Saint Lucia,INGREDIENT,contact@harper.com,+1-225-582-4988x1969,True,0.77
+SUP-000229,Rasmussen-Finley Group,Mali,INGREDIENT,contact@moore-banks.net,340-797-5369,True,0.94
+SUP-000230,"Washington, Jefferson and Burns PLC",Lithuania,PACKAGING,contact@matthews-harris.info,+1-720-284-0596,True,0.7
+SUP-000231,Briggs LLC Inc,Marshall Islands,PACKAGING,contact@tate-johnson.com,001-298-289-1697x86908,True,0.72
+SUP-000232,Suarez and Sons Ltd,Namibia,PACKAGING,contact@kirk.com,001-991-701-2797,True,0.95
+SUP-000233,"Brown, Taylor and Anderson Inc",Reunion,INGREDIENT,contact@brown.biz,(519)568-3949,True,0.93
+SUP-000234,"Jones, Thomas and Griffith Ltd",Mauritius,PACKAGING,contact@hernandez.com,367-706-8775x14794,True,0.71
+SUP-000235,Thomas-Becker and Sons,Cuba,ADDITIVE,contact@padilla.net,616-684-3883x000,True,0.99
+SUP-000236,Hunter LLC Ltd,Bulgaria,INGREDIENT,contact@richards-oliver.com,(665)913-6650x8045,True,0.9
+SUP-000237,Rose-Ellis Inc,Iraq,CHEMICAL,contact@hodges-green.info,001-750-976-9117,True,0.78
+SUP-000238,Brown PLC Inc,Venezuela,PACKAGING,contact@reynolds.com,(608)437-0586x2726,True,0.84
+SUP-000239,Gibson and Sons Ltd,Guinea-Bissau,INGREDIENT,contact@mcdaniel.com,+1-817-950-8115x28714,True,0.71
+SUP-000240,"Gibson, Williams and Rangel PLC",Guinea-Bissau,CHEMICAL,contact@long.org,+1-237-208-2411,True,0.88
+SUP-000241,Berry-Taylor LLC,Lesotho,CHEMICAL,contact@smith.com,211.776.9521,True,0.7
+SUP-000242,Hunter and Sons PLC,Montenegro,PACKAGING,contact@carpenter.com,+1-801-851-6158,True,0.75
+SUP-000243,Walker Group PLC,Ireland,RAW_FOOD,contact@fowler.com,256.319.0806x5846,True,0.95
+SUP-000244,"Washington, Smith and Trujillo and Sons",Azerbaijan,INGREDIENT,contact@parrish.com,001-389-472-7981x4188,True,0.95
+SUP-000245,"Sanders, Reyes and Silva and Sons",South Africa,CHEMICAL,contact@osborne.com,(588)322-1512,True,0.96
+SUP-000246,Forbes Inc Group,Western Sahara,INGREDIENT,contact@sanchez.org,625-468-5770x140,True,0.76
+SUP-000247,"Snow, Jones and Crawford Group",Mayotte,PACKAGING,contact@blackwell.com,532-819-0656x258,True,0.9
+SUP-000248,Atkins Inc and Sons,Kenya,ADDITIVE,contact@rivas.biz,(590)589-7520,True,0.74
+SUP-000249,"Park, Meyer and Vaughan Ltd",Armenia,PACKAGING,contact@terrell.com,(388)362-4901x77616,True,0.89
+SUP-000250,Larsen-Barnes Ltd,Luxembourg,INGREDIENT,contact@jackson-bowman.info,843-640-0055,True,0.83
+SUP-000251,Martinez LLC PLC,Saint Helena,INGREDIENT,contact@johnson.net,424.571.1370,True,0.71
+SUP-000252,Conrad-Greene Group,Pitcairn Islands,INGREDIENT,contact@phillips.com,980-581-7564x853,True,0.83
+SUP-000253,Allen-Watkins PLC,Niue,PACKAGING,contact@acosta.com,+1-239-335-5774x1283,True,0.71
+SUP-000254,"Holder, Watson and Greer Group",South Georgia and the South Sandwich Islands,CHEMICAL,contact@kelly.com,655.623.1276x152,True,0.92
+SUP-000255,Harris-English Inc,New Zealand,ADDITIVE,contact@doyle.com,546-685-0556x277,True,0.84
+SUP-000256,"Dean, Flowers and Castillo Group",Mexico,CHEMICAL,contact@ball.com,728.408.5855x9269,True,0.94
+SUP-000257,"Ball, Miller and Christensen LLC",Saint Vincent and the Grenadines,ADDITIVE,contact@kelley-richard.org,464.493.3554,True,0.8
+SUP-000258,"Reid, Hampton and Olsen and Sons",Malta,INGREDIENT,contact@wilcox.com,001-214-610-9083x6211,True,0.7
+SUP-000259,Mccormick PLC LLC,Mali,INGREDIENT,contact@grimes.info,(762)986-2789x877,True,0.91
+SUP-000260,"Hansen, Young and Oneal LLC",Bahamas,ADDITIVE,contact@curtis.com,+1-891-268-0910x4459,True,0.9
+SUP-000261,Chapman Group LLC,Namibia,CHEMICAL,contact@larson-ayala.org,(230)260-3347x59117,True,0.76
+SUP-000262,Ramsey Group Inc,Western Sahara,ADDITIVE,contact@alvarado.org,(909)683-1134x4161,True,0.9
+SUP-000263,"Mcgrath, Norris and Gonzales LLC",Equatorial Guinea,INGREDIENT,contact@daniels.info,681-608-2950x566,True,0.94
+SUP-000264,Johnson and Sons and Sons,Saint Barthelemy,PACKAGING,contact@chaney-walker.net,+1-863-971-9687x79902,True,0.92
+SUP-000265,"Wade, Owens and Walsh Group",Thailand,RAW_FOOD,contact@berg.com,614.971.7690x398,True,0.73
+SUP-000266,Walker and Sons Inc,Guatemala,PACKAGING,contact@becker.info,(201)446-1709x014,True,0.88
+SUP-000267,"Stevens, Moran and Scott Inc",Germany,ADDITIVE,contact@brown-johnson.org,+1-358-407-9083,True,0.83
+SUP-000268,"Moore, Odom and Parker Inc",Bahrain,PACKAGING,contact@valdez.com,282-216-7072x144,True,0.99
+SUP-000269,"Rodriguez, Sims and Williams Ltd",Central African Republic,RAW_FOOD,contact@jones-bryan.com,+1-444-576-6218x916,True,0.93
+SUP-000270,Myers Inc Group,Argentina,INGREDIENT,contact@drake-mcguire.com,+1-470-462-9020x66871,True,0.91
+SUP-000271,"Walker, Mejia and Harper Ltd",Netherlands,CHEMICAL,contact@fuentes.biz,(317)789-2703x6859,True,0.87
+SUP-000272,Griffin-Miller Ltd,Iceland,ADDITIVE,contact@moreno.com,001-305-945-4977x65572,True,0.83
+SUP-000273,Foley and Sons LLC,Norway,ADDITIVE,contact@cohen-swanson.com,374.970.3826,True,0.84
+SUP-000274,Wright-Larson Inc,Estonia,INGREDIENT,contact@williams.com,+1-731-691-7042x81023,True,0.86
+SUP-000275,Ellis-Richardson Inc,Benin,INGREDIENT,contact@carrillo.net,(983)478-5190,True,0.8
+SUP-000276,Campbell-Pierce PLC,Wallis and Futuna,PACKAGING,contact@hawkins.com,4958971476,True,0.92
+SUP-000277,Melton Ltd Ltd,Azerbaijan,CHEMICAL,contact@walton.com,(715)850-1132x5291,True,0.76
+SUP-000278,Harrington-Richardson LLC,Guam,RAW_FOOD,contact@melendez.com,9013540879,True,0.97
+SUP-000279,"Ball, Lynch and Taylor Ltd",Denmark,INGREDIENT,contact@farrell-palmer.biz,(876)263-5386x19504,True,0.78
+SUP-000280,Ortega-Lopez Group,Cote d'Ivoire,INGREDIENT,contact@chandler-pearson.com,910.457.8852x47013,True,0.85
+SUP-000281,Fowler-Williams Inc,Uruguay,PACKAGING,contact@diaz.info,602.220.1855x0780,True,0.92
+SUP-000282,Doyle-Turner Inc,Kyrgyz Republic,ADDITIVE,contact@riley.com,(856)678-7735,True,0.85
+SUP-000283,Jones-Smith LLC,Croatia,ADDITIVE,contact@bennett-king.org,001-840-295-0666x3644,True,0.77
+SUP-000284,Crawford-Cisneros Ltd,Congo,RAW_FOOD,contact@rivera-hawkins.com,+1-296-758-5289x32114,False,0.91
+SUP-000285,Stark-Stone Group,Uzbekistan,ADDITIVE,contact@hooper.com,207-428-2625x206,True,0.86
+SUP-000286,"Aguilar, Ramos and Stevenson Group",Anguilla,RAW_FOOD,contact@wade-griffith.com,710.542.5578,True,0.89
+SUP-000287,Butler-Winters Inc,Jordan,ADDITIVE,contact@brown.net,3159599488,True,0.89
+SUP-000288,"Gregory, Frye and Hamilton LLC",Cuba,PACKAGING,contact@butler.biz,001-737-973-5627x7304,True,0.77
+SUP-000289,Webb and Sons Inc,Romania,INGREDIENT,contact@thomas-hawkins.com,+1-860-755-7275x8877,True,0.94
+SUP-000290,White Ltd Group,Malaysia,INGREDIENT,contact@bush.com,(274)238-5177,True,0.75
+SUP-000291,Martin PLC Group,Cameroon,CHEMICAL,contact@wilson.com,558-274-6441x9073,True,0.83
+SUP-000292,Carter-Lyons Inc,Turkey,ADDITIVE,contact@burns-wade.com,+1-896-957-6312x6594,True,0.9
+SUP-000293,Wilson-Jones Group,Holy See (Vatican City State),RAW_FOOD,contact@whitaker.com,(248)590-3495,True,0.78
+SUP-000294,"Oconnor, Mcneil and Freeman Ltd",Montserrat,PACKAGING,contact@brown-white.biz,422.244.4959,True,0.86
+SUP-000295,Owens-Williams Ltd,Saint Lucia,RAW_FOOD,contact@lopez.com,662-560-1130x177,True,0.95
+SUP-000296,"Fleming, Kerr and Obrien PLC",Monaco,INGREDIENT,contact@rice-mitchell.com,383.399.8779,True,0.84
+SUP-000297,"Hale, Knox and Richardson PLC",Holy See (Vatican City State),RAW_FOOD,contact@haynes.com,297-566-0797x409,True,0.76
+SUP-000298,Moore Ltd PLC,Eritrea,ADDITIVE,contact@riddle-smith.com,001-805-435-9009x89618,True,0.77
+SUP-000299,"Morrow, Vasquez and Alexander Inc",Madagascar,ADDITIVE,contact@esparza.com,001-843-520-3959,True,0.72
+SUP-000300,"Rogers, Welch and Webb Group",Falkland Islands (Malvinas),INGREDIENT,contact@mcclain.com,846.654.3542,True,0.76
+SUP-000301,Robinson-Tucker Inc,Jersey,RAW_FOOD,contact@pitts-riley.org,930-578-5377x2307,True,0.86
+SUP-000302,"Morgan, Thompson and Kelly PLC",Canada,ADDITIVE,contact@vasquez.info,959-366-8955x953,True,0.92
+SUP-000303,Gibson LLC LLC,Liechtenstein,RAW_FOOD,contact@casey-martinez.com,(841)921-2860x329,True,0.7
+SUP-000304,Juarez PLC Ltd,Saint Lucia,CHEMICAL,contact@peters.com,2512460619,True,0.71
+SUP-000305,Webb Ltd Ltd,Honduras,CHEMICAL,contact@smith.com,+1-660-250-1225,True,0.92
+SUP-000306,Anderson-Payne PLC,India,PACKAGING,contact@thompson.com,3617407255,True,0.89
+SUP-000307,Kelly Ltd LLC,Timor-Leste,PACKAGING,contact@mendoza.biz,001-917-607-2451x3435,True,0.71
+SUP-000308,Smith Ltd Ltd,Armenia,INGREDIENT,contact@norris-pace.biz,(821)237-8746x931,True,0.91
+SUP-000309,Blackburn PLC and Sons,Armenia,CHEMICAL,contact@carey-simmons.com,628-551-1299x35700,True,0.95
+SUP-000310,Martinez Group Inc,Lao People's Democratic Republic,ADDITIVE,contact@camacho.biz,001-760-918-6652x814,True,0.85
+SUP-000311,Baker-Brown PLC,Czech Republic,PACKAGING,contact@henry-blake.com,+1-316-345-7670x636,True,0.77
+SUP-000312,Klein LLC Inc,South Georgia and the South Sandwich Islands,ADDITIVE,contact@jimenez.com,+1-436-585-5051x885,True,0.88
+SUP-000313,"Bishop, Hinton and Cole LLC",Macao,CHEMICAL,contact@price.biz,(626)427-3096x882,True,0.89
+SUP-000314,"Dean, Jordan and Carlson and Sons",Latvia,PACKAGING,contact@wood.com,001-947-382-2252x707,True,0.74
+SUP-000315,"Mays, Lopez and Greene and Sons",Iraq,RAW_FOOD,contact@roberts.org,+1-900-210-7136x6458,True,0.77
+SUP-000316,Hernandez PLC LLC,Egypt,INGREDIENT,contact@wallace.org,001-982-293-5728,False,0.96
+SUP-000317,Johnson Ltd and Sons,Switzerland,PACKAGING,contact@henson.net,001-773-863-2229,True,0.75
+SUP-000318,Kelly Group Ltd,Cote d'Ivoire,CHEMICAL,contact@norris-gonzalez.net,503-615-1899x70115,True,0.75
+SUP-000319,Grant-Villarreal and Sons,French Southern Territories,ADDITIVE,contact@deleon.biz,(455)862-4825x66530,True,0.76
+SUP-000320,Esparza Ltd PLC,Spain,PACKAGING,contact@harrison.com,918-411-3737x4167,True,0.76
+SUP-000321,"Stark, Davis and Evans and Sons",Antarctica (the territory South of 60 deg S),INGREDIENT,contact@collier.org,+1-966-611-8803x759,True,0.91
+SUP-000322,Kim LLC PLC,Congo,RAW_FOOD,contact@white.com,722-802-6497x9355,True,0.84
+SUP-000323,"Johns, Long and Brooks LLC",Thailand,CHEMICAL,contact@vargas.info,4822499089,True,0.71
+SUP-000324,Smith and Sons PLC,Malawi,PACKAGING,contact@moreno-trujillo.com,620-286-9015,True,0.72
+SUP-000325,Carter Group Ltd,Guyana,PACKAGING,contact@hubbard-anderson.com,447-642-0040,True,0.75
+SUP-000326,"Ford, Brennan and Scott Group",Tunisia,CHEMICAL,contact@riley.com,+1-435-510-1649x097,True,0.96
+SUP-000327,Freeman-Perkins Ltd,Uruguay,PACKAGING,contact@bryant.com,723.712.8618,True,0.75
+SUP-000328,Stevens PLC Inc,Marshall Islands,CHEMICAL,contact@simmons.com,6664812836,True,0.96
+SUP-000329,Bowers-Aguilar Group,Greenland,ADDITIVE,contact@matthews.biz,+1-271-539-9554x898,True,0.94
+SUP-000330,Evans-Bell PLC,Ecuador,RAW_FOOD,contact@orr-wilson.com,917.215.3855,True,0.77
+SUP-000331,"Jones, Dorsey and Reid Ltd",Wallis and Futuna,RAW_FOOD,contact@duncan.org,+1-830-982-6453,True,0.91
+SUP-000332,"Acosta, Rivera and Walker Inc",Falkland Islands (Malvinas),ADDITIVE,contact@roberts-malone.org,406.983.6554,True,0.82
+SUP-000333,Doyle-Hensley Ltd,Brazil,PACKAGING,contact@novak.com,487-602-7999x86338,True,0.86
+SUP-000334,Thomas-Lee PLC,Singapore,PACKAGING,contact@beck.biz,462-604-2957,True,0.8
+SUP-000335,Harrison Group PLC,Palestinian Territory,PACKAGING,contact@howard.com,001-380-978-7739x377,True,0.87
+SUP-000336,"Mason, Reilly and Castillo and Sons",Madagascar,CHEMICAL,contact@berry-alvarez.info,001-861-282-8230x90003,True,0.92
+SUP-000337,"Graham, Yang and Silva Ltd",Armenia,INGREDIENT,contact@wang.com,001-221-906-3600x0476,True,0.88
+SUP-000338,"Wright, Lee and Jennings Group",Burundi,ADDITIVE,contact@adams-harris.net,780-488-7215x84995,True,0.86
+SUP-000339,Daniels Inc and Sons,Swaziland,INGREDIENT,contact@melendez.com,560.926.2727x366,True,0.77
+SUP-000340,"Bell, Cervantes and Graves Ltd",Sweden,INGREDIENT,contact@doyle.com,+1-739-410-7883x82749,True,0.93
+SUP-000341,Gonzalez and Sons PLC,Gibraltar,PACKAGING,contact@perez.com,681-933-7382x48022,True,0.93
+SUP-000342,"Maldonado, Price and Gould Group",Benin,CHEMICAL,contact@riley-mack.com,469-487-3651,True,0.79
+SUP-000343,Nichols-Maynard Group,Aruba,CHEMICAL,contact@hoffman.com,302-560-9934x666,True,0.9
+SUP-000344,"Jones, Taylor and Patterson Inc",Guinea-Bissau,INGREDIENT,contact@alexander-thomas.com,(334)481-4500,True,0.93
+SUP-000345,Duran-Mooney PLC,Canada,CHEMICAL,contact@perez.com,422-989-0508x2527,True,0.84
+SUP-000346,Santos LLC Inc,Cote d'Ivoire,INGREDIENT,contact@reed-mckinney.com,6708486142,True,0.86
+SUP-000347,Morales LLC PLC,Azerbaijan,RAW_FOOD,contact@bennett-rodriguez.com,2416764902,True,0.72
+SUP-000348,Williams-Hopkins Ltd,Grenada,RAW_FOOD,contact@richardson-lewis.com,5416844247,True,0.79
+SUP-000349,Flores-Brown Ltd,Brunei Darussalam,RAW_FOOD,contact@carter.com,466-942-5355,True,0.79
+SUP-000350,"Morgan, Burgess and Hale Inc",Argentina,RAW_FOOD,contact@vaughn.com,462.394.7336x56303,True,0.97
+SUP-000351,"Wright, Coleman and Thomas LLC",Lithuania,RAW_FOOD,contact@davis-garcia.biz,(502)909-1736x07240,True,0.75
+SUP-000352,Duncan-Brown PLC,Andorra,PACKAGING,contact@howard.com,557-902-1022,True,0.99
+SUP-000353,Morales-Rowe PLC,Belize,RAW_FOOD,contact@farmer.com,+1-329-591-2021x40305,True,0.85
+SUP-000354,Thomas Ltd and Sons,Sao Tome and Principe,INGREDIENT,contact@lee-hanson.info,992-391-7575x71997,True,0.96
+SUP-000355,Nguyen-Miller PLC,Uzbekistan,ADDITIVE,contact@myers.net,250-555-5816,True,0.84
+SUP-000356,Coffey-Young Group,Canada,PACKAGING,contact@rush.com,(698)650-7179x11905,True,0.8
+SUP-000357,Branch Ltd and Sons,Sudan,PACKAGING,contact@kim-allen.com,385-732-9700x9217,True,0.93
+SUP-000358,"Garrett, Hall and Clarke LLC",Paraguay,CHEMICAL,contact@miller-carlson.info,001-819-872-9840x960,True,0.93
+SUP-000359,"Freeman, Sanders and Wolf PLC",Malaysia,CHEMICAL,contact@rogers-vaughn.net,995.995.2426x7476,True,0.88
+SUP-000360,Contreras Inc PLC,Vietnam,ADDITIVE,contact@walsh.com,+1-751-957-1627x37048,True,0.84
+SUP-000361,Clark-Fletcher PLC,Dominica,RAW_FOOD,contact@keller.com,746-267-3746,True,0.72
+SUP-000362,Johnson LLC Inc,Congo,PACKAGING,contact@white-brooks.org,(768)830-0679x830,True,0.96
+SUP-000363,"Knox, Brown and Silva Ltd",Antarctica (the territory South of 60 deg S),CHEMICAL,contact@robinson-diaz.com,001-254-597-5443x7274,True,0.76
+SUP-000364,Bell-Kelly Ltd,Montenegro,CHEMICAL,contact@solomon.info,508-429-6695x001,False,0.75
+SUP-000365,Blackburn Inc Group,Israel,INGREDIENT,contact@jacobs-robertson.com,+1-930-681-6665x2287,True,0.89
+SUP-000366,"Wolfe, Cain and Becker LLC",Iran,PACKAGING,contact@davis.com,427-230-6027x0411,True,0.74
+SUP-000367,Perez and Sons Ltd,Jersey,RAW_FOOD,contact@nelson-garcia.biz,549-931-7227x4505,True,0.84
+SUP-000368,Moore-Bailey Ltd,Micronesia,ADDITIVE,contact@oliver.com,4726759622,True,0.87
+SUP-000369,"Mccormick, Stephens and Reid Ltd",Afghanistan,PACKAGING,contact@stout.com,(819)389-7998,True,0.72
+SUP-000370,Hernandez PLC Group,Aruba,PACKAGING,contact@bass.com,542-325-1135x70592,True,0.94
+SUP-000371,Cunningham-Fleming and Sons,Argentina,INGREDIENT,contact@taylor-garcia.info,980.730.4407x7495,True,0.75
+SUP-000372,Lee Ltd and Sons,Austria,CHEMICAL,contact@ashley-webb.org,+1-432-630-3893x981,True,0.96
+SUP-000373,Sanders-Brown Ltd,Turkmenistan,INGREDIENT,contact@hahn.com,500-470-5809x3467,True,0.71
+SUP-000374,"Barnett, Dunn and Carson Ltd",Northern Mariana Islands,RAW_FOOD,contact@nolan.com,783-564-7454,True,0.85
+SUP-000375,Bennett Inc LLC,Djibouti,ADDITIVE,contact@thompson.net,001-942-627-3705x56895,True,0.76
+SUP-000376,"Miller, Taylor and Turner Inc",Comoros,CHEMICAL,contact@russell.biz,838-981-3344,True,0.74
+SUP-000377,Buckley Ltd Ltd,Azerbaijan,PACKAGING,contact@robles-hall.org,9718005519,True,0.73
+SUP-000378,"Holland, Weber and Davis Group",Chile,RAW_FOOD,contact@evans-phillips.com,(889)528-8514x06802,True,0.77
+SUP-000379,"Vega, Underwood and Campbell and Sons",Zambia,ADDITIVE,contact@williams-marshall.com,777-376-1743x79663,True,0.98
+SUP-000380,Murray-Smith Ltd,Kazakhstan,ADDITIVE,contact@conley.com,001-593-595-0831x67438,True,0.73
+SUP-000381,Johnson LLC Ltd,Cuba,CHEMICAL,contact@guerrero.com,+1-342-388-9474x73346,True,0.74
+SUP-000382,Arnold-Nunez Group,Japan,CHEMICAL,contact@carroll-powell.org,(466)282-4785x43841,True,0.96
+SUP-000383,Stephens-Clark Group,Anguilla,PACKAGING,contact@brady-glenn.com,(991)707-3783,True,0.92
+SUP-000384,Anderson Ltd Inc,Mayotte,RAW_FOOD,contact@ryan.com,001-550-928-3558x110,True,0.71
+SUP-000385,Alexander-Sanchez Ltd,Lebanon,INGREDIENT,contact@kramer.info,+1-569-529-0099,True,0.79
+SUP-000386,Walker PLC Ltd,Nigeria,ADDITIVE,contact@miller.com,731.225.3225,True,0.8
+SUP-000387,Smith-Hampton and Sons,Belize,ADDITIVE,contact@bowman-lynch.net,769-642-5872x8840,True,0.89
+SUP-000388,"Vargas, Gonzales and Anderson Ltd",Saint Barthelemy,CHEMICAL,contact@wilson.com,(265)847-3546x756,True,0.97
+SUP-000389,"White, Anderson and Thomas and Sons",Croatia,ADDITIVE,contact@valencia.com,300-895-3672x556,True,0.84
+SUP-000390,Young-Smith Group,Saint Barthelemy,RAW_FOOD,contact@davis.com,706.267.2847x32328,True,0.87
+SUP-000391,Young-Cooper LLC,Italy,RAW_FOOD,contact@johnson-clements.com,(208)453-2212,True,0.79
+SUP-000392,Sutton-Brooks Inc,Saint Barthelemy,RAW_FOOD,contact@mckenzie-martinez.com,582.446.6730x621,True,0.9
+SUP-000393,Morgan-Thomas Ltd,Gambia,INGREDIENT,contact@watson.com,+1-682-691-2252x49732,True,0.94
+SUP-000394,"Adams, Moreno and Reynolds Inc",British Indian Ocean Territory (Chagos Archipelago),PACKAGING,contact@robinson.com,(259)447-5815x74170,True,0.72
+SUP-000395,"Blanchard, Scott and Greene LLC",Montenegro,RAW_FOOD,contact@cross.com,(549)437-0712,True,0.79
+SUP-000396,Howell-Gonzalez LLC,Nepal,PACKAGING,contact@suarez.com,001-548-563-4259x517,True,0.97
+SUP-000397,Bowman-Hernandez LLC,Germany,RAW_FOOD,contact@cook.info,(923)455-1262x172,False,0.86
+SUP-000398,Powers-White Group,Germany,ADDITIVE,contact@hampton.net,001-902-513-4505,True,0.77
+SUP-000399,Arellano PLC LLC,Cayman Islands,ADDITIVE,contact@russo.com,887-914-5673,True,0.97
+SUP-000400,Reyes PLC Ltd,United States Virgin Islands,ADDITIVE,contact@holland.biz,618.958.1563x37074,True,0.73
+SUP-000401,Wong-Gomez Group,Cape Verde,PACKAGING,contact@moore.net,589.435.2703,True,0.91
+SUP-000402,Miller-Joyce PLC,Guinea-Bissau,RAW_FOOD,contact@williamson-vazquez.info,(442)361-3438x12876,True,0.76
+SUP-000403,Brown LLC PLC,Nepal,RAW_FOOD,contact@conner-lane.com,+1-522-629-4385x94739,True,0.74
+SUP-000404,Kennedy-Lawrence Inc,Tanzania,RAW_FOOD,contact@estrada.com,918.970.9195,True,0.79
+SUP-000405,Holden Inc LLC,Bangladesh,ADDITIVE,contact@walton.com,(664)770-0855,True,0.98
+SUP-000406,Smith-Jimenez Inc,Solomon Islands,PACKAGING,contact@ross-santiago.org,239-202-6222x02769,True,0.84
+SUP-000407,"Hall, Hamilton and Steele LLC",Benin,PACKAGING,contact@king.com,523-931-1439,True,0.83
+SUP-000408,"Navarro, Silva and Dunlap PLC",Saint Barthelemy,ADDITIVE,contact@mora.com,479-665-3620x4508,True,0.7
+SUP-000409,"Bean, Montgomery and Nguyen LLC",Guatemala,RAW_FOOD,contact@allison-montes.biz,(853)794-5061,True,0.98
+SUP-000410,Hatfield-Estrada LLC,South Georgia and the South Sandwich Islands,ADDITIVE,contact@martinez.com,435.948.9395,True,0.84
+SUP-000411,Kramer-Richardson Ltd,San Marino,ADDITIVE,contact@robinson-boyd.com,(377)405-9725x430,True,0.87
+SUP-000412,"Stevens, Robinson and Henry Group",Jamaica,RAW_FOOD,contact@crane-barnes.com,001-897-460-0779x804,True,0.96
+SUP-000413,Stein Ltd LLC,Guinea-Bissau,PACKAGING,contact@aguilar.biz,(547)934-8555x055,True,0.74
+SUP-000414,"Drake, Washington and Mcmahon LLC",Singapore,ADDITIVE,contact@nelson.com,(890)481-7629x9096,True,0.87
+SUP-000415,Kemp-Murphy PLC,Equatorial Guinea,RAW_FOOD,contact@murillo.com,(858)643-4771,True,0.9
+SUP-000416,Morales-Scott PLC,Qatar,PACKAGING,contact@hobbs.com,(653)463-5951,True,0.75
+SUP-000417,Green Inc and Sons,Guinea-Bissau,RAW_FOOD,contact@cooper-jimenez.com,+1-518-871-9082x69545,True,0.89
+SUP-000418,"Case, Murillo and Potter LLC",French Guiana,RAW_FOOD,contact@duncan-quinn.com,304.369.2114,True,0.72
+SUP-000419,Thompson-Ball PLC,Central African Republic,CHEMICAL,contact@simmons-stuart.net,(817)655-4011x9440,True,0.7
+SUP-000420,"Odom, Owens and Miller Inc",Mali,PACKAGING,contact@johnston-dickerson.info,(259)265-7668,True,0.77
+SUP-000421,"Smith, Bradley and Morgan Ltd",Bouvet Island (Bouvetoya),INGREDIENT,contact@jacobs-jenkins.com,(763)262-5812x2198,True,0.89
+SUP-000422,"Hunt, Bruce and Wang PLC",Angola,ADDITIVE,contact@rodriguez.info,+1-336-541-4600x156,True,0.8
+SUP-000423,Miller-Roman Group,Dominican Republic,CHEMICAL,contact@leon.com,574-279-5021x2409,True,0.88
+SUP-000424,Howe-Taylor Inc,Chad,INGREDIENT,contact@sullivan.info,(735)650-2678x1445,True,0.9
+SUP-000425,Hernandez Ltd and Sons,French Guiana,INGREDIENT,contact@wong.com,591-503-1058x8332,True,0.86
+SUP-000426,Fisher PLC Ltd,Denmark,CHEMICAL,contact@arellano.info,494.216.5364x347,True,0.71
+SUP-000427,"Smith, Davis and Johnson and Sons",Vietnam,CHEMICAL,contact@wood-wilson.com,(704)244-2484x920,True,0.91
+SUP-000428,Taylor Ltd PLC,Uruguay,RAW_FOOD,contact@gomez-jackson.com,+1-289-239-6742x641,True,0.95
+SUP-000429,Ballard Group Ltd,Zambia,INGREDIENT,contact@mendoza.net,542.655.6729x6251,True,0.93
+SUP-000430,Bray-Wells LLC,El Salvador,ADDITIVE,contact@lee.com,903.698.2396x3243,True,0.8
+SUP-000431,Brown-Smith PLC,Estonia,INGREDIENT,contact@brown-crawford.com,869-555-2531,True,0.77
+SUP-000432,"Simmons, Patel and Baker Ltd",Zambia,CHEMICAL,contact@jackson-morris.com,923-393-3409x88317,True,0.86
+SUP-000433,Kaiser-Bishop LLC,British Indian Ocean Territory (Chagos Archipelago),RAW_FOOD,contact@smith-franklin.com,(534)673-1193x654,False,0.8
+SUP-000434,Blevins Inc Group,Eritrea,RAW_FOOD,contact@haney.biz,(765)381-4035,True,0.93
+SUP-000435,Hammond and Sons and Sons,Lesotho,CHEMICAL,contact@cummings.com,(665)392-2694,True,0.83
+SUP-000436,Lopez-Parker Ltd,Cape Verde,CHEMICAL,contact@james.org,(788)549-7140,True,0.74
+SUP-000437,"Smith, Schmidt and Yang Ltd",Gibraltar,RAW_FOOD,contact@pena.com,4313213695,True,0.94
+SUP-000438,"Cole, Patton and Robbins and Sons",Somalia,CHEMICAL,contact@barnes-townsend.com,963.573.4092x817,False,0.72
+SUP-000439,Allen Ltd Inc,Congo,PACKAGING,contact@smith.com,+1-338-479-2533x2293,True,0.71
+SUP-000440,"Castro, Johnson and Burke Ltd",Luxembourg,PACKAGING,contact@boyer.com,(422)764-5177x536,True,0.85
+SUP-000441,Powers-Johnson PLC,Tunisia,PACKAGING,contact@lee.net,831.878.3255x308,True,0.88
+SUP-000442,"Klein, Waller and Reed LLC",Greece,ADDITIVE,contact@hancock.info,897.898.2349x3809,True,0.81
+SUP-000443,Cruz Inc and Sons,Guinea-Bissau,INGREDIENT,contact@hubbard-flowers.net,001-399-763-6376x7717,True,0.83
+SUP-000444,Phillips-Bell PLC,Kyrgyz Republic,PACKAGING,contact@davis-nicholson.com,(835)748-3287x4098,True,0.81
+SUP-000445,"Johnson, James and Keller LLC",Israel,PACKAGING,contact@goodman.biz,001-711-219-4854,True,0.94
+SUP-000446,Martinez Inc PLC,Liechtenstein,INGREDIENT,contact@campbell.com,001-477-628-8107x4396,True,0.91
+SUP-000447,Young-Smith Inc,Libyan Arab Jamahiriya,RAW_FOOD,contact@walls.com,3415952356,True,0.9
+SUP-000448,"Lindsey, Zimmerman and Smith Group",Argentina,CHEMICAL,contact@carter.net,(339)712-8256x7818,True,0.8
+SUP-000449,Brandt Inc Inc,Mongolia,RAW_FOOD,contact@bowers-blackwell.biz,+1-680-368-0752x83944,True,0.77
+SUP-000450,Jones-Moore LLC,Yemen,PACKAGING,contact@brown-cobb.biz,673-784-8601,True,0.85
+SUP-000451,"Sampson, Bryant and Lambert Ltd",Madagascar,CHEMICAL,contact@mayer-peters.biz,6012459868,True,0.78
+SUP-000452,Olson Inc Group,Dominican Republic,ADDITIVE,contact@allen.com,001-909-691-7717x711,True,0.85
+SUP-000453,Black-Herrera Group,Guyana,PACKAGING,contact@holloway-peters.net,531-411-1317x70066,True,0.8
+SUP-000454,Huber-Glass and Sons,Vanuatu,INGREDIENT,contact@robinson-barron.com,251.669.9652x24741,True,0.83
+SUP-000455,"Jackson, Maynard and Barajas and Sons",Wallis and Futuna,RAW_FOOD,contact@snyder-miller.info,(696)467-2316x77608,True,0.9
+SUP-000456,May LLC LLC,Norway,CHEMICAL,contact@gonzalez.com,429.313.5446x1197,True,0.74
+SUP-000457,Robinson-Joyce Group,Ghana,ADDITIVE,contact@aguilar-stevenson.biz,416.213.6420,True,0.82
+SUP-000458,Pena Group PLC,Slovakia (Slovak Republic),PACKAGING,contact@fletcher.com,419-942-8900x579,True,0.86
+SUP-000459,"Evans, May and Ross and Sons",San Marino,ADDITIVE,contact@fields.com,(637)403-6138,True,0.96
+SUP-000460,"Horn, Fisher and Pierce Ltd",Barbados,ADDITIVE,contact@adams.com,+1-351-944-4189x49533,True,0.82
+SUP-000461,Wolfe Inc Group,Iraq,PACKAGING,contact@wilson.com,001-815-727-0720x1009,True,0.73
+SUP-000462,Carpenter Ltd PLC,Marshall Islands,ADDITIVE,contact@simpson.net,001-296-444-3880x905,True,0.98
+SUP-000463,"Hudson, Smith and Hogan LLC",Turkmenistan,ADDITIVE,contact@love.com,+1-368-384-5112x29255,True,0.9
+SUP-000464,"Gregory, Carson and Gross Group",Kyrgyz Republic,ADDITIVE,contact@atkins.com,001-879-301-4418,True,0.91
+SUP-000465,Barr Ltd LLC,Japan,PACKAGING,contact@rowe.com,(742)244-9949,True,0.82
+SUP-000466,"Ray, Walsh and Raymond and Sons",Jordan,CHEMICAL,contact@brown.com,+1-495-403-1434x4946,True,0.82
+SUP-000467,Cabrera-Hill Group,Nicaragua,ADDITIVE,contact@jones-foster.com,994.855.1316,True,0.88
+SUP-000468,Nguyen-Smith Ltd,Hong Kong,CHEMICAL,contact@bennett.com,+1-551-935-2558x41548,True,0.71
+SUP-000469,Anderson and Sons PLC,Norfolk Island,PACKAGING,contact@whitehead-sullivan.info,744.795.4621x82049,True,0.87
+SUP-000470,Dominguez-Gardner Ltd,Andorra,INGREDIENT,contact@benjamin-martinez.com,(951)922-8277,True,0.7
+SUP-000471,"Orozco, Curtis and Calhoun and Sons",Trinidad and Tobago,INGREDIENT,contact@patterson.com,440.632.3637x315,True,0.96
+SUP-000472,Pittman Ltd Group,Chile,PACKAGING,contact@walker-griffith.net,358-429-5557x7484,True,0.98
+SUP-000473,Murphy Inc Ltd,Luxembourg,PACKAGING,contact@estrada-waters.info,001-245-615-8666x4603,True,0.96
+SUP-000474,Dunn-Sanders and Sons,India,ADDITIVE,contact@jimenez-atkinson.com,(689)710-4573,True,0.92
+SUP-000475,"Sims, Jones and Gaines Inc",Algeria,ADDITIVE,contact@taylor-white.com,535-382-5175,True,0.86
+SUP-000476,Cooper Ltd and Sons,Pitcairn Islands,INGREDIENT,contact@bailey-clark.com,+1-577-891-0668,True,0.84
+SUP-000477,Chan-Anderson Group,Kenya,ADDITIVE,contact@brown.info,315-571-0614x38207,True,0.96
+SUP-000478,"Kerr, Davis and Blair LLC",Kyrgyz Republic,INGREDIENT,contact@humphrey-ramirez.com,322.574.4145x74800,True,0.8
+SUP-000479,"Perez, Olson and White PLC",Monaco,RAW_FOOD,contact@floyd-torres.com,+1-501-651-6978,True,0.73
+SUP-000480,Webb and Sons LLC,Madagascar,PACKAGING,contact@bullock.org,001-684-859-6272,True,0.74
+SUP-000481,Stephens-Bond Inc,United Arab Emirates,RAW_FOOD,contact@shepherd.biz,615-248-1604x8267,True,0.99
+SUP-000482,Anderson Group LLC,Saint Martin,CHEMICAL,contact@houston-stafford.biz,+1-315-269-5742x7156,True,0.91
+SUP-000483,Johnson-Miller PLC,Pitcairn Islands,PACKAGING,contact@lang-perry.com,906-248-7787,True,0.82
+SUP-000484,"Parker, Cox and Fernandez LLC",Sudan,INGREDIENT,contact@hess.com,(236)790-5452,True,0.93
+SUP-000485,Wright-Valdez Ltd,Egypt,RAW_FOOD,contact@jordan.com,(443)807-7017x3117,True,0.96
+SUP-000486,"Garrett, Hobbs and Harvey PLC",Barbados,RAW_FOOD,contact@schneider-harris.info,(465)972-7677x9462,True,0.71
+SUP-000487,Miller-Henson LLC,Anguilla,INGREDIENT,contact@koch-kline.biz,770-449-9184x580,True,0.86
+SUP-000488,Roberts-Barnes and Sons,Ghana,ADDITIVE,contact@marshall-carpenter.com,319-605-5643x921,True,0.94
+SUP-000489,"Trujillo, Juarez and Schwartz Ltd",Bahamas,PACKAGING,contact@white.info,9175055940,True,0.84
+SUP-000490,"Khan, Burch and Smith Group",Equatorial Guinea,ADDITIVE,contact@oneill-le.org,521-215-3064,True,0.8
+SUP-000491,"Jackson, Morris and Smith Inc",Seychelles,INGREDIENT,contact@velasquez.com,+1-385-337-5042x4430,True,0.78
+SUP-000492,Henderson-Porter and Sons,Norway,ADDITIVE,contact@hudson.com,001-457-773-0236x3025,True,0.85
+SUP-000493,Hall-Weaver and Sons,Nigeria,ADDITIVE,contact@oneal-baker.biz,001-458-268-4968x7446,True,0.75
+SUP-000494,Mitchell-Boyle Inc,Guinea-Bissau,ADDITIVE,contact@walker-cervantes.info,(260)693-4290x7208,True,0.9
+SUP-000495,Collins Inc Inc,Germany,PACKAGING,contact@bauer-moody.info,717.900.1312x55854,True,0.88
+SUP-000496,"Solis, Bailey and Hamilton Group",Nicaragua,INGREDIENT,contact@reid.org,001-689-671-4401x4424,True,0.79
+SUP-000497,"Walker, Brown and Wilson Group",Bolivia,ADDITIVE,contact@gibson-hernandez.org,(236)301-9713x88338,True,0.85
+SUP-000498,Castillo and Sons LLC,Greenland,INGREDIENT,contact@robinson.com,(961)301-2366x90350,True,0.91
+SUP-000499,"Welch, Schroeder and Neal and Sons",Djibouti,RAW_FOOD,contact@chavez.com,(464)750-7412,True,0.98
+SUP-000500,Mcgee-Thomas LLC,Wallis and Futuna,ADDITIVE,contact@sullivan.net,001-640-692-4290x6853,True,0.72

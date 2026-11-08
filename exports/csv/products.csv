@@ -1,0 +1,51 @@
+product_id,name,sku,category,uom,shelf_life_days,is_active
+PROD-000001,Organic Chocolate Protein Shake 500ml - Variant 1,SKU-BEV-0001,BEVERAGE,UNIT,180,True
+PROD-000002,Energy Bar High Fiber Almond 60g - Variant 2,SKU-SNA-0002,SNACK,UNIT,365,True
+PROD-000003,Citrus Electrolyte Drink 250ml - Variant 3,SKU-BEV-0003,BEVERAGE,UNIT,270,True
+PROD-000004,Artisan Bakery Premix 5kg - Variant 4,SKU-FOO-0004,FOOD_SERVICE,KG,120,True
+PROD-000005,Pure Soy Lecithin Emulsion 1L - Variant 5,SKU-ING-0005,INGREDIENTS,LITER,360,True
+PROD-000006,Organic Chocolate Protein Shake 500ml - Variant 6,SKU-BEV-0006,BEVERAGE,UNIT,180,True
+PROD-000007,Energy Bar High Fiber Almond 60g - Variant 7,SKU-SNA-0007,SNACK,UNIT,365,True
+PROD-000008,Citrus Electrolyte Drink 250ml - Variant 8,SKU-BEV-0008,BEVERAGE,UNIT,270,True
+PROD-000009,Artisan Bakery Premix 5kg - Variant 9,SKU-FOO-0009,FOOD_SERVICE,KG,120,True
+PROD-000010,Pure Soy Lecithin Emulsion 1L - Variant 10,SKU-ING-0010,INGREDIENTS,LITER,360,True
+PROD-000011,Organic Chocolate Protein Shake 500ml - Variant 11,SKU-BEV-0011,BEVERAGE,UNIT,180,True
+PROD-000012,Energy Bar High Fiber Almond 60g - Variant 12,SKU-SNA-0012,SNACK,UNIT,365,True
+PROD-000013,Citrus Electrolyte Drink 250ml - Variant 13,SKU-BEV-0013,BEVERAGE,UNIT,270,True
+PROD-000014,Artisan Bakery Premix 5kg - Variant 14,SKU-FOO-0014,FOOD_SERVICE,KG,120,True
+PROD-000015,Pure Soy Lecithin Emulsion 1L - Variant 15,SKU-ING-0015,INGREDIENTS,LITER,360,True
+PROD-000016,Organic Chocolate Protein Shake 500ml - Variant 16,SKU-BEV-0016,BEVERAGE,UNIT,180,True
+PROD-000017,Energy Bar High Fiber Almond 60g - Variant 17,SKU-SNA-0017,SNACK,UNIT,365,True
+PROD-000018,Citrus Electrolyte Drink 250ml - Variant 18,SKU-BEV-0018,BEVERAGE,UNIT,270,True
+PROD-000019,Artisan Bakery Premix 5kg - Variant 19,SKU-FOO-0019,FOOD_SERVICE,KG,120,True
+PROD-000020,Pure Soy Lecithin Emulsion 1L - Variant 20,SKU-ING-0020,INGREDIENTS,LITER,360,True
+PROD-000021,Organic Chocolate Protein Shake 500ml - Variant 21,SKU-BEV-0021,BEVERAGE,UNIT,180,True
+PROD-000022,Energy Bar High Fiber Almond 60g - Variant 22,SKU-SNA-0022,SNACK,UNIT,365,True
+PROD-000023,Citrus Electrolyte Drink 250ml - Variant 23,SKU-BEV-0023,BEVERAGE,UNIT,270,True
+PROD-000024,Artisan Bakery Premix 5kg - Variant 24,SKU-FOO-0024,FOOD_SERVICE,KG,120,True
+PROD-000025,Pure Soy Lecithin Emulsion 1L - Variant 25,SKU-ING-0025,INGREDIENTS,LITER,360,True
+PROD-000026,Organic Chocolate Protein Shake 500ml - Variant 26,SKU-BEV-0026,BEVERAGE,UNIT,180,True
+PROD-000027,Energy Bar High Fiber Almond 60g - Variant 27,SKU-SNA-0027,SNACK,UNIT,365,True
+PROD-000028,Citrus Electrolyte Drink 250ml - Variant 28,SKU-BEV-0028,BEVERAGE,UNIT,270,True
+PROD-000029,Artisan Bakery Premix 5kg - Variant 29,SKU-FOO-0029,FOOD_SERVICE,KG,120,True
+PROD-000030,Pure Soy Lecithin Emulsion 1L - Variant 30,SKU-ING-0030,INGREDIENTS,LITER,360,True
+PROD-000031,Organic Chocolate Protein Shake 500ml - Variant 31,SKU-BEV-0031,BEVERAGE,UNIT,180,True
+PROD-000032,Energy Bar High Fiber Almond 60g - Variant 32,SKU-SNA-0032,SNACK,UNIT,365,True
+PROD-000033,Citrus Electrolyte Drink 250ml - Variant 33,SKU-BEV-0033,BEVERAGE,UNIT,270,True
+PROD-000034,Artisan Bakery Premix 5kg - Variant 34,SKU-FOO-0034,FOOD_SERVICE,KG,120,True
+PROD-000035,Pure Soy Lecithin Emulsion 1L - Variant 35,SKU-ING-0035,INGREDIENTS,LITER,360,True
+PROD-000036,Organic Chocolate Protein Shake 500ml - Variant 36,SKU-BEV-0036,BEVERAGE,UNIT,180,True
+PROD-000037,Energy Bar High Fiber Almond 60g - Variant 37,SKU-SNA-0037,SNACK,UNIT,365,True
+PROD-000038,Citrus Electrolyte Drink 250ml - Variant 38,SKU-BEV-0038,BEVERAGE,UNIT,270,True
+PROD-000039,Artisan Bakery Premix 5kg - Variant 39,SKU-FOO-0039,FOOD_SERVICE,KG,120,True
+PROD-000040,Pure Soy Lecithin Emulsion 1L - Variant 40,SKU-ING-0040,INGREDIENTS,LITER,360,True
+PROD-000041,Organic Chocolate Protein Shake 500ml - Variant 41,SKU-BEV-0041,BEVERAGE,UNIT,180,True
+PROD-000042,Energy Bar High Fiber Almond 60g - Variant 42,SKU-SNA-0042,SNACK,UNIT,365,True
+PROD-000043,Citrus Electrolyte Drink 250ml - Variant 43,SKU-BEV-0043,BEVERAGE,UNIT,270,True
+PROD-000044,Artisan Bakery Premix 5kg - Variant 44,SKU-FOO-0044,FOOD_SERVICE,KG,120,True
+PROD-000045,Pure Soy Lecithin Emulsion 1L - Variant 45,SKU-ING-0045,INGREDIENTS,LITER,360,True
+PROD-000046,Organic Chocolate Protein Shake 500ml - Variant 46,SKU-BEV-0046,BEVERAGE,UNIT,180,True
+PROD-000047,Energy Bar High Fiber Almond 60g - Variant 47,SKU-SNA-0047,SNACK,UNIT,365,True
+PROD-000048,Citrus Electrolyte Drink 250ml - Variant 48,SKU-BEV-0048,BEVERAGE,UNIT,270,True
+PROD-000049,Artisan Bakery Premix 5kg - Variant 49,SKU-FOO-0049,FOOD_SERVICE,KG,120,True
+PROD-000050,Pure Soy Lecithin Emulsion 1L - Variant 50,SKU-ING-0050,INGREDIENTS,LITER,360,True

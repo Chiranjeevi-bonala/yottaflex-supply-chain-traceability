@@ -1,0 +1,1602 @@
+[
+  {
+    "bom_id": "BOM-000001",
+    "product_id": "PROD-000001",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.073,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000002",
+    "product_id": "PROD-000001",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.1078,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000003",
+    "product_id": "PROD-000001",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.0862,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000004",
+    "product_id": "PROD-000001",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.0932,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000005",
+    "product_id": "PROD-000002",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.3009,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000006",
+    "product_id": "PROD-000002",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.2594,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000007",
+    "product_id": "PROD-000002",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.1882,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000008",
+    "product_id": "PROD-000002",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.2029,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000009",
+    "product_id": "PROD-000002",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.2819,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000010",
+    "product_id": "PROD-000003",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.1894,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000011",
+    "product_id": "PROD-000003",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.2325,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000012",
+    "product_id": "PROD-000003",
+    "material_type": "Potassium Hydroxide",
+    "quantity_per_unit": 0.2963,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000013",
+    "product_id": "PROD-000003",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.2665,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000014",
+    "product_id": "PROD-000003",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.3429,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000015",
+    "product_id": "PROD-000004",
+    "material_type": "Natural Vanilla Extract",
+    "quantity_per_unit": 0.0647,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000016",
+    "product_id": "PROD-000004",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.2208,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000017",
+    "product_id": "PROD-000004",
+    "material_type": "Citric Acid Anhydrous",
+    "quantity_per_unit": 0.2898,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000018",
+    "product_id": "PROD-000004",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.136,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000019",
+    "product_id": "PROD-000005",
+    "material_type": "Carton Box 12-Pack",
+    "quantity_per_unit": 0.3593,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000020",
+    "product_id": "PROD-000005",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.3521,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000021",
+    "product_id": "PROD-000005",
+    "material_type": "Potassium Hydroxide",
+    "quantity_per_unit": 0.3458,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000022",
+    "product_id": "PROD-000005",
+    "material_type": "Aluminum Foil Seal",
+    "quantity_per_unit": 0.0662,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000023",
+    "product_id": "PROD-000006",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.3578,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000024",
+    "product_id": "PROD-000006",
+    "material_type": "Carton Box 12-Pack",
+    "quantity_per_unit": 0.1322,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000025",
+    "product_id": "PROD-000006",
+    "material_type": "Soy Protein Isolate",
+    "quantity_per_unit": 0.0903,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000026",
+    "product_id": "PROD-000006",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.3528,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000027",
+    "product_id": "PROD-000007",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.376,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000028",
+    "product_id": "PROD-000007",
+    "material_type": "Wheat Flour Organic",
+    "quantity_per_unit": 0.2396,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000029",
+    "product_id": "PROD-000007",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.2173,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000030",
+    "product_id": "PROD-000008",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.1708,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000031",
+    "product_id": "PROD-000008",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.2924,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000032",
+    "product_id": "PROD-000008",
+    "material_type": "Carton Box 12-Pack",
+    "quantity_per_unit": 0.3073,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000033",
+    "product_id": "PROD-000008",
+    "material_type": "Citric Acid Anhydrous",
+    "quantity_per_unit": 0.2173,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000034",
+    "product_id": "PROD-000009",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.1697,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000035",
+    "product_id": "PROD-000009",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.0917,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000036",
+    "product_id": "PROD-000009",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.1436,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000037",
+    "product_id": "PROD-000009",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.0584,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000038",
+    "product_id": "PROD-000010",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.3685,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000039",
+    "product_id": "PROD-000010",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.2278,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000040",
+    "product_id": "PROD-000010",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.074,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000041",
+    "product_id": "PROD-000011",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.0758,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000042",
+    "product_id": "PROD-000011",
+    "material_type": "Egg White Pasteurized",
+    "quantity_per_unit": 0.3061,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000043",
+    "product_id": "PROD-000011",
+    "material_type": "Sodium Benzoate",
+    "quantity_per_unit": 0.3048,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000044",
+    "product_id": "PROD-000011",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.1441,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000045",
+    "product_id": "PROD-000012",
+    "material_type": "Almond Paste Raw",
+    "quantity_per_unit": 0.3039,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000046",
+    "product_id": "PROD-000012",
+    "material_type": "Natural Vanilla Extract",
+    "quantity_per_unit": 0.3677,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000047",
+    "product_id": "PROD-000012",
+    "material_type": "Potassium Hydroxide",
+    "quantity_per_unit": 0.2687,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000048",
+    "product_id": "PROD-000012",
+    "material_type": "Sodium Benzoate",
+    "quantity_per_unit": 0.2093,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000049",
+    "product_id": "PROD-000012",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.192,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000050",
+    "product_id": "PROD-000013",
+    "material_type": "Wheat Flour Organic",
+    "quantity_per_unit": 0.2649,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000051",
+    "product_id": "PROD-000013",
+    "material_type": "Natural Vanilla Extract",
+    "quantity_per_unit": 0.3808,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000052",
+    "product_id": "PROD-000013",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.2178,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000053",
+    "product_id": "PROD-000014",
+    "material_type": "Potassium Hydroxide",
+    "quantity_per_unit": 0.0797,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000054",
+    "product_id": "PROD-000014",
+    "material_type": "Filtered Water Grade 1",
+    "quantity_per_unit": 0.0942,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000055",
+    "product_id": "PROD-000014",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.2082,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000056",
+    "product_id": "PROD-000014",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.1866,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000057",
+    "product_id": "PROD-000015",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.2955,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000058",
+    "product_id": "PROD-000015",
+    "material_type": "Filtered Water Grade 1",
+    "quantity_per_unit": 0.1751,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000059",
+    "product_id": "PROD-000015",
+    "material_type": "Sodium Benzoate",
+    "quantity_per_unit": 0.0646,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000060",
+    "product_id": "PROD-000015",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.0939,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000061",
+    "product_id": "PROD-000016",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.0963,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000062",
+    "product_id": "PROD-000016",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.2914,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000063",
+    "product_id": "PROD-000016",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.3939,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000064",
+    "product_id": "PROD-000016",
+    "material_type": "Almond Paste Raw",
+    "quantity_per_unit": 0.0701,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000065",
+    "product_id": "PROD-000017",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.3095,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000066",
+    "product_id": "PROD-000017",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.2511,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000067",
+    "product_id": "PROD-000017",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.1323,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000068",
+    "product_id": "PROD-000017",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.3383,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000069",
+    "product_id": "PROD-000018",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.3097,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000070",
+    "product_id": "PROD-000018",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.2125,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000071",
+    "product_id": "PROD-000018",
+    "material_type": "Cane Sugar Extra Fine",
+    "quantity_per_unit": 0.0676,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000072",
+    "product_id": "PROD-000018",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.225,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000073",
+    "product_id": "PROD-000019",
+    "material_type": "Carton Box 12-Pack",
+    "quantity_per_unit": 0.2022,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000074",
+    "product_id": "PROD-000019",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.1988,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000075",
+    "product_id": "PROD-000019",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.3422,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000076",
+    "product_id": "PROD-000020",
+    "material_type": "Sodium Benzoate",
+    "quantity_per_unit": 0.3237,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000077",
+    "product_id": "PROD-000020",
+    "material_type": "Egg White Pasteurized",
+    "quantity_per_unit": 0.1952,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000078",
+    "product_id": "PROD-000020",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.4,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000079",
+    "product_id": "PROD-000020",
+    "material_type": "Soy Protein Isolate",
+    "quantity_per_unit": 0.3803,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000080",
+    "product_id": "PROD-000020",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.2751,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000081",
+    "product_id": "PROD-000021",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.2008,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000082",
+    "product_id": "PROD-000021",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.3284,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000083",
+    "product_id": "PROD-000021",
+    "material_type": "Natural Vanilla Extract",
+    "quantity_per_unit": 0.1575,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000084",
+    "product_id": "PROD-000021",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.3759,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000085",
+    "product_id": "PROD-000022",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.3792,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000086",
+    "product_id": "PROD-000022",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.0922,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000087",
+    "product_id": "PROD-000022",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.1278,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000088",
+    "product_id": "PROD-000022",
+    "material_type": "Cane Sugar Extra Fine",
+    "quantity_per_unit": 0.3413,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000089",
+    "product_id": "PROD-000022",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.1952,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000090",
+    "product_id": "PROD-000023",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.3671,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000091",
+    "product_id": "PROD-000023",
+    "material_type": "Filtered Water Grade 1",
+    "quantity_per_unit": 0.1964,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000092",
+    "product_id": "PROD-000023",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.1968,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000093",
+    "product_id": "PROD-000023",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.3316,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000094",
+    "product_id": "PROD-000024",
+    "material_type": "Aluminum Foil Seal",
+    "quantity_per_unit": 0.0564,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000095",
+    "product_id": "PROD-000024",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.372,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000096",
+    "product_id": "PROD-000024",
+    "material_type": "Citric Acid Anhydrous",
+    "quantity_per_unit": 0.1026,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000097",
+    "product_id": "PROD-000025",
+    "material_type": "Corn Starch",
+    "quantity_per_unit": 0.0757,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000098",
+    "product_id": "PROD-000025",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.1616,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000099",
+    "product_id": "PROD-000025",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.2934,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000100",
+    "product_id": "PROD-000026",
+    "material_type": "Soy Protein Isolate",
+    "quantity_per_unit": 0.2073,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000101",
+    "product_id": "PROD-000026",
+    "material_type": "Lactic Acid Purified",
+    "quantity_per_unit": 0.3711,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000102",
+    "product_id": "PROD-000026",
+    "material_type": "Egg White Pasteurized",
+    "quantity_per_unit": 0.376,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000103",
+    "product_id": "PROD-000027",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.0878,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000104",
+    "product_id": "PROD-000027",
+    "material_type": "Lactic Acid Purified",
+    "quantity_per_unit": 0.1386,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000105",
+    "product_id": "PROD-000027",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.372,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000106",
+    "product_id": "PROD-000027",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.2574,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000107",
+    "product_id": "PROD-000027",
+    "material_type": "Corn Starch",
+    "quantity_per_unit": 0.2414,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000108",
+    "product_id": "PROD-000028",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.3263,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000109",
+    "product_id": "PROD-000028",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.0629,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000110",
+    "product_id": "PROD-000028",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.0903,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000111",
+    "product_id": "PROD-000028",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.1848,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000112",
+    "product_id": "PROD-000028",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.3471,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000113",
+    "product_id": "PROD-000029",
+    "material_type": "Potassium Hydroxide",
+    "quantity_per_unit": 0.1176,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000114",
+    "product_id": "PROD-000029",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.3246,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000115",
+    "product_id": "PROD-000029",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.3837,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000116",
+    "product_id": "PROD-000029",
+    "material_type": "Egg White Pasteurized",
+    "quantity_per_unit": 0.2442,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000117",
+    "product_id": "PROD-000029",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.3485,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000118",
+    "product_id": "PROD-000030",
+    "material_type": "Egg White Pasteurized",
+    "quantity_per_unit": 0.0668,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000119",
+    "product_id": "PROD-000030",
+    "material_type": "Soy Protein Isolate",
+    "quantity_per_unit": 0.1543,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000120",
+    "product_id": "PROD-000030",
+    "material_type": "Wheat Flour Organic",
+    "quantity_per_unit": 0.1835,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000121",
+    "product_id": "PROD-000031",
+    "material_type": "Filtered Water Grade 1",
+    "quantity_per_unit": 0.2785,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000122",
+    "product_id": "PROD-000031",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.3039,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000123",
+    "product_id": "PROD-000031",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.1783,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000124",
+    "product_id": "PROD-000031",
+    "material_type": "Corn Starch",
+    "quantity_per_unit": 0.0528,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000125",
+    "product_id": "PROD-000032",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.1942,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000126",
+    "product_id": "PROD-000032",
+    "material_type": "Citric Acid Anhydrous",
+    "quantity_per_unit": 0.1405,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000127",
+    "product_id": "PROD-000032",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.1334,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000128",
+    "product_id": "PROD-000032",
+    "material_type": "Filtered Water Grade 1",
+    "quantity_per_unit": 0.145,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000129",
+    "product_id": "PROD-000033",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.1242,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000130",
+    "product_id": "PROD-000033",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.3641,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000131",
+    "product_id": "PROD-000033",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.1,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000132",
+    "product_id": "PROD-000033",
+    "material_type": "Soy Protein Isolate",
+    "quantity_per_unit": 0.3716,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000133",
+    "product_id": "PROD-000034",
+    "material_type": "Potassium Hydroxide",
+    "quantity_per_unit": 0.242,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000134",
+    "product_id": "PROD-000034",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.1027,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000135",
+    "product_id": "PROD-000034",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.1463,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000136",
+    "product_id": "PROD-000034",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.2227,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000137",
+    "product_id": "PROD-000035",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.1003,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000138",
+    "product_id": "PROD-000035",
+    "material_type": "Almond Paste Raw",
+    "quantity_per_unit": 0.1159,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000139",
+    "product_id": "PROD-000035",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.0574,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000140",
+    "product_id": "PROD-000036",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.3199,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000141",
+    "product_id": "PROD-000036",
+    "material_type": "Lactic Acid Purified",
+    "quantity_per_unit": 0.3705,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000142",
+    "product_id": "PROD-000036",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.3786,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000143",
+    "product_id": "PROD-000036",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.2118,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000144",
+    "product_id": "PROD-000036",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.0575,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000145",
+    "product_id": "PROD-000037",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.0695,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000146",
+    "product_id": "PROD-000037",
+    "material_type": "Citric Acid Anhydrous",
+    "quantity_per_unit": 0.1083,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000147",
+    "product_id": "PROD-000037",
+    "material_type": "Wheat Flour Organic",
+    "quantity_per_unit": 0.0622,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000148",
+    "product_id": "PROD-000037",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.1802,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000149",
+    "product_id": "PROD-000037",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.252,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000150",
+    "product_id": "PROD-000038",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.323,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000151",
+    "product_id": "PROD-000038",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.0614,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000152",
+    "product_id": "PROD-000038",
+    "material_type": "Aluminum Foil Seal",
+    "quantity_per_unit": 0.0647,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000153",
+    "product_id": "PROD-000038",
+    "material_type": "Almond Paste Raw",
+    "quantity_per_unit": 0.3329,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000154",
+    "product_id": "PROD-000038",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.3271,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000155",
+    "product_id": "PROD-000039",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.1194,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000156",
+    "product_id": "PROD-000039",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.1059,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000157",
+    "product_id": "PROD-000039",
+    "material_type": "Potassium Hydroxide",
+    "quantity_per_unit": 0.1404,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000158",
+    "product_id": "PROD-000040",
+    "material_type": "Lecithin Emulsifier",
+    "quantity_per_unit": 0.3728,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000159",
+    "product_id": "PROD-000040",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.1736,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000160",
+    "product_id": "PROD-000040",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.3276,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000161",
+    "product_id": "PROD-000041",
+    "material_type": "Carton Box 12-Pack",
+    "quantity_per_unit": 0.3361,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000162",
+    "product_id": "PROD-000041",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.3013,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000163",
+    "product_id": "PROD-000041",
+    "material_type": "Cocoa Powder Dutch",
+    "quantity_per_unit": 0.0895,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000164",
+    "product_id": "PROD-000042",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.1449,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000165",
+    "product_id": "PROD-000042",
+    "material_type": "Soy Protein Isolate",
+    "quantity_per_unit": 0.0941,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000166",
+    "product_id": "PROD-000042",
+    "material_type": "Citric Acid Anhydrous",
+    "quantity_per_unit": 0.3702,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000167",
+    "product_id": "PROD-000042",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.0952,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000168",
+    "product_id": "PROD-000043",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.1209,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000169",
+    "product_id": "PROD-000043",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.315,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000170",
+    "product_id": "PROD-000043",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.0983,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000171",
+    "product_id": "PROD-000044",
+    "material_type": "Natural Vanilla Extract",
+    "quantity_per_unit": 0.0881,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000172",
+    "product_id": "PROD-000044",
+    "material_type": "Corn Starch",
+    "quantity_per_unit": 0.0763,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000173",
+    "product_id": "PROD-000044",
+    "material_type": "Aluminum Foil Seal",
+    "quantity_per_unit": 0.0642,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000174",
+    "product_id": "PROD-000044",
+    "material_type": "Filtered Water Grade 1",
+    "quantity_per_unit": 0.3099,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000175",
+    "product_id": "PROD-000045",
+    "material_type": "Ethanol 96 Pct Food",
+    "quantity_per_unit": 0.2741,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000176",
+    "product_id": "PROD-000045",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.3692,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000177",
+    "product_id": "PROD-000045",
+    "material_type": "Food Grade Nitrogen",
+    "quantity_per_unit": 0.3759,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000178",
+    "product_id": "PROD-000045",
+    "material_type": "Wheat Flour Organic",
+    "quantity_per_unit": 0.2781,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000179",
+    "product_id": "PROD-000045",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.1934,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000180",
+    "product_id": "PROD-000046",
+    "material_type": "Citric Acid Anhydrous",
+    "quantity_per_unit": 0.1806,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000181",
+    "product_id": "PROD-000046",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.3393,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000182",
+    "product_id": "PROD-000046",
+    "material_type": "Aseptic Tetra Pouch 250ml",
+    "quantity_per_unit": 0.2297,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000183",
+    "product_id": "PROD-000046",
+    "material_type": "Sodium Benzoate",
+    "quantity_per_unit": 0.2971,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000184",
+    "product_id": "PROD-000046",
+    "material_type": "Filtered Water Grade 1",
+    "quantity_per_unit": 0.173,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000185",
+    "product_id": "PROD-000047",
+    "material_type": "Corrugated Shipper Outer",
+    "quantity_per_unit": 0.3608,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000186",
+    "product_id": "PROD-000047",
+    "material_type": "Egg White Pasteurized",
+    "quantity_per_unit": 0.11,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000187",
+    "product_id": "PROD-000047",
+    "material_type": "Natural Vanilla Extract",
+    "quantity_per_unit": 0.209,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000188",
+    "product_id": "PROD-000048",
+    "material_type": "Lactic Acid Purified",
+    "quantity_per_unit": 0.2285,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000189",
+    "product_id": "PROD-000048",
+    "material_type": "Calcium Chloride",
+    "quantity_per_unit": 0.1782,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000190",
+    "product_id": "PROD-000048",
+    "material_type": "Sodium Benzoate",
+    "quantity_per_unit": 0.1894,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000191",
+    "product_id": "PROD-000048",
+    "material_type": "Almond Paste Raw",
+    "quantity_per_unit": 0.2521,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000192",
+    "product_id": "PROD-000048",
+    "material_type": "Vegetable Oil Pure",
+    "quantity_per_unit": 0.2926,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000193",
+    "product_id": "PROD-000049",
+    "material_type": "Almond Paste Raw",
+    "quantity_per_unit": 0.2555,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000194",
+    "product_id": "PROD-000049",
+    "material_type": "Aluminum Foil Seal",
+    "quantity_per_unit": 0.121,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000195",
+    "product_id": "PROD-000049",
+    "material_type": "PET Bottle 500ml",
+    "quantity_per_unit": 0.3104,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000196",
+    "product_id": "PROD-000050",
+    "material_type": "Almond Paste Raw",
+    "quantity_per_unit": 0.3626,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000197",
+    "product_id": "PROD-000050",
+    "material_type": "Ascorbic Acid Grade A",
+    "quantity_per_unit": 0.3127,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000198",
+    "product_id": "PROD-000050",
+    "material_type": "Cane Sugar Extra Fine",
+    "quantity_per_unit": 0.0956,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000199",
+    "product_id": "PROD-000050",
+    "material_type": "Whole Milk Fresh",
+    "quantity_per_unit": 0.0758,
+    "unit": "KG",
+    "is_active": true
+  },
+  {
+    "bom_id": "BOM-000200",
+    "product_id": "PROD-000050",
+    "material_type": "Filtered Water Grade 1",
+    "quantity_per_unit": 0.2058,
+    "unit": "KG",
+    "is_active": true
+  }
+]

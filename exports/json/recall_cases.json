@@ -1,0 +1,112 @@
+[
+  {
+    "recall_id": "REC-2026-000001",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000123-2026-008992",
+    "reason": "Undeclared allergen cross-contamination identified in raw ingredient supplier lot",
+    "severity": "CLASS_II",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 2876.63,
+    "total_qty_recovered": 2460.21
+  },
+  {
+    "recall_id": "REC-2026-000002",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000010-2026-008180",
+    "reason": "Pathogenic Salmonella enterica detected in post-processing environmental swab",
+    "severity": "CLASS_II",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 504.77,
+    "total_qty_recovered": 318.4
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000221-2026-005191",
+    "reason": "Foreign physical contaminant (fine metal shaving) found in milling filter",
+    "severity": "CLASS_II",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 6086.08,
+    "total_qty_recovered": 5103.08
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000463-2026-005410",
+    "reason": "Chemical residue (Pesticide Chlorpyrifos) detected beyond maximum allowable threshold",
+    "severity": "CLASS_II",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 4145.129999999999,
+    "total_qty_recovered": 3055.53
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000110-2026-008790",
+    "reason": "Chemical residue (Pesticide Chlorpyrifos) detected beyond maximum allowable threshold",
+    "severity": "CLASS_III",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 2466.39,
+    "total_qty_recovered": 2253.49
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000434-2026-005147",
+    "reason": "Undeclared allergen cross-contamination identified in raw ingredient supplier lot",
+    "severity": "CLASS_III",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 2625.17,
+    "total_qty_recovered": 2438.1
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000145-2026-007925",
+    "reason": "Foreign physical contaminant (fine metal shaving) found in milling filter",
+    "severity": "CLASS_II",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 1723.73,
+    "total_qty_recovered": 1216.66
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000158-2026-004384",
+    "reason": "Pathogenic Salmonella enterica detected in post-processing environmental swab",
+    "severity": "CLASS_I",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 4627.299999999999,
+    "total_qty_recovered": 3762.29
+  },
+  {
+    "recall_id": "REC-2026-000009",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000076-2026-004866",
+    "reason": "Aflatoxin B1 exceedance detected during routine microbiological screening",
+    "severity": "CLASS_I",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 2282.61,
+    "total_qty_recovered": 1374.71
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "trigger_type": "RAW_LOT",
+    "trigger_lot_id": "RAWLOT-SUP-000139-2026-009389",
+    "reason": "Chemical residue (Pesticide Chlorpyrifos) detected beyond maximum allowable threshold",
+    "severity": "CLASS_II",
+    "initiated_by": "Dr. Aris Thorne (Chief Safety Officer)",
+    "status": "IN_PROGRESS",
+    "total_qty_affected": 2276.56,
+    "total_qty_recovered": 1959.47
+  }
+]

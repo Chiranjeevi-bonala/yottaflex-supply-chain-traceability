@@ -1,0 +1,5 @@
+issue_type,finished_lot_id,missing_material_lot_id,expected_decision,operational_impact,is_ground_truth,produced_quantity,overrun_quantity,recall_id,customer_id,delivery_id,available_quantity
+MISSING_INPUT_LOT,FINLOT-2026-000011,RAWLOT-SUP-999999-2026-999999,Quarantine finished lot immediately; conduct BOM verification audit,Loss of upstream traceability; potential unverified allergen or contaminant,True,,,,,,
+DELIVERY_OVERRUN,FINLOT-2026-000026,,Halt matching shipment settlement; reconcile warehouse physical stock against ERP,Inventory phantom stock; potential unrecorded parallel production or billing error,True,1353.43,500.0,,,,
+MISSED_CUSTOMER,,,Dispatch immediate priority recall telegram and dispatch field rep,End consumer exposure to tainted goods; regulatory fine risk,True,,,REC-2026-000001,CUST-000492,DEL-001909,
+INVENTORY_NOT_QUARANTINED,FINLOT-2026-000780,,Lock warehouse bin immediately in WMS; cancel all pending pick waves,Contaminated units risk being picked and shipped during active recall,True,,,REC-2026-000001,,,350.0

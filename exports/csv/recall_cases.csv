@@ -1,0 +1,11 @@
+recall_id,trigger_type,trigger_lot_id,reason,severity,initiated_by,status,total_qty_affected,total_qty_recovered
+REC-2026-000001,RAW_LOT,RAWLOT-SUP-000123-2026-008992,Undeclared allergen cross-contamination identified in raw ingredient supplier lot,CLASS_II,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,2876.63,2460.21
+REC-2026-000002,RAW_LOT,RAWLOT-SUP-000010-2026-008180,Pathogenic Salmonella enterica detected in post-processing environmental swab,CLASS_II,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,504.77,318.4
+REC-2026-000003,RAW_LOT,RAWLOT-SUP-000221-2026-005191,Foreign physical contaminant (fine metal shaving) found in milling filter,CLASS_II,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,6086.08,5103.08
+REC-2026-000004,RAW_LOT,RAWLOT-SUP-000463-2026-005410,Chemical residue (Pesticide Chlorpyrifos) detected beyond maximum allowable threshold,CLASS_II,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,4145.129999999999,3055.53
+REC-2026-000005,RAW_LOT,RAWLOT-SUP-000110-2026-008790,Chemical residue (Pesticide Chlorpyrifos) detected beyond maximum allowable threshold,CLASS_III,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,2466.39,2253.49
+REC-2026-000006,RAW_LOT,RAWLOT-SUP-000434-2026-005147,Undeclared allergen cross-contamination identified in raw ingredient supplier lot,CLASS_III,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,2625.17,2438.1
+REC-2026-000007,RAW_LOT,RAWLOT-SUP-000145-2026-007925,Foreign physical contaminant (fine metal shaving) found in milling filter,CLASS_II,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,1723.73,1216.66
+REC-2026-000008,RAW_LOT,RAWLOT-SUP-000158-2026-004384,Pathogenic Salmonella enterica detected in post-processing environmental swab,CLASS_I,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,4627.299999999999,3762.29
+REC-2026-000009,RAW_LOT,RAWLOT-SUP-000076-2026-004866,Aflatoxin B1 exceedance detected during routine microbiological screening,CLASS_I,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,2282.61,1374.71
+REC-2026-000010,RAW_LOT,RAWLOT-SUP-000139-2026-009389,Chemical residue (Pesticide Chlorpyrifos) detected beyond maximum allowable threshold,CLASS_II,Dr. Aris Thorne (Chief Safety Officer),IN_PROGRESS,2276.56,1959.47

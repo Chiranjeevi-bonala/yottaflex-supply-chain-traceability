@@ -1,0 +1,1001 @@
+customer_id,name,country,region,contact_email,contact_phone,tier,is_active
+CUST-000001,Ferguson-Sanchez LLC,Malawi,LATAM,procurement@blair-house.com,+1-370-301-2258x82544,STANDARD,True
+CUST-000002,Davidson-White LLC,Tanzania,North America,procurement@wilson.biz,001-680-833-5758x676,STANDARD,True
+CUST-000003,"Gordon, Berg and Blair Inc",Belize,North America,procurement@roach.com,001-474-909-5595,BRONZE,True
+CUST-000004,Sandoval PLC PLC,Western Sahara,North America,procurement@braun.com,813-703-7412,SILVER,True
+CUST-000005,Knox Inc Group,Christmas Island,North America,procurement@pennington-weber.com,(702)371-9560x65055,BRONZE,True
+CUST-000006,Jones-Blanchard Group,Algeria,North America,procurement@greer-meyer.com,+1-515-984-9327x0900,STANDARD,True
+CUST-000007,"Frost, Rich and Fowler Ltd",Moldova,EMEA,procurement@cameron.com,7836563214,BRONZE,True
+CUST-000008,Reyes Inc and Sons,Norway,North America,procurement@ramirez.net,(422)784-8329,BRONZE,True
+CUST-000009,King-Garcia and Sons,Chile,North America,procurement@green-butler.org,653.791.1356x027,BRONZE,True
+CUST-000010,Pope-Hall Group,Italy,EMEA,procurement@reyes.com,820-569-2646,STANDARD,True
+CUST-000011,Cummings and Sons and Sons,Vietnam,North America,procurement@pace-hughes.net,+1-330-518-5879x71599,GOLD,True
+CUST-000012,Price-Jackson PLC,Saint Helena,EMEA,procurement@todd-young.com,235.393.5213,BRONZE,True
+CUST-000013,"King, Hayes and Christian and Sons",Australia,North America,procurement@lester-summers.biz,+1-697-491-8523x7527,STANDARD,True
+CUST-000014,Walker-Ramirez Ltd,Equatorial Guinea,APAC,procurement@mora.com,742-315-6311,SILVER,True
+CUST-000015,Carroll PLC Group,Cuba,LATAM,procurement@green-stein.org,+1-272-402-7894x4010,STANDARD,True
+CUST-000016,Morris-Johnson Ltd,Falkland Islands (Malvinas),EMEA,procurement@barr-brown.com,724.357.2040x327,SILVER,True
+CUST-000017,Ryan-Ewing Ltd,Pakistan,North America,procurement@fox-wilson.com,312-884-9421x89673,BRONZE,True
+CUST-000018,Roberts-Estrada Group,Senegal,EMEA,procurement@padilla.net,001-586-717-8357x82104,BRONZE,True
+CUST-000019,Jones Inc Group,Svalbard & Jan Mayen Islands,LATAM,procurement@swanson-bryant.com,+1-520-570-6945,BRONZE,True
+CUST-000020,"Sellers, Davis and Leonard and Sons",Fiji,APAC,procurement@conner.com,001-996-346-2240x9370,STANDARD,True
+CUST-000021,Pugh Group LLC,Cook Islands,APAC,procurement@rivas.com,836.831.0888x5131,GOLD,True
+CUST-000022,Huff PLC PLC,Cook Islands,APAC,procurement@peterson.org,868-499-8568x91075,STANDARD,True
+CUST-000023,"James, Collins and Glover LLC",Syrian Arab Republic,EMEA,procurement@monroe.org,9932431242,STANDARD,True
+CUST-000024,"Hurley, Mason and Smith and Sons",Belize,APAC,procurement@decker-jackson.net,822-373-5652x6989,STANDARD,True
+CUST-000025,Butler-Gray Ltd,Hungary,North America,procurement@kim-espinoza.com,+1-994-895-7916,GOLD,True
+CUST-000026,"Thompson, Compton and Adams PLC",Hong Kong,APAC,procurement@stone.com,+1-907-856-3308x651,BRONZE,True
+CUST-000027,"Rogers, Roberts and Daniels Group",Korea,EMEA,procurement@baker.net,+1-860-969-6422,GOLD,True
+CUST-000028,Simmons Inc Ltd,French Southern Territories,LATAM,procurement@erickson.info,+1-498-813-6836,BRONZE,True
+CUST-000029,Hicks Ltd Group,Uruguay,EMEA,procurement@ortega.com,(389)715-8783x97681,BRONZE,True
+CUST-000030,Garcia-Walker LLC,Honduras,North America,procurement@thompson.biz,001-596-859-1387,BRONZE,True
+CUST-000031,Hutchinson and Sons Group,Ghana,EMEA,procurement@evans.net,986.944.2586x76514,STANDARD,True
+CUST-000032,Dunn-Lynch Inc,French Southern Territories,EMEA,procurement@gamble.com,6763018715,STANDARD,True
+CUST-000033,Perez Ltd Ltd,Albania,APAC,procurement@hopkins-price.info,001-561-964-0081x224,BRONZE,True
+CUST-000034,Torres Group and Sons,French Polynesia,APAC,procurement@medina-mcpherson.com,394.210.1984x182,GOLD,True
+CUST-000035,"Woods, Cummings and Baldwin Inc",Gabon,LATAM,procurement@jensen-williams.com,001-746-776-8018x09254,BRONZE,True
+CUST-000036,Ray Ltd Group,Finland,APAC,procurement@andrews-dillon.com,588-564-3107,GOLD,True
+CUST-000037,"Santos, Clayton and Johnson and Sons",Maldives,LATAM,procurement@hamilton.com,536-938-6604x466,SILVER,True
+CUST-000038,Garcia PLC PLC,Honduras,LATAM,procurement@wilson-fox.com,649-778-0027,STANDARD,True
+CUST-000039,"Ramsey, Wilson and Porter LLC",Tokelau,EMEA,procurement@escobar.info,+1-913-358-4051,STANDARD,True
+CUST-000040,Everett-Wilson and Sons,Liechtenstein,North America,procurement@mcbride-rodriguez.info,+1-817-902-2230x097,BRONZE,True
+CUST-000041,Jackson PLC Ltd,France,APAC,procurement@campbell.org,868.802.6442,SILVER,True
+CUST-000042,Carroll-Aguirre LLC,Russian Federation,APAC,procurement@miller.com,275.649.8629x037,BRONZE,True
+CUST-000043,Harrison PLC Group,Estonia,LATAM,procurement@brown.com,001-885-807-8031x85974,STANDARD,True
+CUST-000044,Stanton-Gibbs Ltd,Mayotte,EMEA,procurement@gibson.com,776-471-3281,STANDARD,True
+CUST-000045,Beck-Marshall Ltd,Uganda,LATAM,procurement@woods.com,+1-895-353-1753,STANDARD,True
+CUST-000046,Anderson Ltd Group,Kiribati,APAC,procurement@rogers-mccarthy.com,498-228-1779,SILVER,True
+CUST-000047,Harris-Miller PLC,Grenada,APAC,procurement@johnson-watson.com,+1-656-325-2777,STANDARD,True
+CUST-000048,Moore-Wood Group,Thailand,North America,procurement@carson.com,663.695.1299x34977,STANDARD,True
+CUST-000049,"Jones, Henderson and Love Ltd",Congo,APAC,procurement@beard.com,(420)881-8876,BRONZE,True
+CUST-000050,"Warner, Brown and Myers and Sons",Guyana,APAC,procurement@hodges-johnson.info,3943061604,SILVER,True
+CUST-000051,"Walker, Medina and Black Group",Hungary,LATAM,procurement@rogers.com,001-234-646-2627x133,SILVER,True
+CUST-000052,"Davis, Caldwell and Massey PLC",Sri Lanka,APAC,procurement@morse-shaw.com,306.859.8461x5938,BRONZE,True
+CUST-000053,Hall-Gonzales PLC,Gabon,APAC,procurement@fox-montgomery.org,733.373.1922,SILVER,True
+CUST-000054,Floyd-Rogers Group,Saint Kitts and Nevis,EMEA,procurement@pittman-henson.com,(450)790-5844x5965,STANDARD,True
+CUST-000055,Mcclure PLC PLC,Taiwan,North America,procurement@santos.com,8153015418,STANDARD,True
+CUST-000056,Cain-Moyer Inc,Nigeria,EMEA,procurement@kim.biz,(970)750-5808,SILVER,True
+CUST-000057,"Wolf, Guerrero and Webb and Sons",Malawi,EMEA,procurement@williams-warner.com,(973)835-2797x948,STANDARD,True
+CUST-000058,Thomas Inc Ltd,Northern Mariana Islands,EMEA,procurement@ortega-robinson.info,846-931-3758x08518,STANDARD,True
+CUST-000059,"Lara, Peck and Carter and Sons",Guinea-Bissau,APAC,procurement@trujillo.com,7828164767,BRONZE,True
+CUST-000060,Johnson and Sons Inc,Serbia,LATAM,procurement@hamilton-thornton.com,001-460-478-7356,GOLD,True
+CUST-000061,Roberson-Kelley Inc,Cote d'Ivoire,LATAM,procurement@smith.com,+1-805-377-4000,STANDARD,True
+CUST-000062,Craig-Robinson PLC,Uruguay,EMEA,procurement@bartlett-watts.com,+1-626-765-0563x05945,STANDARD,True
+CUST-000063,"Herring, Munoz and Johnson Group",Holy See (Vatican City State),APAC,procurement@carter.com,593.229.4201,BRONZE,True
+CUST-000064,Hatfield LLC Inc,Yemen,APAC,procurement@sims.com,(993)426-0891x01492,BRONZE,True
+CUST-000065,"White, Parker and Wilson PLC",Trinidad and Tobago,LATAM,procurement@cowan.com,6458127472,BRONZE,True
+CUST-000066,Mcdowell LLC and Sons,Togo,LATAM,procurement@parker.net,+1-240-950-6277,SILVER,True
+CUST-000067,"Ferguson, Hill and Gardner PLC",Liberia,APAC,procurement@robinson.com,+1-721-885-7238,STANDARD,True
+CUST-000068,"Johnson, Case and Evans and Sons",Sierra Leone,APAC,procurement@cole.org,258.881.0881x51729,SILVER,True
+CUST-000069,"Myers, Wang and Gonzales and Sons",Mozambique,APAC,procurement@camacho-cruz.com,(337)236-3385,BRONZE,True
+CUST-000070,"Larson, Lara and Friedman PLC",British Virgin Islands,LATAM,procurement@patrick.com,+1-768-365-3365x5893,SILVER,True
+CUST-000071,"Le, Anderson and Garcia LLC",Kyrgyz Republic,APAC,procurement@hooper-dixon.com,+1-332-557-4355,SILVER,True
+CUST-000072,"Lowe, Manning and Garcia LLC",Dominica,North America,procurement@gaines-jones.net,980.828.1831x772,GOLD,True
+CUST-000073,Galloway and Sons LLC,Iran,North America,procurement@harvey.com,+1-463-590-0688x86199,SILVER,True
+CUST-000074,"King, Thomas and Stone and Sons",American Samoa,EMEA,procurement@robinson.com,001-950-755-1327x38342,BRONZE,True
+CUST-000075,"Bailey, Scott and Snyder LLC",Djibouti,North America,procurement@huerta.com,2393307075,STANDARD,True
+CUST-000076,Thomas-Graham Inc,Tokelau,LATAM,procurement@morgan-richardson.net,917.630.9275x403,STANDARD,True
+CUST-000077,Singleton Group and Sons,Bermuda,APAC,procurement@hunt.info,348-646-5387x212,BRONZE,True
+CUST-000078,Smith and Sons Inc,Wallis and Futuna,North America,procurement@brown.biz,4884605629,STANDARD,True
+CUST-000079,"Fischer, Williams and Moyer Group",United Arab Emirates,LATAM,procurement@mcdonald.net,(866)973-7641x201,BRONZE,True
+CUST-000080,James Ltd Inc,Congo,APAC,procurement@woodard-parker.biz,+1-683-496-4238x350,SILVER,True
+CUST-000081,Gray-Hernandez Ltd,Namibia,APAC,procurement@baldwin.com,9415185406,BRONZE,True
+CUST-000082,Pitts-Craig Inc,Solomon Islands,North America,procurement@miller.net,443-986-4957x40697,SILVER,True
+CUST-000083,"Smith, Hodges and Morrison Ltd",Jordan,EMEA,procurement@parks.com,791.469.0797,SILVER,True
+CUST-000084,"Bowman, Jordan and Rowe Group",Ecuador,APAC,procurement@nelson.com,212-555-0911,SILVER,True
+CUST-000085,Henry Ltd and Sons,Myanmar,North America,procurement@cervantes.com,(672)524-1877,GOLD,True
+CUST-000086,Parks-James PLC,Jersey,LATAM,procurement@ashley.org,+1-552-876-2140x488,SILVER,True
+CUST-000087,Long-York and Sons,Pakistan,EMEA,procurement@jones.com,+1-285-363-2857,BRONZE,True
+CUST-000088,Cooke Group PLC,Guadeloupe,APAC,procurement@hutchinson.com,(513)631-1945x65669,BRONZE,True
+CUST-000089,Pugh Inc PLC,Greenland,LATAM,procurement@ball-daniels.com,001-900-275-5079,GOLD,True
+CUST-000090,"Lee, Knapp and Valentine PLC",Argentina,EMEA,procurement@medina-king.net,(810)289-7207x34153,STANDARD,True
+CUST-000091,Mills-Howell Inc,Benin,EMEA,procurement@morales.info,001-295-557-8786,STANDARD,True
+CUST-000092,Kirk Ltd Group,Svalbard & Jan Mayen Islands,EMEA,procurement@friedman.com,3204980277,SILVER,True
+CUST-000093,"Clark, Graves and Wells LLC",Uzbekistan,EMEA,procurement@price.org,293.662.9237x08608,BRONZE,True
+CUST-000094,Estrada Inc and Sons,Togo,APAC,procurement@bowen.com,+1-547-764-1740x8646,BRONZE,True
+CUST-000095,"Hall, Black and Pruitt LLC",Croatia,North America,procurement@davis.biz,(266)624-4544x6740,GOLD,True
+CUST-000096,"Robertson, Smith and Mitchell Inc",Comoros,APAC,procurement@austin.com,620-649-5344,GOLD,True
+CUST-000097,Lewis Group LLC,New Caledonia,EMEA,procurement@pearson.biz,392.782.7079x55159,GOLD,True
+CUST-000098,"Smith, Murillo and Escobar and Sons",Kenya,LATAM,procurement@james.com,+1-726-605-6399x077,BRONZE,True
+CUST-000099,Mendoza Ltd Group,Lesotho,EMEA,procurement@patterson.org,739.944.6233x7017,GOLD,True
+CUST-000100,Ford Inc Ltd,Cote d'Ivoire,North America,procurement@acosta.com,001-569-397-9926,GOLD,True
+CUST-000101,Miller-Tran PLC,Kazakhstan,APAC,procurement@ramirez.com,227.404.5828x1164,SILVER,True
+CUST-000102,Jimenez-Church LLC,South Africa,APAC,procurement@park.net,323.317.1118,GOLD,True
+CUST-000103,"Allen, Scott and Ayala PLC",Zambia,APAC,procurement@hurst.net,959.329.0379x11492,BRONZE,True
+CUST-000104,"Villarreal, Macias and Bradley and Sons",Central African Republic,LATAM,procurement@velasquez-simon.net,+1-765-991-1092,GOLD,True
+CUST-000105,Dean Inc PLC,Cote d'Ivoire,North America,procurement@sanders.com,001-698-598-3935x138,STANDARD,True
+CUST-000106,Decker-Ortega LLC,Bhutan,LATAM,procurement@murphy.com,+1-434-934-3309x891,SILVER,True
+CUST-000107,"Castillo, Parker and Chang Ltd",Luxembourg,North America,procurement@roberts.org,(264)765-3605,BRONZE,True
+CUST-000108,"Greene, Johnson and Russell Inc",United States Minor Outlying Islands,North America,procurement@chandler.com,001-210-360-4353,BRONZE,True
+CUST-000109,"Gonzalez, Johnson and Ramirez and Sons",Nigeria,North America,procurement@santana.com,407-952-1812x29675,SILVER,True
+CUST-000110,"Woodward, Dominguez and Sanford Group",Latvia,APAC,procurement@henry.com,312-487-9627x27450,STANDARD,True
+CUST-000111,"Jackson, Harrell and Gonzalez Inc",Botswana,LATAM,procurement@campbell-dunn.info,+1-689-959-5453x733,SILVER,True
+CUST-000112,Sparks-Rodriguez and Sons,Kuwait,North America,procurement@hill-marquez.com,001-401-788-3693x78943,SILVER,True
+CUST-000113,"Turner, Thomas and Davies Inc",Saint Helena,APAC,procurement@williams.info,(645)584-4490x6279,SILVER,True
+CUST-000114,Dawson LLC Ltd,South Georgia and the South Sandwich Islands,APAC,procurement@hicks-maxwell.com,378-770-2747,GOLD,True
+CUST-000115,Mathews-Villarreal PLC,Czech Republic,EMEA,procurement@bailey.org,6668652008,BRONZE,True
+CUST-000116,Reyes and Sons Ltd,El Salvador,APAC,procurement@henderson-flores.com,001-659-538-6955x204,STANDARD,True
+CUST-000117,"Moore, Miller and Edwards Inc",Montserrat,EMEA,procurement@chase-oneal.com,+1-824-266-0593x71102,GOLD,True
+CUST-000118,"Guzman, Roach and Wilson Ltd",Bahrain,North America,procurement@sims.net,+1-638-858-5131,STANDARD,True
+CUST-000119,"Ball, Marsh and Ballard Inc",Philippines,North America,procurement@johnson-rhodes.com,232.901.6389x920,GOLD,True
+CUST-000120,"Simon, Barajas and Davis Inc",Montserrat,LATAM,procurement@reed.org,275-424-0253,STANDARD,True
+CUST-000121,Woods PLC Group,Macao,APAC,procurement@mayo.info,8502202964,SILVER,True
+CUST-000122,Wheeler-Espinoza Group,Mauritius,North America,procurement@newman.com,+1-935-476-3751,BRONZE,True
+CUST-000123,Lopez Group Ltd,Bulgaria,North America,procurement@graham.org,207.654.8437x534,STANDARD,True
+CUST-000124,"Tran, Robinson and Meyer Group",Tunisia,EMEA,procurement@shah.com,9849948940,GOLD,True
+CUST-000125,"Hudson, Wilkins and Clark Ltd",Peru,APAC,procurement@griffith.biz,811.731.7049,STANDARD,True
+CUST-000126,Smith Inc LLC,Estonia,LATAM,procurement@parrish.com,976-744-2652x658,SILVER,True
+CUST-000127,"Davis, Romero and Johnson Group",Cape Verde,LATAM,procurement@savage.com,868-543-6586x2300,STANDARD,True
+CUST-000128,Cervantes LLC and Sons,United States of America,APAC,procurement@martinez-fox.net,001-540-741-3477x547,SILVER,True
+CUST-000129,Fitzgerald-Duffy Inc,Cameroon,APAC,procurement@williamson-malone.com,956-622-6777x34585,GOLD,True
+CUST-000130,Washington-Perez Inc,Faroe Islands,North America,procurement@reese-bradley.com,438-550-9643x025,GOLD,True
+CUST-000131,Monroe-Franklin Inc,Mongolia,LATAM,procurement@randall-jones.info,+1-604-606-7633,BRONZE,True
+CUST-000132,"Mitchell, Johnson and Little PLC",Botswana,EMEA,procurement@palmer.biz,(589)739-3523x16437,SILVER,True
+CUST-000133,"Richards, Williams and Palmer PLC",New Caledonia,EMEA,procurement@snyder-wu.org,001-696-241-0582x887,SILVER,True
+CUST-000134,"Fuller, Richardson and Nguyen and Sons",United States of America,EMEA,procurement@davis.biz,+1-571-632-0747x0229,SILVER,True
+CUST-000135,"Aguilar, Gray and Wilson and Sons",Taiwan,EMEA,procurement@white.com,681-908-4858x0489,BRONZE,True
+CUST-000136,Carter-Fuller Group,Congo,APAC,procurement@wright.net,999.894.8648,STANDARD,True
+CUST-000137,"Sanchez, Peterson and Estrada PLC",Bangladesh,EMEA,procurement@smith-murray.info,202.639.5843x2461,BRONZE,True
+CUST-000138,"Martin, Morgan and Anthony Inc",Botswana,APAC,procurement@fernandez-scott.com,001-540-421-9760x706,BRONZE,True
+CUST-000139,Hunter Inc Inc,India,LATAM,procurement@gutierrez.net,+1-814-710-7127,SILVER,True
+CUST-000140,Kelly and Sons and Sons,Korea,EMEA,procurement@cross-reyes.com,+1-405-394-5073x329,STANDARD,True
+CUST-000141,"Alvarado, Reed and Rodriguez PLC",Paraguay,APAC,procurement@kirk-schmidt.org,(207)602-1449x2808,STANDARD,True
+CUST-000142,Anderson PLC and Sons,Iraq,LATAM,procurement@english.info,872-630-5497,SILVER,True
+CUST-000143,Chambers-Evans Ltd,Malta,APAC,procurement@knox.net,(753)793-8057,STANDARD,True
+CUST-000144,Patel-Guzman Inc,Saint Vincent and the Grenadines,North America,procurement@munoz.com,001-753-840-8991x42517,BRONZE,True
+CUST-000145,Martin Group PLC,Faroe Islands,LATAM,procurement@soto.com,818-279-0480,SILVER,True
+CUST-000146,Green Inc and Sons,Saint Pierre and Miquelon,EMEA,procurement@white.com,937.581.7017,STANDARD,True
+CUST-000147,Warner-Anderson and Sons,Colombia,North America,procurement@cobb.info,210-765-9614x3127,SILVER,True
+CUST-000148,Taylor PLC LLC,Saint Martin,EMEA,procurement@hahn.info,3152800695,BRONZE,True
+CUST-000149,Mccarthy PLC Inc,Canada,APAC,procurement@martinez-rhodes.com,001-440-720-6304x23968,SILVER,True
+CUST-000150,Perez Ltd Ltd,Haiti,LATAM,procurement@young.com,001-835-925-1648x043,SILVER,True
+CUST-000151,White-Rose PLC,Panama,LATAM,procurement@gonzalez.net,(540)240-4082x7536,GOLD,True
+CUST-000152,"Franklin, Walker and Holden Group",Czech Republic,APAC,procurement@mathis.biz,765-683-2011,GOLD,True
+CUST-000153,White-Pope LLC,Samoa,APAC,procurement@livingston.com,(405)596-3838x207,BRONZE,True
+CUST-000154,Lewis LLC PLC,Mozambique,LATAM,procurement@walker-wilson.com,378.231.9283x0818,BRONZE,True
+CUST-000155,"Mann, Joseph and Snow Inc",Saint Barthelemy,North America,procurement@good.com,3759425723,BRONZE,True
+CUST-000156,"Olson, Wood and Carpenter Ltd",Liberia,APAC,procurement@holland.com,883-741-5733,SILVER,True
+CUST-000157,Hester-Mccoy PLC,Georgia,North America,procurement@edwards.com,(675)270-0838,SILVER,True
+CUST-000158,"Ford, Richardson and Hernandez Group",Ireland,APAC,procurement@cox.biz,5196257810,BRONZE,True
+CUST-000159,Parks Group PLC,Liechtenstein,APAC,procurement@howard.org,(268)567-2352,GOLD,True
+CUST-000160,Douglas-Gibson PLC,Bouvet Island (Bouvetoya),EMEA,procurement@garcia-schneider.com,682.458.3115x9972,SILVER,True
+CUST-000161,"Fletcher, Ramos and Wright LLC",Spain,North America,procurement@jackson-rivera.info,+1-366-864-3673x47924,BRONZE,True
+CUST-000162,"Allen, Rubio and Vega Group",Bhutan,North America,procurement@wang.com,3407427656,BRONZE,True
+CUST-000163,Brown PLC and Sons,Singapore,LATAM,procurement@wilson.biz,4044215384,STANDARD,True
+CUST-000164,Wheeler-Smith LLC,Maldives,North America,procurement@mccoy.com,001-675-957-7805x7046,BRONZE,True
+CUST-000165,"Martin, Baker and Jones Inc",Martinique,North America,procurement@byrd.com,980.627.7057x597,SILVER,True
+CUST-000166,"Watts, Gomez and Walters Inc",United Kingdom,LATAM,procurement@stone.com,+1-851-555-5215,STANDARD,True
+CUST-000167,"Rivera, Le and Lawrence and Sons",Lao People's Democratic Republic,EMEA,procurement@gross.net,783.825.0299x5090,GOLD,True
+CUST-000168,Hansen Inc and Sons,Comoros,EMEA,procurement@williams.com,001-380-589-6236x27854,BRONZE,True
+CUST-000169,Brown-Martinez Inc,Denmark,APAC,procurement@anderson.biz,247-868-4916x29903,BRONZE,True
+CUST-000170,"Brooks, Jones and Newman Ltd",Central African Republic,North America,procurement@bowers-moore.com,(857)935-1687,BRONZE,True
+CUST-000171,Johnson-Zhang PLC,Australia,APAC,procurement@parker.info,667-587-6990x150,BRONZE,True
+CUST-000172,"Phillips, Macias and Nolan Inc",Sri Lanka,North America,procurement@cook.com,496.838.9224x204,BRONZE,True
+CUST-000173,"Novak, Arnold and Donovan LLC",Falkland Islands (Malvinas),LATAM,procurement@buckley.com,293-326-4511,STANDARD,True
+CUST-000174,"Rowe, Lane and Kaufman Ltd",Botswana,LATAM,procurement@bowers.com,(506)897-9427,GOLD,True
+CUST-000175,"Reed, Maldonado and Powers Inc",Saint Helena,LATAM,procurement@berg.com,+1-602-457-8280x4636,BRONZE,True
+CUST-000176,Rose-Turner Group,San Marino,North America,procurement@bass.com,(691)363-3394x280,SILVER,True
+CUST-000177,Miles-Aguirre Inc,Heard Island and McDonald Islands,EMEA,procurement@maldonado.biz,541-536-7116x455,BRONZE,True
+CUST-000178,Gomez Inc Inc,Mauritius,EMEA,procurement@owens-bell.net,770.848.0304x1092,SILVER,True
+CUST-000179,Perry PLC Group,Czech Republic,North America,procurement@willis.biz,568-692-5994,GOLD,True
+CUST-000180,Perkins-Torres LLC,Isle of Man,LATAM,procurement@smith-carter.info,570.323.5995,SILVER,True
+CUST-000181,Alvarado Ltd Ltd,Isle of Man,North America,procurement@stewart.com,001-311-441-6577x231,BRONZE,True
+CUST-000182,Curtis Group LLC,Haiti,EMEA,procurement@james.com,001-235-796-7939x45302,BRONZE,True
+CUST-000183,Alexander PLC LLC,Bahrain,EMEA,procurement@greene-flores.com,(288)406-1155x38314,STANDARD,True
+CUST-000184,Peterson-Mcdonald Group,Solomon Islands,EMEA,procurement@gilmore.com,001-217-392-8901,GOLD,True
+CUST-000185,"Perez, Owen and Miller PLC",Portugal,LATAM,procurement@hughes-patel.biz,669.465.8845x1972,BRONZE,True
+CUST-000186,"Elliott, Flores and Pacheco LLC",Kuwait,APAC,procurement@bailey.com,+1-691-280-2203,BRONZE,True
+CUST-000187,Case Inc Group,Cameroon,North America,procurement@wilson-arnold.com,001-961-887-1871x928,BRONZE,True
+CUST-000188,Alexander Inc Inc,Sri Lanka,APAC,procurement@hawkins.com,489.719.2223x451,SILVER,True
+CUST-000189,Weaver-Moore Inc,Egypt,North America,procurement@jackson.com,(914)298-2851,SILVER,True
+CUST-000190,Kim LLC Inc,Saint Vincent and the Grenadines,LATAM,procurement@lopez.net,+1-553-582-4496x2444,GOLD,True
+CUST-000191,Booker-Gonzalez and Sons,Poland,LATAM,procurement@barnes.com,(722)962-1918x056,BRONZE,True
+CUST-000192,Martinez Group Group,Mayotte,North America,procurement@luna.com,502.679.0697,GOLD,True
+CUST-000193,Stanley-Kennedy and Sons,Belgium,LATAM,procurement@russell-gates.com,+1-645-902-7040x997,BRONZE,True
+CUST-000194,Morris LLC Inc,Trinidad and Tobago,LATAM,procurement@webb.com,562-333-4263,BRONZE,True
+CUST-000195,Morgan Group LLC,Israel,EMEA,procurement@simmons.org,931-771-9803,BRONZE,True
+CUST-000196,Owens Group Ltd,Aruba,APAC,procurement@nguyen.com,7486075571,GOLD,True
+CUST-000197,"Lowe, Hardin and Anderson Group",Swaziland,LATAM,procurement@kirby.biz,(964)801-9698,STANDARD,True
+CUST-000198,"Wallace, Brady and Dixon Group",Barbados,LATAM,procurement@underwood.info,849-665-9487x21814,STANDARD,True
+CUST-000199,"Hernandez, Noble and Ruiz Ltd",French Guiana,APAC,procurement@sellers.com,(523)395-7895,BRONZE,True
+CUST-000200,"Brooks, Rivera and Levy PLC",Belize,APAC,procurement@romero-schmitt.info,+1-705-800-9038,SILVER,True
+CUST-000201,Jordan-Hale Group,Mauritius,APAC,procurement@weaver.com,+1-994-534-8764x143,BRONZE,True
+CUST-000202,Fuentes-Cohen and Sons,Chile,APAC,procurement@bender-anderson.biz,+1-670-612-3947x15994,SILVER,True
+CUST-000203,Wilson-Young and Sons,Israel,EMEA,procurement@brown.com,844-922-8540x7911,SILVER,True
+CUST-000204,Mendoza Ltd Ltd,Croatia,North America,procurement@lucas-curry.com,(644)774-4043,STANDARD,True
+CUST-000205,"Scott, Davidson and Johnson PLC",Costa Rica,North America,procurement@henry.net,563.316.0798x23492,SILVER,True
+CUST-000206,"Smith, Reyes and Lynch Ltd",Philippines,North America,procurement@weeks.com,451-834-2152x0632,BRONZE,True
+CUST-000207,Steele LLC LLC,Trinidad and Tobago,EMEA,procurement@williams.com,(962)872-4958x1451,GOLD,True
+CUST-000208,"Blake, Moore and Smith LLC",Ireland,EMEA,procurement@boyer.com,+1-487-715-2713x804,BRONZE,True
+CUST-000209,Carroll Group and Sons,Angola,EMEA,procurement@arnold.com,(979)251-5942,SILVER,True
+CUST-000210,"Jacobs, Knox and Mcguire PLC",Kuwait,LATAM,procurement@hayes.com,479-643-5114,SILVER,True
+CUST-000211,"Mason, Chen and Franklin Inc",Burundi,EMEA,procurement@jones-harris.com,416.411.0332,STANDARD,True
+CUST-000212,Taylor-Simpson and Sons,United States Minor Outlying Islands,LATAM,procurement@snyder-mills.com,905-948-7175,BRONZE,True
+CUST-000213,"Watson, Castaneda and Melton Group",Kyrgyz Republic,EMEA,procurement@weiss.com,(375)872-1368x83336,GOLD,True
+CUST-000214,"Perez, Baker and Clark PLC",Fiji,EMEA,procurement@brown.org,803-644-2409x7240,BRONZE,True
+CUST-000215,Rose-Graham LLC,Montserrat,LATAM,procurement@frederick.com,001-267-804-6910,SILVER,True
+CUST-000216,Bell PLC PLC,Sudan,LATAM,procurement@price-thompson.net,336.719.2163,BRONZE,True
+CUST-000217,Cummings Ltd Ltd,Micronesia,North America,procurement@hogan-fisher.com,697.532.6289x208,STANDARD,True
+CUST-000218,Thomas Inc and Sons,Fiji,EMEA,procurement@carroll.com,(808)918-2614x604,BRONZE,True
+CUST-000219,Gallegos-Hanson Ltd,Estonia,North America,procurement@frye.biz,240.425.6623x5368,STANDARD,True
+CUST-000220,Rogers Ltd Group,Georgia,LATAM,procurement@cox.net,+1-570-995-2785,BRONZE,True
+CUST-000221,Nash LLC Ltd,Czech Republic,North America,procurement@weaver.info,+1-439-928-7183x78919,GOLD,True
+CUST-000222,Brady Ltd and Sons,Congo,LATAM,procurement@collins-sanchez.com,001-230-761-4977x6864,SILVER,True
+CUST-000223,Hayes PLC Ltd,Nicaragua,EMEA,procurement@rosario.com,262.721.0375,SILVER,True
+CUST-000224,Smith-Fisher Group,Niger,EMEA,procurement@nelson.com,(403)713-1962x800,GOLD,True
+CUST-000225,"Morris, Cooley and Butler PLC",Colombia,North America,procurement@taylor-brown.com,(427)864-1171,STANDARD,True
+CUST-000226,Berg Group Group,Saint Vincent and the Grenadines,APAC,procurement@smith.net,202-300-2544,SILVER,True
+CUST-000227,Pitts LLC Group,Moldova,LATAM,procurement@thompson.com,(907)311-9907,GOLD,True
+CUST-000228,"Hartman, Hernandez and Smith LLC",Dominican Republic,APAC,procurement@cooke.com,001-903-820-4935x1247,GOLD,True
+CUST-000229,"May, Wright and Huang Inc",French Polynesia,North America,procurement@franklin.biz,+1-236-624-2333x90493,SILVER,True
+CUST-000230,Jones-Dyer PLC,Brazil,APAC,procurement@blanchard.org,+1-386-686-4161x49038,BRONZE,True
+CUST-000231,Walters Inc LLC,Falkland Islands (Malvinas),North America,procurement@hill.biz,+1-583-920-5959x045,STANDARD,True
+CUST-000232,"Frazier, Cooper and Ramos Inc",Colombia,North America,procurement@kim-santos.com,680.533.8070x3046,GOLD,True
+CUST-000233,Diaz Inc Group,Cyprus,North America,procurement@logan.com,295.367.5237x338,GOLD,True
+CUST-000234,Jensen Group LLC,Turks and Caicos Islands,North America,procurement@matthews.com,+1-965-469-0505x131,GOLD,True
+CUST-000235,"Lucas, Porter and Anderson and Sons",North Macedonia,APAC,procurement@price.com,(971)405-8922,SILVER,True
+CUST-000236,"Owens, Richardson and Oliver PLC",Nigeria,North America,procurement@hawkins.biz,001-416-333-6240x3833,SILVER,True
+CUST-000237,Mathis-Bryan PLC,China,APAC,procurement@bradshaw.biz,+1-270-390-7828,STANDARD,True
+CUST-000238,Riggs Group PLC,Jamaica,APAC,procurement@shelton.com,+1-528-878-9463,SILVER,True
+CUST-000239,"Young, Mcdonald and Gilbert Group",Brunei Darussalam,EMEA,procurement@nicholson.com,270.595.1526,GOLD,True
+CUST-000240,Briggs-Nelson Group,Ireland,North America,procurement@johnson.info,001-529-661-3262x478,GOLD,True
+CUST-000241,Ballard Inc PLC,United States Minor Outlying Islands,APAC,procurement@smith.net,726-298-1630,BRONZE,True
+CUST-000242,"Brady, Larson and Richardson Inc",Sierra Leone,EMEA,procurement@bailey-jackson.org,001-774-656-5587x28677,STANDARD,True
+CUST-000243,Dean-Singh Inc,Colombia,EMEA,procurement@cannon-wood.org,(365)776-5670,STANDARD,True
+CUST-000244,Dudley-Anderson LLC,Mali,North America,procurement@cantu-benson.org,+1-528-289-1129x34980,STANDARD,True
+CUST-000245,Rodriguez-Schultz Inc,Austria,EMEA,procurement@hamilton-johnson.net,897.298.2580x04254,STANDARD,True
+CUST-000246,Smith PLC Inc,British Indian Ocean Territory (Chagos Archipelago),LATAM,procurement@aguilar.com,001-681-349-6023x293,GOLD,True
+CUST-000247,Franco-Banks PLC,Brazil,EMEA,procurement@scott.net,(385)775-4445,STANDARD,True
+CUST-000248,"Garza, Hernandez and Brown and Sons",South Georgia and the South Sandwich Islands,EMEA,procurement@lee.com,(564)771-1770x91224,STANDARD,True
+CUST-000249,Flores and Sons PLC,Guadeloupe,EMEA,procurement@bryant.info,+1-765-289-3935x7959,BRONZE,True
+CUST-000250,"Fitzpatrick, Evans and Mcguire and Sons",United States Virgin Islands,North America,procurement@jones.com,7589320901,BRONZE,True
+CUST-000251,"Garrison, Kramer and Maxwell Inc",Yemen,LATAM,procurement@alvarado.com,+1-599-350-4655x3208,STANDARD,True
+CUST-000252,Anthony-Morris PLC,Bahrain,LATAM,procurement@hill.biz,301.830.5201,GOLD,True
+CUST-000253,Garza Ltd Group,Isle of Man,APAC,procurement@thomas.net,(228)437-3532,BRONZE,True
+CUST-000254,Booker Group LLC,Hong Kong,APAC,procurement@bruce.com,001-900-500-8084x92840,STANDARD,True
+CUST-000255,Vargas PLC Ltd,Namibia,North America,procurement@campbell.com,962.239.3143x8055,BRONZE,True
+CUST-000256,Richards and Sons PLC,Brazil,LATAM,procurement@combs.com,478-472-8203x06439,STANDARD,True
+CUST-000257,"Riley, Guzman and Cochran Ltd",United States of America,North America,procurement@perez.com,799.472.1160,SILVER,True
+CUST-000258,Li-Perez LLC,Australia,EMEA,procurement@mayer.com,324-610-9582,BRONZE,True
+CUST-000259,Kim and Sons Inc,Congo,LATAM,procurement@lewis.com,617-217-9260,BRONZE,True
+CUST-000260,Cannon Ltd LLC,Cameroon,LATAM,procurement@pennington.com,(693)307-4054x95128,GOLD,True
+CUST-000261,"Jacobs, Hill and Wilson and Sons",Iraq,LATAM,procurement@burch-klein.com,+1-209-399-1081x224,GOLD,True
+CUST-000262,Juarez and Sons PLC,Iceland,APAC,procurement@burke-perkins.biz,873.438.1511,SILVER,True
+CUST-000263,Ford Group Inc,Benin,APAC,procurement@richardson-jackson.com,001-287-329-6458x281,GOLD,True
+CUST-000264,"Silva, Bush and Clark Ltd",North Macedonia,EMEA,procurement@lyons-soto.com,(460)502-8887,STANDARD,True
+CUST-000265,"Ramos, Proctor and Ramirez PLC",Malta,LATAM,procurement@gonzales-brown.com,+1-803-454-4858x37980,STANDARD,True
+CUST-000266,"Cortez, Meyer and Watkins and Sons",Australia,EMEA,procurement@phillips-sosa.com,653.501.1387,STANDARD,True
+CUST-000267,Whitney and Sons LLC,San Marino,LATAM,procurement@williams.com,8776587647,STANDARD,True
+CUST-000268,Briggs Group and Sons,Cambodia,North America,procurement@petty-gutierrez.info,001-958-707-7971x33730,SILVER,True
+CUST-000269,"Jones, Rocha and Moore LLC",Austria,LATAM,procurement@wood.biz,373-717-7159x174,STANDARD,True
+CUST-000270,Kennedy-Jimenez and Sons,Venezuela,APAC,procurement@vang.com,+1-325-358-8962x51192,GOLD,True
+CUST-000271,Hill Ltd LLC,China,LATAM,procurement@santiago.com,(602)376-2742,GOLD,True
+CUST-000272,Kelly Ltd PLC,Spain,LATAM,procurement@james.com,351.380.3292x87395,STANDARD,True
+CUST-000273,"Miller, Morris and Beltran Ltd",Eritrea,EMEA,procurement@buck-gomez.com,593-813-1095,GOLD,True
+CUST-000274,Stewart-Miller Inc,Cambodia,EMEA,procurement@burgess.com,278.380.2000x999,SILVER,True
+CUST-000275,"Hunt, Collins and Montgomery PLC",Mongolia,LATAM,procurement@crawford-webster.com,504.223.7733x6813,BRONZE,True
+CUST-000276,Conrad PLC PLC,Madagascar,EMEA,procurement@estes.info,420.347.1647x11208,STANDARD,True
+CUST-000277,"Russell, Scott and Elliott Group",Cameroon,North America,procurement@rodriguez-haley.com,(917)220-7156,SILVER,True
+CUST-000278,Mcintyre PLC LLC,Tanzania,APAC,procurement@barber-macias.org,+1-452-245-7700x32111,STANDARD,True
+CUST-000279,"Cuevas, Gomez and Gallagher LLC",Ukraine,APAC,procurement@smith-watson.com,888.593.1475x27025,BRONZE,True
+CUST-000280,Yu-Henderson Inc,Congo,APAC,procurement@patterson.com,(713)923-0861,STANDARD,True
+CUST-000281,"Mata, Goodwin and Becker Inc",Netherlands Antilles,North America,procurement@boyd.org,594-840-8054x4223,BRONZE,True
+CUST-000282,"Pena, Phelps and Robles Group",Canada,EMEA,procurement@garza.com,(906)275-8054x696,BRONZE,True
+CUST-000283,Spencer-Thornton Group,British Virgin Islands,North America,procurement@mcgrath-webster.com,735.404.9003x8113,SILVER,True
+CUST-000284,"Brown, Delacruz and Williams LLC",Belize,LATAM,procurement@rivera-cowan.com,(413)552-8723x1059,BRONZE,True
+CUST-000285,Christensen-Lam LLC,Tuvalu,APAC,procurement@wang.com,(645)970-0781x52762,STANDARD,True
+CUST-000286,"Lynch, Jones and Berry Group",Venezuela,EMEA,procurement@guerra.org,(880)782-3924x9404,STANDARD,True
+CUST-000287,Roberts-Carpenter and Sons,Zimbabwe,APAC,procurement@wolfe.com,696-281-9805x03062,SILVER,True
+CUST-000288,"Hernandez, Stewart and Mendoza Inc",French Southern Territories,LATAM,procurement@moore.com,(377)612-4794x19332,BRONZE,True
+CUST-000289,Watson-Miller LLC,El Salvador,North America,procurement@thompson-levy.com,(245)938-4013,GOLD,True
+CUST-000290,"Nelson, Patton and Long Group",Korea,LATAM,procurement@jones-johnson.info,(286)929-3164x8427,GOLD,True
+CUST-000291,Chaney and Sons LLC,Jersey,North America,procurement@gallegos.info,971-719-6878x22607,STANDARD,True
+CUST-000292,"Jones, Shepherd and Riggs Group",Micronesia,APAC,procurement@johnson.com,396.847.4324x69016,STANDARD,True
+CUST-000293,Wright Group PLC,French Southern Territories,APAC,procurement@duran-reid.com,641.865.2293x04204,GOLD,True
+CUST-000294,"Lopez, Chen and Brown PLC",Germany,APAC,procurement@williams.com,+1-428-930-0688x5705,BRONZE,True
+CUST-000295,"Turner, Carey and Stevens Group",Vietnam,APAC,procurement@young-ray.com,202-289-1040x52327,STANDARD,True
+CUST-000296,Rosales-Garcia LLC,Papua New Guinea,North America,procurement@villegas-rodgers.net,(529)808-1288,SILVER,True
+CUST-000297,"Parker, Bush and Owens and Sons",Morocco,LATAM,procurement@obrien.com,747.870.2200x442,SILVER,True
+CUST-000298,"Hansen, Juarez and Bridges Ltd",Saint Kitts and Nevis,LATAM,procurement@davenport.com,364-764-4316,BRONZE,True
+CUST-000299,Rios-Norton LLC,Niger,EMEA,procurement@benton.org,001-276-282-4924x01236,BRONZE,True
+CUST-000300,Robinson-Wilcox and Sons,Brazil,EMEA,procurement@dean.org,623.986.2611x11653,BRONZE,True
+CUST-000301,"Combs, Leblanc and Sheppard PLC",Cameroon,APAC,procurement@martinez-garcia.net,614.918.0257x1492,SILVER,True
+CUST-000302,Smith Ltd Ltd,Central African Republic,EMEA,procurement@hamilton.org,001-297-846-7463x71025,GOLD,True
+CUST-000303,Thomas LLC PLC,Brunei Darussalam,EMEA,procurement@sanders-garcia.com,369-507-7604x5784,BRONZE,True
+CUST-000304,Mcneil Ltd Group,Saint Lucia,APAC,procurement@madden-clay.com,001-534-266-3750x869,STANDARD,True
+CUST-000305,Harris-Wells Ltd,United States Virgin Islands,APAC,procurement@may-russell.com,984-727-5632x40189,GOLD,True
+CUST-000306,Ortiz PLC LLC,India,LATAM,procurement@joseph.com,001-580-781-2210x41210,SILVER,True
+CUST-000307,Thomas-Noble LLC,Timor-Leste,LATAM,procurement@mahoney.com,5397613297,STANDARD,True
+CUST-000308,Thompson Ltd Inc,Djibouti,LATAM,procurement@harris.org,425-723-9014x55296,STANDARD,True
+CUST-000309,"Rogers, Oneill and Hayden PLC",Antigua and Barbuda,LATAM,procurement@stewart.com,387.500.0695,SILVER,True
+CUST-000310,"Potts, Levine and Wade and Sons",Poland,LATAM,procurement@williams.com,001-793-847-0730x834,GOLD,True
+CUST-000311,Griffin-Dennis LLC,Dominican Republic,LATAM,procurement@brandt.com,5027112602,STANDARD,True
+CUST-000312,French PLC Group,Palestinian Territory,North America,procurement@moore-keller.com,2192252575,GOLD,True
+CUST-000313,Orozco LLC LLC,Thailand,EMEA,procurement@weaver.com,589.382.0099x9742,BRONZE,True
+CUST-000314,Lee-Mitchell and Sons,Cape Verde,LATAM,procurement@griffin.net,(833)857-1378x00348,GOLD,True
+CUST-000315,"Hahn, Underwood and Miller Ltd",Tokelau,EMEA,procurement@holt-arnold.info,+1-653-618-7922x151,BRONZE,True
+CUST-000316,Alvarado Group and Sons,China,North America,procurement@mercer-ward.com,993.469.2973x8251,BRONZE,True
+CUST-000317,Haley LLC LLC,Lithuania,EMEA,procurement@garcia.info,(563)236-5305x8486,SILVER,True
+CUST-000318,"Brown, Schwartz and Shelton LLC",Spain,APAC,procurement@harrison.com,+1-631-400-7488,STANDARD,True
+CUST-000319,Beck Ltd Ltd,Bouvet Island (Bouvetoya),LATAM,procurement@lucas-martin.com,213.666.8488x7425,SILVER,True
+CUST-000320,Snyder-Barnes Inc,Nauru,North America,procurement@ray-williams.com,317-557-4874x5417,SILVER,True
+CUST-000321,"Robles, Davenport and Young Inc",Falkland Islands (Malvinas),North America,procurement@neal-chavez.info,988-593-5146,BRONZE,True
+CUST-000322,King-Decker Ltd,Saint Lucia,EMEA,procurement@davis-irwin.com,(234)328-6563x7907,SILVER,True
+CUST-000323,Barnes LLC PLC,United Kingdom,EMEA,procurement@perez.com,+1-851-330-5884x6941,BRONZE,True
+CUST-000324,"Rivera, Santos and Lutz PLC",Uganda,LATAM,procurement@hudson.com,620.570.8769,GOLD,True
+CUST-000325,"Fischer, Garrett and Wilson and Sons",Tunisia,North America,procurement@warren.biz,+1-489-994-6976x596,GOLD,True
+CUST-000326,Barnes-Munoz Inc,Turkey,APAC,procurement@wallace.com,740-919-5564x34525,GOLD,True
+CUST-000327,"Peterson, Alexander and Baxter and Sons",Montserrat,EMEA,procurement@johnson-nash.com,7844619351,BRONZE,True
+CUST-000328,Price and Sons LLC,Australia,North America,procurement@shaw-terrell.info,(647)961-6395,GOLD,True
+CUST-000329,"Liu, Hall and Livingston Inc",Mongolia,LATAM,procurement@graves-weaver.com,934.733.7037,BRONZE,True
+CUST-000330,Gutierrez Group LLC,France,APAC,procurement@vang.com,+1-902-239-2701,STANDARD,True
+CUST-000331,Day PLC Group,Bouvet Island (Bouvetoya),EMEA,procurement@butler.com,(926)625-0665,BRONZE,True
+CUST-000332,Hunt Group Ltd,Bulgaria,APAC,procurement@fleming-miller.com,(770)942-6522x88418,BRONZE,True
+CUST-000333,Mcguire-Payne LLC,Czech Republic,APAC,procurement@anderson-schneider.net,(637)311-5795,SILVER,True
+CUST-000334,"Stein, Richardson and Delacruz Group",United Kingdom,APAC,procurement@cook-booth.info,805.743.0904,STANDARD,True
+CUST-000335,"Jennings, Torres and Evans Ltd",North Macedonia,LATAM,procurement@smith.biz,(778)484-4212x0990,BRONZE,True
+CUST-000336,"Mosley, Hardy and Wheeler Inc",North Macedonia,North America,procurement@jones.net,001-322-411-8917,GOLD,True
+CUST-000337,Mahoney Group Group,Cuba,EMEA,procurement@perry.com,574.232.1261,GOLD,True
+CUST-000338,Evans Ltd Group,Panama,EMEA,procurement@crawford.net,(973)224-2328,SILVER,True
+CUST-000339,Gutierrez-Smith LLC,Azerbaijan,North America,procurement@contreras.org,823-557-0780,BRONZE,True
+CUST-000340,"Carter, Crawford and Ruiz PLC",Argentina,North America,procurement@snyder.org,243.756.2780,BRONZE,True
+CUST-000341,"Ross, Torres and Munoz Ltd",Ghana,APAC,procurement@thomas.com,876.436.7360,STANDARD,True
+CUST-000342,"Cantrell, Romero and Ramsey Group",Anguilla,North America,procurement@wright.info,+1-996-867-3619x7217,STANDARD,True
+CUST-000343,Morrison PLC Group,Isle of Man,LATAM,procurement@terry.com,351-577-1772x65500,BRONZE,True
+CUST-000344,Nelson Group LLC,Korea,EMEA,procurement@howard.biz,626.608.8488x026,SILVER,True
+CUST-000345,Pierce-Paul Group,Bangladesh,North America,procurement@kane.com,269.709.0629,GOLD,True
+CUST-000346,Garcia and Sons LLC,Jordan,EMEA,procurement@rogers.net,001-399-447-7983x48821,BRONZE,True
+CUST-000347,"Gibson, Gray and Conner and Sons",Iran,North America,procurement@gould-cruz.com,7212308652,STANDARD,True
+CUST-000348,"Martinez, Jenkins and Wilson Inc",Falkland Islands (Malvinas),APAC,procurement@moore.com,494-354-1815x4804,BRONZE,True
+CUST-000349,Edwards-Martin and Sons,Tanzania,North America,procurement@parrish-cantu.info,609-908-2671x5626,BRONZE,True
+CUST-000350,Davis-Mcfarland PLC,Korea,EMEA,procurement@perez.net,(917)699-3727x70795,GOLD,True
+CUST-000351,Pacheco-Bryant Group,Kiribati,APAC,procurement@lowe.net,001-524-632-8403x54468,SILVER,True
+CUST-000352,Clements-Baldwin Group,Madagascar,EMEA,procurement@ortiz-hicks.com,816.696.1055x559,BRONZE,True
+CUST-000353,Rodriguez-Winters PLC,Norway,LATAM,procurement@rodriguez-barnes.com,+1-251-491-8235,BRONZE,True
+CUST-000354,"Hamilton, Guerrero and Jenkins and Sons",Saint Barthelemy,APAC,procurement@benton-robles.com,(798)599-5456x6312,SILVER,True
+CUST-000355,"Kelly, Jackson and Lee Ltd",Sweden,EMEA,procurement@tran.info,+1-941-825-8659x0133,BRONZE,True
+CUST-000356,Walker and Sons Group,Algeria,North America,procurement@wang.com,(407)229-5489,GOLD,True
+CUST-000357,Taylor-Lin Ltd,Christmas Island,North America,procurement@newman.com,001-899-805-7030x161,BRONZE,True
+CUST-000358,Lewis-Valencia Ltd,Netherlands Antilles,APAC,procurement@tanner-jones.com,912.639.1245,GOLD,True
+CUST-000359,Howard Group Inc,Tonga,EMEA,procurement@dawson.com,(482)759-6954,STANDARD,True
+CUST-000360,"Cox, Foster and Hensley LLC",Malta,North America,procurement@peters-wilson.com,235-972-8251,SILVER,True
+CUST-000361,Nguyen-Barnes PLC,Oman,APAC,procurement@ferguson.com,649.567.8172,STANDARD,True
+CUST-000362,"Mckinney, Martinez and Werner Group",Slovakia (Slovak Republic),North America,procurement@bullock.org,440.333.6032,BRONZE,True
+CUST-000363,Clark-Bryant PLC,Russian Federation,North America,procurement@meyer.com,001-389-579-5759x680,BRONZE,True
+CUST-000364,Washington-Kidd LLC,Cote d'Ivoire,LATAM,procurement@miller.com,614-846-3547,STANDARD,True
+CUST-000365,Schneider and Sons Ltd,Burkina Faso,LATAM,procurement@miles-herman.com,001-440-212-2661x721,STANDARD,True
+CUST-000366,"Scott, Sparks and Allen LLC",French Southern Territories,APAC,procurement@mckenzie.com,976.640.7134x36251,STANDARD,True
+CUST-000367,Sweeney Ltd and Sons,Cyprus,LATAM,procurement@carey.com,001-314-571-6086,BRONZE,True
+CUST-000368,"Perkins, Ingram and Thomas PLC",Cuba,LATAM,procurement@simmons-page.biz,(801)689-2773x29122,STANDARD,True
+CUST-000369,Evans Group LLC,Nepal,EMEA,procurement@parks.biz,001-539-595-8331,STANDARD,True
+CUST-000370,Mccoy-Butler Ltd,Morocco,EMEA,procurement@fitzgerald.com,(488)733-5633x0878,GOLD,True
+CUST-000371,Williams PLC Group,Poland,North America,procurement@thompson.org,+1-517-671-9431x8537,GOLD,True
+CUST-000372,Reyes-Hamilton Ltd,Australia,LATAM,procurement@sanchez-wolf.org,(517)585-0592x6339,GOLD,True
+CUST-000373,Page Inc Ltd,Senegal,APAC,procurement@hendricks.info,667-943-5260,GOLD,True
+CUST-000374,Dyer-Hall PLC,Russian Federation,North America,procurement@jones.com,627.337.9491,GOLD,True
+CUST-000375,Coleman PLC and Sons,Seychelles,EMEA,procurement@durham.com,3914598231,BRONZE,True
+CUST-000376,Benitez Ltd and Sons,Haiti,LATAM,procurement@bird.info,001-587-439-9002x53440,SILVER,True
+CUST-000377,Sanders-Boyd Group,Canada,LATAM,procurement@davies.com,4214425301,STANDARD,True
+CUST-000378,Franklin-Hunt Inc,Cambodia,LATAM,procurement@snow.net,001-210-379-4131x466,BRONZE,True
+CUST-000379,Steele and Sons LLC,Mexico,EMEA,procurement@lowe-meyers.com,(900)362-0709,SILVER,True
+CUST-000380,Johnson Ltd and Sons,Samoa,North America,procurement@morris.com,(501)977-4349x3491,BRONZE,True
+CUST-000381,"Miller, Sanchez and Gonzalez Group",Tuvalu,EMEA,procurement@roberts-mann.net,926-580-7102,BRONZE,True
+CUST-000382,"Johnson, Calderon and Parker Group",Timor-Leste,APAC,procurement@moss-chandler.info,761.316.6656x523,BRONZE,True
+CUST-000383,Miller PLC Inc,Cameroon,LATAM,procurement@anderson.com,8448402825,BRONZE,True
+CUST-000384,Vincent LLC LLC,Burundi,APAC,procurement@park.biz,551-804-8055x5087,BRONZE,True
+CUST-000385,Scott-Wallace Ltd,Cameroon,LATAM,procurement@morales.com,569-358-2158,SILVER,True
+CUST-000386,Smith-Hines Ltd,Iraq,EMEA,procurement@tyler.com,8595165041,STANDARD,True
+CUST-000387,Giles-Hall Inc,Croatia,EMEA,procurement@smith-banks.com,752.245.0502x332,STANDARD,True
+CUST-000388,"Lewis, Roth and Hernandez LLC",Saint Vincent and the Grenadines,APAC,procurement@wu.info,(371)279-0721,STANDARD,True
+CUST-000389,Henry Ltd Inc,Gibraltar,EMEA,procurement@roberts.com,+1-521-444-8905,BRONZE,True
+CUST-000390,Chavez Inc Group,Sweden,LATAM,procurement@warren.com,4428858132,BRONZE,True
+CUST-000391,Crawford Ltd and Sons,Nigeria,North America,procurement@harris.com,+1-731-877-2630,BRONZE,True
+CUST-000392,"Orozco, Snyder and Anderson Inc",Samoa,North America,procurement@rowe.com,(328)606-0327,STANDARD,True
+CUST-000393,Garza-Wilson Ltd,Bermuda,APAC,procurement@myers-hill.com,624.989.9469x78332,SILVER,True
+CUST-000394,Barker PLC Ltd,Latvia,LATAM,procurement@owen.com,417.352.4615x36605,STANDARD,True
+CUST-000395,"Wright, Mcgrath and Buckley LLC",Malta,LATAM,procurement@bailey.com,931.940.1402,SILVER,True
+CUST-000396,Smith-Robinson Ltd,Philippines,LATAM,procurement@chan-fuller.info,4187578986,STANDARD,True
+CUST-000397,"Smith, Jordan and Jones and Sons",Sao Tome and Principe,LATAM,procurement@moore.biz,475-732-1504,BRONZE,True
+CUST-000398,"Burke, Reynolds and Finley LLC",Algeria,LATAM,procurement@wyatt.com,9544751531,BRONZE,True
+CUST-000399,Miller Group LLC,San Marino,APAC,procurement@bullock.com,841.794.0103x0949,BRONZE,True
+CUST-000400,"Schmidt, Gallegos and Harper PLC",Iceland,North America,procurement@bennett.biz,+1-276-875-1484x237,STANDARD,True
+CUST-000401,"Baker, Wood and Gallegos LLC",Armenia,APAC,procurement@johnson.com,266.434.4826,SILVER,True
+CUST-000402,Smith LLC and Sons,Guernsey,EMEA,procurement@chang-martinez.com,458-503-2946x910,GOLD,True
+CUST-000403,Schmidt and Sons Inc,India,LATAM,procurement@king.com,655.281.2473,BRONZE,True
+CUST-000404,Powers-Fields Inc,Netherlands Antilles,LATAM,procurement@sutton-hale.com,517.635.8751,SILVER,True
+CUST-000405,Noble-West Inc,Thailand,LATAM,procurement@wilson.com,001-991-968-5651x857,STANDARD,True
+CUST-000406,Hodges-Ho Inc,Spain,North America,procurement@tran.org,3482784871,BRONZE,True
+CUST-000407,Graham and Sons LLC,Czech Republic,LATAM,procurement@herring-hoffman.com,001-491-672-0722x6888,STANDARD,True
+CUST-000408,Ford-Davis Ltd,Myanmar,EMEA,procurement@dorsey-davis.com,001-441-419-6703x6499,BRONZE,True
+CUST-000409,Hill-Poole LLC,Libyan Arab Jamahiriya,APAC,procurement@parker.com,871-205-0524x01629,SILVER,True
+CUST-000410,Davis-Hernandez PLC,Central African Republic,EMEA,procurement@rogers.net,339.253.2394,STANDARD,True
+CUST-000411,Harris-Hill PLC,Russian Federation,LATAM,procurement@short.org,678.437.0765,STANDARD,True
+CUST-000412,Cline-Fields PLC,Tokelau,EMEA,procurement@wise-smith.com,(736)657-8971x799,SILVER,True
+CUST-000413,Carlson Ltd Group,Slovenia,EMEA,procurement@mccoy.com,896-886-2418x4306,BRONZE,True
+CUST-000414,Underwood Inc PLC,Turks and Caicos Islands,LATAM,procurement@park.com,216-826-1280,STANDARD,True
+CUST-000415,Haynes LLC and Sons,Tokelau,North America,procurement@lindsey.net,394-871-0094,STANDARD,True
+CUST-000416,"Roth, Knox and Frank Ltd",Syrian Arab Republic,EMEA,procurement@harris.info,758-868-7360x3993,BRONZE,True
+CUST-000417,Soto-Nelson LLC,Malawi,APAC,procurement@perez.info,852.383.3660,SILVER,True
+CUST-000418,"Allen, Herring and Solomon LLC",Bulgaria,APAC,procurement@lam-carr.com,(752)699-8273,STANDARD,True
+CUST-000419,Alexander-Park and Sons,Suriname,LATAM,procurement@smith.info,(392)254-9527x1967,SILVER,True
+CUST-000420,Davis-Petersen and Sons,Vietnam,North America,procurement@williams.net,499-285-4753x5234,STANDARD,True
+CUST-000421,Deleon PLC LLC,Monaco,LATAM,procurement@davis-clarke.org,735.651.9208x557,SILVER,True
+CUST-000422,"Hale, Tucker and Knapp LLC",Eritrea,EMEA,procurement@jackson-lane.biz,001-629-382-1514x91035,STANDARD,True
+CUST-000423,Griffin-Ford and Sons,Niger,EMEA,procurement@brooks.com,001-243-776-1450x9543,SILVER,True
+CUST-000424,Mays-Brown Group,British Virgin Islands,APAC,procurement@smith.com,001-667-604-7083x454,STANDARD,True
+CUST-000425,Chambers and Sons and Sons,Bahamas,EMEA,procurement@ramirez.biz,6775599159,SILVER,True
+CUST-000426,Wells LLC LLC,Tunisia,North America,procurement@holmes.com,(704)508-4848,SILVER,True
+CUST-000427,Anderson-Harper and Sons,Liberia,EMEA,procurement@quinn-green.net,(855)755-0773x93427,BRONZE,True
+CUST-000428,Day-Valentine Ltd,Antigua and Barbuda,North America,procurement@faulkner.com,+1-904-968-0880x879,BRONZE,True
+CUST-000429,Meyer-Smith Inc,Philippines,EMEA,procurement@smith-herrera.net,321.758.1933x0385,GOLD,True
+CUST-000430,Martin LLC LLC,Montenegro,EMEA,procurement@holt.com,(225)285-2811x559,GOLD,True
+CUST-000431,Gutierrez LLC Inc,Tanzania,LATAM,procurement@garcia-hill.com,(428)757-6676x6084,BRONZE,True
+CUST-000432,Harris-Fischer PLC,Ireland,EMEA,procurement@green-rodriguez.com,001-503-589-7775,SILVER,True
+CUST-000433,"Moore, Cabrera and Robinson Ltd",United States of America,EMEA,procurement@riley.org,969-487-9668x2238,SILVER,True
+CUST-000434,Kelly-Mendoza PLC,Syrian Arab Republic,LATAM,procurement@vargas.net,934.554.2521x38982,SILVER,True
+CUST-000435,"Clark, Thomas and Smith Group",American Samoa,EMEA,procurement@odom.net,848-664-4683x6907,BRONZE,True
+CUST-000436,"Dunlap, Lindsey and Meyers PLC",Guyana,EMEA,procurement@gallegos.com,(479)611-8739,SILVER,True
+CUST-000437,Gomez-Booth LLC,Burkina Faso,North America,procurement@hampton.org,(736)555-8391,STANDARD,True
+CUST-000438,Figueroa Ltd Group,Oman,LATAM,procurement@neal.com,9628653319,BRONZE,True
+CUST-000439,"Price, Moody and Rogers and Sons",Northern Mariana Islands,APAC,procurement@johnson.biz,+1-875-265-8809x8583,BRONZE,True
+CUST-000440,"Stevens, Coleman and Cook Ltd",Montenegro,North America,procurement@boyle-liu.com,484-851-1768x09388,SILVER,True
+CUST-000441,Moore Ltd Ltd,Estonia,EMEA,procurement@rodriguez.org,3297746486,BRONZE,True
+CUST-000442,Nelson Group Ltd,Ghana,EMEA,procurement@diaz.org,(682)976-5530,GOLD,True
+CUST-000443,"Wilson, Odonnell and Burton PLC",Cambodia,North America,procurement@kelley.info,(633)394-3481,BRONZE,True
+CUST-000444,"Holmes, Moore and Collins Inc",Israel,LATAM,procurement@hernandez-cowan.com,+1-539-924-9052x18138,SILVER,True
+CUST-000445,Allen-Maddox Ltd,Timor-Leste,LATAM,procurement@mccullough.com,742-459-5152x70277,SILVER,True
+CUST-000446,"Hernandez, Robinson and White and Sons",Belize,APAC,procurement@jones-atkinson.com,001-845-703-3874x370,BRONZE,True
+CUST-000447,Jones LLC PLC,Aruba,EMEA,procurement@davis.net,472-807-6766x23526,STANDARD,True
+CUST-000448,"Thomas, Bartlett and Lam PLC",Tokelau,APAC,procurement@smith.com,+1-666-894-5472x95430,BRONZE,True
+CUST-000449,Mahoney Ltd and Sons,Tanzania,LATAM,procurement@torres.com,+1-527-259-6815x407,SILVER,True
+CUST-000450,Davis-Robinson PLC,Svalbard & Jan Mayen Islands,North America,procurement@thomas.info,925-617-4380x05154,GOLD,True
+CUST-000451,Ellis PLC Ltd,Kyrgyz Republic,EMEA,procurement@cooper.com,(201)436-2019x5707,STANDARD,True
+CUST-000452,Horne Ltd Inc,Reunion,APAC,procurement@byrd-carlson.biz,+1-390-944-5148x2995,BRONZE,True
+CUST-000453,Sims LLC Group,Libyan Arab Jamahiriya,North America,procurement@stewart.com,001-687-375-0564x555,SILVER,True
+CUST-000454,Martinez Group Ltd,Hungary,North America,procurement@hughes.com,(430)300-3389x75028,BRONZE,True
+CUST-000455,"Holloway, Brown and Silva Group",Costa Rica,North America,procurement@mcdaniel.com,001-680-732-1159x1763,SILVER,True
+CUST-000456,Simpson Group Ltd,Myanmar,APAC,procurement@kirk.biz,340.656.4067x3704,BRONZE,True
+CUST-000457,Miranda-Morrow PLC,Kiribati,EMEA,procurement@hill-hogan.org,968-814-6856,SILVER,True
+CUST-000458,Pope-Hansen Ltd,Mali,North America,procurement@massey-martin.com,389.201.6808,SILVER,True
+CUST-000459,Klein Group and Sons,Bulgaria,LATAM,procurement@briggs-rodriguez.net,585-765-0103,BRONZE,True
+CUST-000460,"Boyd, Adams and Mays Ltd",Hong Kong,APAC,procurement@cruz.com,(201)286-1191,STANDARD,True
+CUST-000461,Higgins PLC Ltd,Korea,EMEA,procurement@lewis-villanueva.org,+1-861-228-5249x70036,STANDARD,True
+CUST-000462,Diaz-Horton LLC,Luxembourg,LATAM,procurement@moore.com,610.638.6303,STANDARD,True
+CUST-000463,Perez-Kline and Sons,Mexico,LATAM,procurement@williams.net,776-748-8323,BRONZE,True
+CUST-000464,"Hopkins, Townsend and Villa and Sons",Liechtenstein,EMEA,procurement@daniel.com,(300)270-7716,GOLD,True
+CUST-000465,Martin Group Ltd,Guadeloupe,EMEA,procurement@peterson-arnold.com,(240)848-5586x7637,BRONZE,True
+CUST-000466,Fernandez-Mckay Group,Lebanon,EMEA,procurement@roberts.com,(836)250-8283x7820,GOLD,True
+CUST-000467,Rivera PLC Ltd,United Kingdom,EMEA,procurement@jenkins-anderson.org,(730)903-1412,SILVER,True
+CUST-000468,"Washington, Sherman and Lee PLC",Bermuda,APAC,procurement@garcia.com,+1-513-870-2662x2097,BRONZE,True
+CUST-000469,Stewart-Riley PLC,Senegal,EMEA,procurement@santana.info,392.404.9770x99431,SILVER,True
+CUST-000470,Clark PLC LLC,Jamaica,LATAM,procurement@maxwell-watson.com,(445)455-3562x736,GOLD,True
+CUST-000471,White-Carroll Ltd,Reunion,North America,procurement@johnston.biz,+1-523-428-5269,GOLD,True
+CUST-000472,"Obrien, Rogers and Fox LLC",Guam,APAC,procurement@cabrera.com,5043473674,STANDARD,True
+CUST-000473,Hall-Baker PLC,Samoa,EMEA,procurement@williams-contreras.com,+1-634-425-4756,BRONZE,True
+CUST-000474,Duncan-Bennett LLC,Angola,North America,procurement@grimes.com,+1-344-450-1133,BRONZE,True
+CUST-000475,Leon Ltd Inc,Switzerland,APAC,procurement@brown.com,677.959.9498x562,SILVER,True
+CUST-000476,Potts-Wallace and Sons,Guinea-Bissau,EMEA,procurement@koch.com,678.615.8615,GOLD,True
+CUST-000477,Walker LLC and Sons,Kyrgyz Republic,EMEA,procurement@smith.com,224.842.9476x01861,BRONZE,True
+CUST-000478,Frey Group and Sons,Austria,LATAM,procurement@anderson.com,(459)750-4253,BRONZE,True
+CUST-000479,Welch LLC LLC,Holy See (Vatican City State),EMEA,procurement@calhoun-robles.net,8395972876,GOLD,True
+CUST-000480,Williams LLC Group,Vanuatu,LATAM,procurement@howard.com,8464147615,BRONZE,True
+CUST-000481,Lynn LLC Ltd,Timor-Leste,APAC,procurement@jones-washington.com,001-434-518-0636x635,BRONZE,True
+CUST-000482,"Swanson, Sutton and Hernandez and Sons",Montserrat,APAC,procurement@barker-ford.com,669.587.2552,GOLD,True
+CUST-000483,"Goodman, Wilson and Coleman Ltd",French Southern Territories,EMEA,procurement@wright-lopez.net,843-986-4050,SILVER,True
+CUST-000484,Bolton Ltd Ltd,India,North America,procurement@marks.com,238-205-1018,GOLD,True
+CUST-000485,Brock PLC PLC,Qatar,LATAM,procurement@grant.net,001-339-581-6007x3928,BRONZE,True
+CUST-000486,"Heath, Porter and Berry Inc",Bosnia and Herzegovina,LATAM,procurement@perez.com,+1-934-912-4812x6741,BRONZE,True
+CUST-000487,Martinez PLC Inc,New Zealand,LATAM,procurement@hicks.com,+1-644-577-9393x91218,BRONZE,True
+CUST-000488,Watson PLC Group,Swaziland,EMEA,procurement@mccarthy.com,325-548-7436,BRONZE,True
+CUST-000489,Jacobs Inc PLC,Marshall Islands,LATAM,procurement@townsend.com,001-415-759-3103x06569,STANDARD,True
+CUST-000490,Martin PLC Ltd,Svalbard & Jan Mayen Islands,EMEA,procurement@hernandez.com,909-315-1384x21778,BRONZE,True
+CUST-000491,"Klein, Mann and Silva LLC",El Salvador,EMEA,procurement@lewis.net,(560)706-3033x20668,BRONZE,True
+CUST-000492,"Matthews, Rhodes and Vargas Inc",Dominica,North America,procurement@lee-clark.com,(990)654-2458,STANDARD,True
+CUST-000493,Lopez Ltd PLC,Heard Island and McDonald Islands,EMEA,procurement@taylor.com,(441)930-5050,BRONZE,True
+CUST-000494,"Hampton, Martin and Foster and Sons",Ireland,APAC,procurement@hudson-williams.biz,+1-575-329-9119x7001,SILVER,True
+CUST-000495,"Jones, Harrison and Simmons Ltd",Saudi Arabia,LATAM,procurement@hale.info,(771)998-2343x953,GOLD,True
+CUST-000496,"Cochran, Clark and Kelley LLC",Syrian Arab Republic,LATAM,procurement@avery.com,+1-799-277-0601,BRONZE,True
+CUST-000497,"Lopez, Campos and Johnson Inc",Lebanon,North America,procurement@woodard.com,2596399895,BRONZE,True
+CUST-000498,"Butler, Hunt and Estes Ltd",Saint Kitts and Nevis,EMEA,procurement@hickman.com,(791)798-1227x86915,GOLD,True
+CUST-000499,Galloway-Turner Ltd,Zambia,LATAM,procurement@compton-hansen.com,001-525-341-1618,BRONZE,True
+CUST-000500,Wiggins-Martinez LLC,Bermuda,North America,procurement@harding.org,001-426-926-8319x23127,SILVER,True
+CUST-000501,Thompson-Sims PLC,Oman,EMEA,procurement@villegas.com,001-744-389-7827x95926,BRONZE,True
+CUST-000502,Wood-Bell Group,Ireland,LATAM,procurement@hall-figueroa.com,001-631-833-4697,SILVER,True
+CUST-000503,Brooks-Clarke Ltd,Burkina Faso,EMEA,procurement@williams.com,(704)974-2264x3805,STANDARD,True
+CUST-000504,Walker-Gamble Ltd,Malawi,EMEA,procurement@cortez.biz,966-756-4601x799,BRONZE,True
+CUST-000505,"Wright, Miller and Cruz Inc",Somalia,EMEA,procurement@andrews.net,+1-507-770-3760x463,BRONZE,True
+CUST-000506,"Lozano, Ortega and Lopez LLC",Afghanistan,APAC,procurement@reynolds.net,001-261-348-8401x3615,STANDARD,True
+CUST-000507,"Shaw, Scott and Lewis Ltd",Portugal,APAC,procurement@griffin-casey.org,200.923.1663,STANDARD,True
+CUST-000508,Clayton PLC PLC,Belgium,EMEA,procurement@davis-griffin.org,+1-598-730-7225x1158,SILVER,True
+CUST-000509,"Reyes, Webb and Henderson PLC",Greece,North America,procurement@hall.com,836-836-6170,SILVER,True
+CUST-000510,"Luna, Henry and Caldwell Group",Poland,EMEA,procurement@scott.com,(634)583-8350,STANDARD,True
+CUST-000511,Mora Ltd LLC,Norway,North America,procurement@mathews.com,001-318-458-2058x6219,SILVER,True
+CUST-000512,"Sanders, Martinez and Wong and Sons",United States Virgin Islands,LATAM,procurement@barnes.com,+1-671-966-6994x979,GOLD,True
+CUST-000513,Faulkner-Jones Ltd,Qatar,APAC,procurement@perez.com,361.259.9057,SILVER,True
+CUST-000514,"Turner, Martin and Mcintosh Group",Nauru,EMEA,procurement@smith.biz,853.796.6521x780,GOLD,True
+CUST-000515,"Stewart, Marquez and Manning Ltd",Madagascar,APAC,procurement@reeves.com,415-355-3757,SILVER,True
+CUST-000516,Brady Inc and Sons,Seychelles,North America,procurement@wood-rios.com,(625)408-8117x8226,STANDARD,True
+CUST-000517,Smith Ltd Inc,Mali,APAC,procurement@humphrey.org,001-825-680-1596x004,SILVER,True
+CUST-000518,"Myers, Ryan and Mueller Inc",Puerto Rico,APAC,procurement@wall-mitchell.com,(555)464-5985x49271,STANDARD,True
+CUST-000519,"Bradford, Schmidt and Russell PLC",Mayotte,APAC,procurement@mcmillan-yang.com,274.936.5930,BRONZE,True
+CUST-000520,Butler-Cox PLC,Finland,APAC,procurement@rogers-perez.com,929.452.9369x95156,SILVER,True
+CUST-000521,"Aguirre, Rhodes and Richard LLC",North Macedonia,North America,procurement@smith.com,8408545284,GOLD,True
+CUST-000522,Trevino-Hodges and Sons,Bhutan,North America,procurement@west.com,477.288.1479,STANDARD,True
+CUST-000523,"Flowers, Guzman and Roy Ltd",Swaziland,APAC,procurement@lee.com,714.327.3083x23022,STANDARD,True
+CUST-000524,Barrera PLC PLC,Liechtenstein,APAC,procurement@rodriguez-garcia.com,216-460-5271x2084,BRONZE,True
+CUST-000525,Alvarez Inc Inc,Palau,LATAM,procurement@frazier.com,497-683-9442,GOLD,True
+CUST-000526,Chan-Harper Inc,Saint Lucia,EMEA,procurement@king.biz,912.209.2642x52137,GOLD,True
+CUST-000527,"Carroll, Spencer and Wilson LLC",Benin,North America,procurement@ashley.com,511.533.7028x42906,STANDARD,True
+CUST-000528,Davis-Carter PLC,Isle of Man,EMEA,procurement@vang.org,368-520-0481,SILVER,True
+CUST-000529,Rodriguez Group Ltd,Saint Martin,EMEA,procurement@butler.org,+1-510-705-2752,BRONZE,True
+CUST-000530,Wiggins Inc and Sons,Mauritius,APAC,procurement@martinez-soto.com,+1-943-936-8219x2118,BRONZE,True
+CUST-000531,Powell Inc Ltd,Benin,LATAM,procurement@craig.net,(908)962-4368x158,SILVER,True
+CUST-000532,Ibarra-Hernandez and Sons,Peru,North America,procurement@rogers.com,001-581-682-5831,STANDARD,True
+CUST-000533,Warren-Kelly Group,Korea,APAC,procurement@merritt-gray.com,+1-637-209-8284x88901,STANDARD,True
+CUST-000534,Adams-Shepherd Group,Taiwan,EMEA,procurement@mendoza.com,546.274.4389x7780,BRONZE,True
+CUST-000535,Kent Group LLC,Denmark,LATAM,procurement@walker.com,566-968-4415x936,BRONZE,True
+CUST-000536,Perkins-Little PLC,Congo,North America,procurement@stafford-barton.com,5712085857,GOLD,True
+CUST-000537,Lawson PLC PLC,Svalbard & Jan Mayen Islands,APAC,procurement@cook-torres.net,501.259.6680x46997,STANDARD,True
+CUST-000538,"Jackson, Garcia and Collins LLC",Niue,LATAM,procurement@turner.biz,+1-862-210-4867x137,BRONZE,True
+CUST-000539,Fowler-Perkins LLC,Maldives,APAC,procurement@hines-stanley.com,001-838-302-7160,STANDARD,True
+CUST-000540,"Garcia, Brown and Watson LLC",Uzbekistan,APAC,procurement@ford-foster.net,+1-306-773-1378x8262,SILVER,True
+CUST-000541,Estes-Ford and Sons,Samoa,North America,procurement@davenport.com,+1-350-801-6893x768,STANDARD,True
+CUST-000542,Edwards and Sons PLC,United States of America,EMEA,procurement@pena-dixon.com,207.798.9381x95839,BRONZE,True
+CUST-000543,"Johnson, Marquez and Page LLC",Myanmar,EMEA,procurement@hill.com,816.415.2755,SILVER,True
+CUST-000544,Hensley Ltd PLC,Honduras,LATAM,procurement@ware.net,001-790-767-7656x0638,SILVER,True
+CUST-000545,Williams-Webb Inc,Macao,APAC,procurement@martin.net,8944916966,BRONZE,True
+CUST-000546,"Hinton, Kelly and Sanders LLC",Burkina Faso,North America,procurement@richmond.com,219.939.8168,BRONZE,True
+CUST-000547,Hawkins and Sons LLC,Lebanon,LATAM,procurement@phillips-hamilton.biz,+1-431-871-8689,SILVER,True
+CUST-000548,Phillips-Nichols Inc,Mexico,EMEA,procurement@porter.com,281-625-4569x38248,STANDARD,True
+CUST-000549,Mckinney-Baldwin Group,Serbia,EMEA,procurement@woods.com,905-689-7133,GOLD,True
+CUST-000550,Cole-Schmidt LLC,El Salvador,North America,procurement@ibarra-brewer.com,(742)858-3779x32769,BRONZE,True
+CUST-000551,Reese-Rogers Group,South Africa,LATAM,procurement@cunningham-johnson.com,7044961299,SILVER,True
+CUST-000552,Harris Ltd Ltd,Hong Kong,LATAM,procurement@thomas-manning.com,001-885-985-0562x382,SILVER,True
+CUST-000553,Roy PLC Inc,Albania,LATAM,procurement@wright.net,(871)377-1082x072,BRONZE,True
+CUST-000554,"Ramirez, Anderson and Allison LLC",United Arab Emirates,LATAM,procurement@whitaker.com,001-911-708-0640x9113,BRONZE,True
+CUST-000555,Mcintyre Inc and Sons,North Macedonia,EMEA,procurement@hayes-ray.com,792-565-7871,SILVER,True
+CUST-000556,Byrd-Allen LLC,Cayman Islands,APAC,procurement@crawford.com,001-274-565-8190x10840,GOLD,True
+CUST-000557,Pham-Copeland PLC,Rwanda,APAC,procurement@turner.com,807.676.9105,SILVER,True
+CUST-000558,Hill-Washington LLC,British Indian Ocean Territory (Chagos Archipelago),APAC,procurement@herring.org,001-789-549-7144x39925,BRONZE,True
+CUST-000559,Walker-Fowler PLC,China,LATAM,procurement@miller.net,001-335-547-8590x64255,GOLD,True
+CUST-000560,Perez-Houston PLC,Timor-Leste,EMEA,procurement@moreno-kennedy.info,(949)550-9071x9176,BRONZE,True
+CUST-000561,Grant-Soto Group,Puerto Rico,EMEA,procurement@cole.org,001-932-615-7141x1502,SILVER,True
+CUST-000562,"Martin, Perez and Morgan Group",Western Sahara,APAC,procurement@hess-holmes.com,928.224.2544x0792,STANDARD,True
+CUST-000563,Lopez-Williams Inc,South Georgia and the South Sandwich Islands,North America,procurement@ray.biz,6059452764,SILVER,True
+CUST-000564,Moore-Woodward PLC,Svalbard & Jan Mayen Islands,EMEA,procurement@williams.com,429.306.3272x025,SILVER,True
+CUST-000565,Anderson-Forbes Inc,Cambodia,North America,procurement@scott-ferguson.info,326.378.7263,STANDARD,True
+CUST-000566,"Joseph, Gonzalez and Bush LLC",United States Virgin Islands,North America,procurement@white.com,2163390698,STANDARD,True
+CUST-000567,"Lewis, Watson and Keith Inc",Jersey,North America,procurement@stout.com,+1-927-657-2964x5962,BRONZE,True
+CUST-000568,"Kaiser, Conrad and Jackson and Sons",Heard Island and McDonald Islands,North America,procurement@jones.com,907-228-4937,GOLD,True
+CUST-000569,Montoya Inc and Sons,Svalbard & Jan Mayen Islands,North America,procurement@mckee.com,(427)309-1185x63017,SILVER,True
+CUST-000570,Wood-Skinner Group,Tanzania,EMEA,procurement@valdez-richardson.biz,001-275-812-7538x0095,STANDARD,True
+CUST-000571,"Miller, Jackson and Brown PLC",Cote d'Ivoire,APAC,procurement@white.net,6777933645,BRONZE,True
+CUST-000572,"Jenkins, Wallace and Nguyen LLC",Jordan,LATAM,procurement@davis.com,001-699-905-9817x081,SILVER,True
+CUST-000573,Clay-Fisher PLC,Ukraine,APAC,procurement@gallagher-phillips.com,4004978722,STANDARD,True
+CUST-000574,Torres Group and Sons,Tunisia,North America,procurement@sherman.com,+1-803-221-6545x753,SILVER,True
+CUST-000575,Morgan-Brown Inc,North Macedonia,LATAM,procurement@sawyer.com,509.778.5978,SILVER,True
+CUST-000576,"Smith, Goodwin and Rosales Inc",Holy See (Vatican City State),APAC,procurement@schultz-mccarthy.net,372.454.0299x86366,STANDARD,True
+CUST-000577,Perez Ltd Inc,Italy,APAC,procurement@wilson-lopez.info,690.428.4342x94044,STANDARD,True
+CUST-000578,Buchanan-Sanders Inc,India,EMEA,procurement@hernandez.com,913-975-2321x749,BRONZE,True
+CUST-000579,Cline-Smith Inc,United States of America,North America,procurement@sims.com,873-631-6910,SILVER,True
+CUST-000580,Lynch-Key and Sons,Antarctica (the territory South of 60 deg S),EMEA,procurement@herrera-munoz.net,(595)494-4237x517,BRONZE,True
+CUST-000581,Rosales-Mckinney Group,Uruguay,LATAM,procurement@ramirez.com,+1-865-936-0632,BRONZE,True
+CUST-000582,Flores-Campos and Sons,Wallis and Futuna,LATAM,procurement@castillo.com,001-850-685-4736x1341,GOLD,True
+CUST-000583,Young-Garcia and Sons,Singapore,APAC,procurement@sheppard.com,344-724-2233,BRONZE,True
+CUST-000584,Gutierrez-Moore Group,Portugal,North America,procurement@macdonald-reyes.com,001-803-602-4372x80452,SILVER,True
+CUST-000585,"Lee, Wilcox and Simmons Ltd",Turks and Caicos Islands,APAC,procurement@stewart.com,218-599-8267x02878,SILVER,True
+CUST-000586,"Kline, Jones and Black Ltd",Anguilla,APAC,procurement@king-king.com,289-312-7765,BRONZE,True
+CUST-000587,Jones-Quinn PLC,South Africa,North America,procurement@gomez.net,787.296.0234,SILVER,True
+CUST-000588,"Cox, Jones and Blair Ltd",Italy,LATAM,procurement@murphy.org,766.716.5698x5150,BRONZE,True
+CUST-000589,"Steele, Bartlett and Frazier LLC",Oman,APAC,procurement@scott-johnson.com,001-777-279-8436x6397,BRONZE,True
+CUST-000590,Thompson PLC Inc,United Arab Emirates,LATAM,procurement@calhoun-gilbert.com,344.235.6445,SILVER,True
+CUST-000591,"Stewart, Brooks and Wade Group",Canada,EMEA,procurement@juarez-davis.org,244-581-4360,STANDARD,True
+CUST-000592,Johnson-Wu PLC,Gibraltar,North America,procurement@nunez-bernard.com,001-389-517-1117x80024,STANDARD,True
+CUST-000593,Ortiz PLC Ltd,Burundi,APAC,procurement@schwartz-ruiz.com,260-851-8689x494,STANDARD,True
+CUST-000594,"Huffman, Sullivan and Graham Inc",Solomon Islands,LATAM,procurement@jackson.com,435-817-7116,BRONZE,True
+CUST-000595,Mcneil-Wilcox Ltd,Malaysia,APAC,procurement@house.biz,650.680.6238x8708,STANDARD,True
+CUST-000596,Grimes-Griffin Group,Kiribati,LATAM,procurement@carney-hodge.com,+1-668-323-9971x935,STANDARD,True
+CUST-000597,Peck Group and Sons,Zimbabwe,EMEA,procurement@gray-bennett.com,+1-850-427-0441x3955,BRONZE,True
+CUST-000598,Hernandez LLC and Sons,Congo,APAC,procurement@brennan-riley.com,704.243.1844x92551,GOLD,True
+CUST-000599,"Bentley, Turner and Parrish LLC",Saint Lucia,North America,procurement@jones-sherman.com,+1-419-426-4815,BRONZE,True
+CUST-000600,Bailey-Colon and Sons,Svalbard & Jan Mayen Islands,APAC,procurement@glenn.org,(510)399-3018,SILVER,True
+CUST-000601,Hopkins-May LLC,Trinidad and Tobago,EMEA,procurement@farmer-adkins.biz,751-570-8618x9896,SILVER,True
+CUST-000602,Hall PLC LLC,United Kingdom,EMEA,procurement@camacho.com,+1-441-884-3534x6339,SILVER,True
+CUST-000603,Burch-Hamilton Inc,Saint Martin,North America,procurement@quinn.com,(801)828-3937,BRONZE,True
+CUST-000604,"Garcia, Rasmussen and Thomas Ltd",Belarus,LATAM,procurement@lucero.com,001-297-392-8318x275,BRONZE,True
+CUST-000605,"Phillips, Mccarthy and Alvarez PLC",Bouvet Island (Bouvetoya),North America,procurement@bowman.com,+1-541-737-5162x948,SILVER,True
+CUST-000606,Trujillo Group and Sons,Bahamas,EMEA,procurement@martin-anderson.info,852.570.9582x01387,GOLD,True
+CUST-000607,"White, Weaver and Boyd and Sons",Cyprus,APAC,procurement@miller-li.com,(422)365-8466x60960,BRONZE,True
+CUST-000608,"Summers, Miller and Knight LLC",Croatia,EMEA,procurement@guzman.com,315-800-3296x808,STANDARD,True
+CUST-000609,"Richardson, Walton and Wright and Sons",Cayman Islands,North America,procurement@briggs.com,360-239-4590x19318,BRONZE,True
+CUST-000610,Solomon-Gonzalez PLC,Niue,North America,procurement@whitehead.biz,001-724-242-5510,SILVER,True
+CUST-000611,Barber-Mitchell LLC,Cyprus,North America,procurement@taylor.com,698-638-9403,STANDARD,True
+CUST-000612,"Ellison, Davis and Hanson LLC",Somalia,North America,procurement@gross.org,(495)794-0280,STANDARD,True
+CUST-000613,Bishop-Reid and Sons,Bhutan,LATAM,procurement@miller.com,857-702-3554x14995,BRONZE,True
+CUST-000614,Combs-Parker PLC,Suriname,APAC,procurement@herrera-barry.com,607-255-4458x977,STANDARD,True
+CUST-000615,"Black, Rollins and Mccoy Group",Benin,North America,procurement@walls.com,566-484-8781x3788,SILVER,True
+CUST-000616,Howell Ltd Inc,Christmas Island,LATAM,procurement@cox-williams.net,710.892.4146x63621,BRONZE,True
+CUST-000617,"Chan, Garcia and Conley and Sons",Philippines,APAC,procurement@reyes.com,+1-287-839-4549,SILVER,True
+CUST-000618,"Roman, Morris and Greer Ltd",Costa Rica,EMEA,procurement@alvarado.net,856.292.3100x678,GOLD,True
+CUST-000619,Salinas-Santos PLC,Korea,APAC,procurement@lewis.info,2973864107,STANDARD,True
+CUST-000620,"Frazier, Sanders and Park Inc",Australia,EMEA,procurement@mejia.info,(704)425-9604x638,STANDARD,True
+CUST-000621,Daniels Group and Sons,Austria,EMEA,procurement@west.com,001-507-770-6997x383,SILVER,True
+CUST-000622,"Little, Castro and Woods and Sons",Slovenia,North America,procurement@torres-torres.com,(759)361-6635,SILVER,True
+CUST-000623,Dixon Inc Ltd,Equatorial Guinea,APAC,procurement@dixon-white.com,3562433453,BRONZE,True
+CUST-000624,Alvarez-Phillips LLC,Nepal,APAC,procurement@hale-jenkins.info,(323)537-1247,GOLD,True
+CUST-000625,Pierce Ltd LLC,Netherlands,APAC,procurement@stokes-glass.info,001-871-647-6463x1939,BRONZE,True
+CUST-000626,"Gonzalez, Martinez and Anderson PLC",Russian Federation,APAC,procurement@strickland.com,432-961-9741,BRONZE,True
+CUST-000627,Fletcher-Lucas LLC,Georgia,APAC,procurement@andersen.com,563.280.4975x02199,BRONZE,True
+CUST-000628,Whitehead-West Ltd,Myanmar,APAC,procurement@thompson-griffin.net,968-668-6087x979,GOLD,True
+CUST-000629,"White, Taylor and Long LLC",Israel,APAC,procurement@hall.com,733.698.7884x3593,SILVER,True
+CUST-000630,Burke LLC Group,Bolivia,LATAM,procurement@johnson.org,772-511-6613,BRONZE,True
+CUST-000631,Sharp and Sons Group,El Salvador,LATAM,procurement@ellis-monroe.com,(742)466-3473x40292,SILVER,True
+CUST-000632,Frank-Sandoval Inc,Kazakhstan,LATAM,procurement@nelson.com,(379)591-4074,BRONZE,True
+CUST-000633,Smith-Murphy LLC,Puerto Rico,APAC,procurement@conley.com,9117183233,BRONZE,True
+CUST-000634,"Best, Scott and Miranda Group",Denmark,LATAM,procurement@diaz.com,286-587-5606x600,BRONZE,True
+CUST-000635,Matthews and Sons Group,Saint Lucia,EMEA,procurement@crawford.org,(301)652-7635x23879,BRONZE,True
+CUST-000636,Barry-Wood Inc,Israel,North America,procurement@jennings.net,330-259-0193,BRONZE,True
+CUST-000637,Mckinney-Vasquez PLC,Singapore,EMEA,procurement@lewis.com,382-323-3292,STANDARD,True
+CUST-000638,Fields Ltd LLC,Iceland,EMEA,procurement@fernandez-martin.com,001-865-741-0462,GOLD,True
+CUST-000639,Ryan-Caldwell Group,Jamaica,APAC,procurement@smith.org,(679)652-6944,SILVER,True
+CUST-000640,"Stokes, Mason and Wilson LLC",Maldives,APAC,procurement@mendez-coleman.biz,316-448-1682x44271,STANDARD,True
+CUST-000641,Rodriguez Group Inc,Solomon Islands,EMEA,procurement@stevenson.com,3405038075,GOLD,True
+CUST-000642,Jones Ltd Inc,Colombia,APAC,procurement@watson.com,750-424-7388,GOLD,True
+CUST-000643,Wilson and Sons LLC,Gabon,APAC,procurement@simmons.net,421-836-0586,SILVER,True
+CUST-000644,Ward-Cox PLC,Bulgaria,EMEA,procurement@guerrero-lopez.com,4934247437,BRONZE,True
+CUST-000645,Young-Gray Inc,Reunion,North America,procurement@daniels-ryan.com,946.485.9662x88804,SILVER,True
+CUST-000646,Ross LLC Group,Portugal,LATAM,procurement@alvarez.net,+1-228-962-0401x55326,STANDARD,True
+CUST-000647,"Lam, Sullivan and Kennedy Group",Saint Vincent and the Grenadines,LATAM,procurement@robinson-lopez.com,+1-453-732-3622x3820,GOLD,True
+CUST-000648,Ramos-Quinn LLC,Cayman Islands,LATAM,procurement@ellison.com,+1-842-369-3900x303,BRONZE,True
+CUST-000649,"Morrow, Mitchell and Castro PLC",Sudan,EMEA,procurement@flores.com,+1-336-458-6439x94144,GOLD,True
+CUST-000650,"Russell, French and Howard LLC",Tokelau,APAC,procurement@edwards.com,+1-326-774-4057x2651,STANDARD,True
+CUST-000651,Moore LLC LLC,Niue,LATAM,procurement@peters.com,(542)906-3389x406,GOLD,True
+CUST-000652,Davis and Sons PLC,Venezuela,North America,procurement@torres-hayes.com,001-534-884-9494x61267,SILVER,True
+CUST-000653,Rangel Group and Sons,France,APAC,procurement@george.net,001-656-717-3069x17496,GOLD,True
+CUST-000654,"Hoffman, Martinez and Reed Group",Cyprus,APAC,procurement@stephenson.org,340.612.5731,STANDARD,True
+CUST-000655,"Russell, Williams and Booker Ltd",Cambodia,EMEA,procurement@brown.org,001-790-634-9067x6687,STANDARD,True
+CUST-000656,Miller-Turner PLC,Malawi,North America,procurement@becker.org,+1-806-420-4385x47868,GOLD,True
+CUST-000657,Wilson Inc PLC,Sudan,EMEA,procurement@rogers.com,251-886-0519x435,SILVER,True
+CUST-000658,Miller and Sons Ltd,Korea,EMEA,procurement@bradshaw-jones.net,7716001562,BRONZE,True
+CUST-000659,Smith and Sons Ltd,Bermuda,EMEA,procurement@guerrero.com,001-484-590-5214x02248,BRONZE,True
+CUST-000660,Evans-Murphy and Sons,Luxembourg,North America,procurement@swanson-newman.com,278.600.2705x627,BRONZE,True
+CUST-000661,Johnson-Berry Ltd,Micronesia,EMEA,procurement@thompson.net,001-281-251-4790x6672,STANDARD,True
+CUST-000662,Reed PLC LLC,Somalia,EMEA,procurement@meyer.com,348.417.7380x693,BRONZE,True
+CUST-000663,Nelson-Soto Inc,Svalbard & Jan Mayen Islands,EMEA,procurement@smith.org,+1-397-606-9534x1893,GOLD,True
+CUST-000664,Bullock Group Group,Jordan,LATAM,procurement@watts-cruz.com,757-947-7196x725,GOLD,True
+CUST-000665,Mccormick-Hampton Inc,Gabon,APAC,procurement@jones.net,(654)332-3967x4101,STANDARD,True
+CUST-000666,"Meyers, Jones and Baker PLC",Central African Republic,EMEA,procurement@cole.com,+1-543-708-9956,GOLD,True
+CUST-000667,Swanson Ltd PLC,Liechtenstein,North America,procurement@parker.org,243.583.0513x928,STANDARD,True
+CUST-000668,Stewart PLC Ltd,Japan,North America,procurement@thompson-cruz.net,7812509136,SILVER,True
+CUST-000669,Powell and Sons PLC,Ghana,North America,procurement@harrington-brandt.com,(551)734-9560x68824,GOLD,True
+CUST-000670,"Bell, Curtis and Graves and Sons",Saint Kitts and Nevis,EMEA,procurement@mcdonald-nelson.com,(249)856-6270x4881,BRONZE,True
+CUST-000671,Reed LLC Inc,Philippines,APAC,procurement@mitchell-barrera.com,4493108014,SILVER,True
+CUST-000672,Miller-Hayes Inc,Cocos (Keeling) Islands,LATAM,procurement@hahn.com,+1-412-799-0118x5913,BRONZE,True
+CUST-000673,"Douglas, Allen and Herrera Inc",Morocco,APAC,procurement@smith-thompson.com,(325)493-0331,SILVER,True
+CUST-000674,Thomas Ltd Inc,Haiti,North America,procurement@meyer-martinez.com,771-956-4946x837,SILVER,True
+CUST-000675,Medina-Yoder Inc,Isle of Man,LATAM,procurement@nunez.com,246-661-4903,SILVER,True
+CUST-000676,"Dixon, Hill and Williams LLC",Equatorial Guinea,North America,procurement@neal.net,(355)709-5132x90698,SILVER,True
+CUST-000677,Burns-Gordon Group,Austria,APAC,procurement@clark-smith.org,(738)451-4901x95021,STANDARD,True
+CUST-000678,Rhodes-Moore Ltd,Liberia,EMEA,procurement@cabrera.com,(751)212-8549x0153,GOLD,True
+CUST-000679,Bailey Inc Group,Costa Rica,APAC,procurement@moore-brown.org,+1-265-873-1225x96561,SILVER,True
+CUST-000680,"Gordon, Gonzalez and Stewart Group",Nigeria,APAC,procurement@bell.com,+1-305-701-4353,SILVER,True
+CUST-000681,"Smith, Christensen and Johnson and Sons",Tuvalu,LATAM,procurement@lee.org,634-291-6373x222,SILVER,True
+CUST-000682,Glenn Inc PLC,Bolivia,EMEA,procurement@rodriguez-edwards.net,+1-815-997-9456x8553,GOLD,True
+CUST-000683,Smith LLC Ltd,Tanzania,North America,procurement@hicks.com,466.966.1066x0238,SILVER,True
+CUST-000684,Hensley-Erickson PLC,French Southern Territories,EMEA,procurement@walter.com,(208)760-3694x2384,BRONZE,True
+CUST-000685,"Mcgee, Reed and Chang Group",British Indian Ocean Territory (Chagos Archipelago),North America,procurement@cunningham.biz,001-855-836-2446,STANDARD,True
+CUST-000686,Kent-Sanders LLC,Jordan,APAC,procurement@wilson-huber.com,8056867888,SILVER,True
+CUST-000687,"Daniels, Ramirez and Lopez Inc",Cyprus,LATAM,procurement@bryan.com,001-628-912-5545x16271,STANDARD,True
+CUST-000688,Hunt Group Inc,Jersey,EMEA,procurement@mccarty.com,686.753.2104x22395,BRONZE,True
+CUST-000689,Reynolds-Jennings Ltd,Singapore,EMEA,procurement@bryant-camacho.org,6004282666,GOLD,True
+CUST-000690,"Brown, Kelly and Shaw Group",Zimbabwe,LATAM,procurement@thomas-barnes.biz,953-958-3076x35191,BRONZE,True
+CUST-000691,Sanchez Group and Sons,Netherlands,North America,procurement@malone.org,599-546-8058x47125,BRONZE,True
+CUST-000692,Wilson Inc and Sons,Chile,North America,procurement@liu.com,001-308-654-3257x827,STANDARD,True
+CUST-000693,"Reed, Beasley and Smith Ltd",Germany,North America,procurement@knox-snyder.biz,399.485.8936,BRONZE,True
+CUST-000694,Calderon Group LLC,Solomon Islands,LATAM,procurement@heath-moore.biz,355.352.1884,BRONZE,True
+CUST-000695,Casey-Davies Ltd,Israel,APAC,procurement@hood.com,+1-733-726-5287x66253,SILVER,True
+CUST-000696,Ali-Blevins Ltd,Falkland Islands (Malvinas),North America,procurement@fisher.biz,785-295-3090x61720,BRONZE,True
+CUST-000697,Brown and Sons LLC,Albania,North America,procurement@collins.info,+1-829-249-1619x4202,BRONZE,True
+CUST-000698,"Cooper, Allen and Reyes Ltd",Russian Federation,North America,procurement@roberts-hill.com,(838)587-5576x6955,SILVER,True
+CUST-000699,"Richardson, Moran and Taylor and Sons",Svalbard & Jan Mayen Islands,North America,procurement@savage-robertson.biz,(745)508-1103x2962,SILVER,True
+CUST-000700,Kelley Ltd PLC,Slovakia (Slovak Republic),LATAM,procurement@mccoy.com,(278)776-2456x2285,SILVER,True
+CUST-000701,Silva and Sons Inc,Antigua and Barbuda,North America,procurement@tyler-fletcher.net,001-720-454-8587x47209,BRONZE,True
+CUST-000702,Moore-Newman Ltd,Afghanistan,APAC,procurement@watkins.biz,001-750-766-9268,STANDARD,True
+CUST-000703,Martin-Acosta and Sons,Kuwait,North America,procurement@carter.com,(909)793-3231x8407,BRONZE,True
+CUST-000704,"Lopez, Martinez and Hall Group",Montenegro,APAC,procurement@anderson.net,001-560-678-8556x1495,STANDARD,True
+CUST-000705,Clark Ltd and Sons,Belarus,LATAM,procurement@moore-johnson.com,7806215552,GOLD,True
+CUST-000706,Tyler-Reyes and Sons,Saint Kitts and Nevis,APAC,procurement@fox-clark.com,677-317-4180,SILVER,True
+CUST-000707,Foster and Sons and Sons,Monaco,APAC,procurement@williams.com,(624)648-9969,BRONZE,True
+CUST-000708,Myers-Jones and Sons,Saint Vincent and the Grenadines,APAC,procurement@mccoy-smith.org,8502547079,SILVER,True
+CUST-000709,Brown-Marshall LLC,Haiti,LATAM,procurement@mcmahon-reese.com,(423)625-5790x00785,SILVER,True
+CUST-000710,"Carroll, Colon and Harrison Group",China,LATAM,procurement@fisher.com,827.466.2206x8954,SILVER,True
+CUST-000711,Ford-Davenport PLC,Tuvalu,North America,procurement@turner.com,(696)650-3045,STANDARD,True
+CUST-000712,Johnson PLC LLC,United Arab Emirates,APAC,procurement@richmond.com,(743)897-1356,BRONZE,True
+CUST-000713,Burke Ltd Inc,Kuwait,APAC,procurement@jones.biz,+1-775-805-1613x8456,BRONZE,True
+CUST-000714,"Hamilton, Martinez and Moore LLC",Algeria,North America,procurement@guerrero.com,(512)768-9298,STANDARD,True
+CUST-000715,Ward-Delgado Inc,Korea,LATAM,procurement@stewart.com,395-509-7069x16439,GOLD,True
+CUST-000716,Bush-Lowe LLC,Fiji,LATAM,procurement@herman.biz,764-238-9909x2050,STANDARD,True
+CUST-000717,"Medina, Cox and Terry PLC",Zimbabwe,APAC,procurement@davis.com,603.422.1977x05949,BRONZE,True
+CUST-000718,Chapman LLC Ltd,Andorra,EMEA,procurement@humphrey.net,895.683.4949,BRONZE,True
+CUST-000719,"Davenport, Sullivan and Barker Group",Guadeloupe,North America,procurement@griffin-jones.com,(776)537-8372,STANDARD,True
+CUST-000720,"Valentine, Smith and Olson and Sons",Uzbekistan,EMEA,procurement@rodriguez.info,(446)443-8941x3297,BRONZE,True
+CUST-000721,Graham-Juarez Ltd,Antarctica (the territory South of 60 deg S),APAC,procurement@schwartz.org,671.413.9164,STANDARD,True
+CUST-000722,Jackson-Morrison Inc,Monaco,EMEA,procurement@freeman.biz,837-270-8834x4939,BRONZE,True
+CUST-000723,"Benitez, Cooper and Brown Inc",Swaziland,North America,procurement@hart-morris.com,(588)593-6442x524,SILVER,True
+CUST-000724,"Walsh, Daniels and Osborn Inc",Guyana,EMEA,procurement@smith-frank.com,+1-224-853-6363x1449,BRONZE,True
+CUST-000725,Prince and Sons Inc,Faroe Islands,LATAM,procurement@mcdonald-zuniga.com,(948)491-8500,BRONZE,True
+CUST-000726,Miller-Norris LLC,South Africa,LATAM,procurement@bennett.com,797-846-3659,SILVER,True
+CUST-000727,"Mann, Rivera and Smith and Sons",Ghana,North America,procurement@skinner-medina.net,+1-433-718-2954,STANDARD,True
+CUST-000728,Brown-Black Group,Slovakia (Slovak Republic),LATAM,procurement@hill-spencer.com,454.237.4590,BRONZE,True
+CUST-000729,Smith-Flores and Sons,Saint Barthelemy,LATAM,procurement@small.com,+1-505-276-4405x151,BRONZE,True
+CUST-000730,"Castaneda, Jackson and Thompson and Sons",Bahrain,LATAM,procurement@taylor.info,(371)368-7591,SILVER,True
+CUST-000731,Bailey-Cruz Group,Vanuatu,LATAM,procurement@hunt-gutierrez.com,(603)454-4862,GOLD,True
+CUST-000732,Rocha Ltd Ltd,Comoros,APAC,procurement@jacobs-clark.com,+1-432-865-2436,GOLD,True
+CUST-000733,Hill-Jackson and Sons,Singapore,North America,procurement@herman-rogers.com,001-891-239-3918x58832,BRONZE,True
+CUST-000734,Pacheco-Alexander LLC,Norway,LATAM,procurement@parks.biz,373-973-0971x859,BRONZE,True
+CUST-000735,"Williams, Mayer and Wiley Inc",Kyrgyz Republic,EMEA,procurement@morrison-marquez.com,916.876.5627,SILVER,True
+CUST-000736,Rivas-Horne and Sons,Saudi Arabia,APAC,procurement@novak-parker.com,971.639.7937,STANDARD,True
+CUST-000737,Roberts and Sons LLC,Kuwait,North America,procurement@warner.com,(319)587-8153x20807,GOLD,True
+CUST-000738,Baker Inc Inc,Montenegro,APAC,procurement@jones.com,801-883-7201x195,BRONZE,True
+CUST-000739,"Brown, Reed and Byrd PLC",Ireland,APAC,procurement@davis-roberts.com,716-681-9903x51508,BRONZE,True
+CUST-000740,"Booth, Bishop and Perez PLC",Sierra Leone,LATAM,procurement@bailey.info,+1-526-564-7135x43087,BRONZE,True
+CUST-000741,White-Johnson PLC,Malta,North America,procurement@delgado-flores.net,2045239750,STANDARD,True
+CUST-000742,"James, Gomez and Jimenez Inc",Central African Republic,EMEA,procurement@little.com,001-799-715-9739x911,BRONZE,True
+CUST-000743,Curry-Anderson and Sons,Cuba,EMEA,procurement@evans.com,941.369.6966,SILVER,True
+CUST-000744,Davidson PLC PLC,Grenada,LATAM,procurement@wallace.com,941.201.5168x1011,BRONZE,True
+CUST-000745,Campbell-Nicholson Group,Guinea,EMEA,procurement@lambert.com,001-766-341-0409x71216,SILVER,True
+CUST-000746,Wright-Patrick and Sons,Namibia,APAC,procurement@kline.com,759-867-0342,GOLD,True
+CUST-000747,"Richards, Cooper and Herrera LLC",Burundi,APAC,procurement@blackburn-douglas.com,(339)720-7481x354,BRONZE,True
+CUST-000748,"Bond, Nguyen and Adams Inc",British Indian Ocean Territory (Chagos Archipelago),LATAM,procurement@mcgrath-henson.com,492.679.5188x1641,SILVER,True
+CUST-000749,Bird Ltd LLC,Honduras,APAC,procurement@gonzalez.org,+1-831-434-1194x90043,STANDARD,True
+CUST-000750,"Gonzalez, Johnson and Brown LLC",Lao People's Democratic Republic,North America,procurement@sanchez.org,434.240.2435,BRONZE,True
+CUST-000751,"Wallace, Alexander and Roberts Group",Senegal,EMEA,procurement@hardin.net,001-785-899-2714x684,STANDARD,True
+CUST-000752,"Howard, Kirby and Young LLC",Aruba,EMEA,procurement@lopez.com,560.233.6536,SILVER,True
+CUST-000753,Baker PLC Group,Lesotho,EMEA,procurement@howard.biz,(558)556-0092x608,SILVER,True
+CUST-000754,"Smith, Jacobs and Jones LLC",Netherlands Antilles,APAC,procurement@meyer.com,555.938.8099x9391,SILVER,True
+CUST-000755,Johnson-Brennan Inc,Malawi,North America,procurement@odom-baker.com,001-869-908-0985x901,STANDARD,True
+CUST-000756,"Moody, Owens and Munoz LLC",Yemen,North America,procurement@elliott.info,(677)539-9021x3694,BRONZE,True
+CUST-000757,Wilkinson LLC Ltd,Zambia,LATAM,procurement@jones.info,+1-425-883-7808x26898,SILVER,True
+CUST-000758,Johnston-Medina LLC,Canada,APAC,procurement@barron.com,(990)697-6279x908,SILVER,True
+CUST-000759,"Sellers, Villa and Powers PLC",Isle of Man,North America,procurement@ross.net,(777)739-8195,BRONZE,True
+CUST-000760,"Galloway, Morse and Smith and Sons",Pakistan,LATAM,procurement@huerta.com,902-453-4098,SILVER,True
+CUST-000761,"Carter, Powers and James and Sons",Kiribati,LATAM,procurement@garner-wilkerson.com,(231)558-0108,SILVER,True
+CUST-000762,Avila-Chen Inc,Reunion,LATAM,procurement@guerrero-williams.biz,(859)454-8779x285,SILVER,True
+CUST-000763,"Mcbride, Brown and Thomas LLC",Djibouti,LATAM,procurement@reynolds.com,357.275.0522,BRONZE,True
+CUST-000764,"Rojas, Mcdaniel and Bass Group",Luxembourg,LATAM,procurement@bond.info,+1-638-768-7657x123,SILVER,True
+CUST-000765,Howard and Sons and Sons,Morocco,APAC,procurement@thomas.net,4608226152,BRONZE,True
+CUST-000766,"Jenkins, Short and Mccall Inc",Lesotho,APAC,procurement@costa.com,+1-789-976-1907,BRONZE,True
+CUST-000767,"Woods, Vargas and Smith Ltd",Latvia,APAC,procurement@holloway.com,+1-483-325-1870x8645,STANDARD,True
+CUST-000768,Jensen-Stone PLC,Bangladesh,EMEA,procurement@bowen-cardenas.com,934-771-2821x22906,GOLD,True
+CUST-000769,Garcia PLC PLC,Moldova,North America,procurement@mathews.org,754-936-4066x9740,GOLD,True
+CUST-000770,Odonnell-Bullock Inc,Korea,North America,procurement@davis.org,593.720.8649x05434,STANDARD,True
+CUST-000771,Levine PLC Ltd,Jordan,APAC,procurement@calderon-bailey.com,(287)869-2751x56915,BRONZE,True
+CUST-000772,Singleton-Hurst Inc,Mexico,EMEA,procurement@chen.com,(638)367-8017,SILVER,True
+CUST-000773,Lozano LLC Inc,Zambia,APAC,procurement@miller-richardson.com,+1-899-609-9071x978,SILVER,True
+CUST-000774,Murray-Hughes Group,India,EMEA,procurement@walton.info,001-376-434-1500x293,SILVER,True
+CUST-000775,"Bautista, Evans and Sloan Ltd",Germany,LATAM,procurement@mcgrath.org,+1-574-694-2874x726,SILVER,True
+CUST-000776,Herring-Schneider Ltd,Albania,EMEA,procurement@anderson.com,9208297195,SILVER,True
+CUST-000777,Ponce Ltd Group,Dominican Republic,APAC,procurement@macias.com,+1-753-284-5405x93767,STANDARD,True
+CUST-000778,Mcfarland PLC LLC,Guinea,LATAM,procurement@smith.com,+1-300-572-7066x854,SILVER,True
+CUST-000779,Campbell-Ryan Ltd,Pakistan,North America,procurement@bautista-flynn.info,337.995.0385,GOLD,True
+CUST-000780,"Simpson, Baxter and Moses Ltd",Ethiopia,APAC,procurement@palmer.com,605.873.8906x3203,BRONZE,True
+CUST-000781,Ibarra PLC Ltd,Palau,LATAM,procurement@mays.biz,001-973-559-4312x728,BRONZE,True
+CUST-000782,Porter-Norris Ltd,Russian Federation,North America,procurement@santana.com,2075634044,GOLD,True
+CUST-000783,"Lloyd, Joseph and Garcia Group",Argentina,LATAM,procurement@reynolds.com,2629415356,BRONZE,True
+CUST-000784,Graves-Cole Inc,Holy See (Vatican City State),APAC,procurement@pollard.net,001-628-550-2464x9497,SILVER,True
+CUST-000785,Allen-Miller Ltd,Botswana,APAC,procurement@gray-reid.net,824-807-2762x6291,STANDARD,True
+CUST-000786,Miller Ltd Ltd,Bahamas,EMEA,procurement@ali.com,843-610-8388,SILVER,True
+CUST-000787,Pittman-Barber Inc,Martinique,LATAM,procurement@livingston.info,3678532225,BRONZE,True
+CUST-000788,Lewis and Sons PLC,Nigeria,LATAM,procurement@cruz.biz,(446)486-5307x71605,STANDARD,True
+CUST-000789,Gordon Inc Inc,Mauritius,LATAM,procurement@cervantes.net,001-453-337-6305,GOLD,True
+CUST-000790,"Harper, Orozco and Lopez Group",Tunisia,EMEA,procurement@johnson.com,(490)397-2467x56395,BRONZE,True
+CUST-000791,Page Group Inc,Afghanistan,LATAM,procurement@hoover-lee.org,+1-217-528-6622x2302,SILVER,True
+CUST-000792,Dixon Inc Group,North Macedonia,EMEA,procurement@scott.com,932-705-3738,STANDARD,True
+CUST-000793,Keller-Jackson LLC,Pitcairn Islands,LATAM,procurement@shelton.com,319-730-8167,SILVER,True
+CUST-000794,Murphy PLC LLC,Samoa,APAC,procurement@gardner-hall.net,3896047431,STANDARD,True
+CUST-000795,Matthews-Smith Ltd,British Virgin Islands,EMEA,procurement@olson.net,001-330-627-5047x82607,BRONZE,True
+CUST-000796,Gross-Ramos LLC,Equatorial Guinea,North America,procurement@barnes.com,563.595.0464,GOLD,True
+CUST-000797,"Morales, Ortega and Rice LLC",Korea,North America,procurement@smith.com,(565)304-6877x137,GOLD,True
+CUST-000798,Rodriguez and Sons Ltd,Bosnia and Herzegovina,APAC,procurement@logan.com,6492032123,STANDARD,True
+CUST-000799,"Vega, Roberts and Johnson Group",Faroe Islands,LATAM,procurement@gill.com,907-878-4952,BRONZE,True
+CUST-000800,Shields Group Inc,Northern Mariana Islands,North America,procurement@brown.net,+1-535-527-5083x40351,GOLD,True
+CUST-000801,Walker-Chavez Inc,Andorra,North America,procurement@gutierrez.com,+1-999-900-8306x88722,BRONZE,True
+CUST-000802,Barnes-Rodriguez Inc,Denmark,APAC,procurement@diaz.org,819.668.0166x47151,GOLD,True
+CUST-000803,Johnson-Morton LLC,Nauru,LATAM,procurement@hodge.com,(526)419-6631,BRONZE,True
+CUST-000804,Meyer-Buckley Inc,Angola,EMEA,procurement@gordon.info,589.620.1490x144,BRONZE,True
+CUST-000805,"Castro, Johnson and Heath Ltd",Cayman Islands,APAC,procurement@paul.net,001-229-745-4159x7569,BRONZE,True
+CUST-000806,"Thompson, Powell and Wilson and Sons",Syrian Arab Republic,LATAM,procurement@johnson-morgan.net,384-781-7032x638,STANDARD,True
+CUST-000807,Butler-Willis PLC,El Salvador,APAC,procurement@galvan.com,(641)218-7364x7415,BRONZE,True
+CUST-000808,"Schmitt, Delgado and Gonzalez PLC",Anguilla,EMEA,procurement@smith.org,(765)641-2762,STANDARD,True
+CUST-000809,Coleman-Lindsey and Sons,Libyan Arab Jamahiriya,North America,procurement@mejia-collins.com,643-559-2972x261,GOLD,True
+CUST-000810,"Delgado, Montes and Hoffman Inc",Seychelles,APAC,procurement@garcia.com,(662)332-1342x8947,SILVER,True
+CUST-000811,"Rivers, Gutierrez and Reyes Inc",Argentina,APAC,procurement@morrison-espinoza.info,001-247-878-6256x09111,GOLD,True
+CUST-000812,Peck PLC Group,Bouvet Island (Bouvetoya),APAC,procurement@payne.com,394-246-9006,SILVER,True
+CUST-000813,Reed-Bell Inc,Netherlands,EMEA,procurement@erickson.com,6218451192,BRONZE,True
+CUST-000814,"Bates, Cox and Brown PLC",Malawi,APAC,procurement@clark-reynolds.com,9122509412,STANDARD,True
+CUST-000815,Lara Inc Inc,Brazil,LATAM,procurement@gardner.net,994.420.8680,BRONZE,True
+CUST-000816,Hubbard LLC LLC,Faroe Islands,APAC,procurement@wells-bishop.info,001-989-498-9769x9915,GOLD,True
+CUST-000817,Wilcox PLC Inc,Grenada,APAC,procurement@white.info,+1-470-342-3037x56009,BRONZE,True
+CUST-000818,Howard Ltd PLC,Antarctica (the territory South of 60 deg S),LATAM,procurement@perkins.com,392-426-2139,SILVER,True
+CUST-000819,"Quinn, Jones and Hernandez Ltd",Cyprus,EMEA,procurement@bridges.com,+1-849-290-3049x050,SILVER,True
+CUST-000820,"Young, Mccormick and Kline Ltd",Greece,North America,procurement@holloway.com,001-954-221-3282x82882,STANDARD,True
+CUST-000821,Ewing-Wallace PLC,Mongolia,LATAM,procurement@dunlap.com,+1-595-650-7329,STANDARD,True
+CUST-000822,Khan-Clark LLC,Panama,EMEA,procurement@howe.com,(791)455-1717,BRONZE,True
+CUST-000823,"Wagner, Moore and Rios Ltd",Malaysia,APAC,procurement@robinson.com,+1-668-956-7485x697,GOLD,True
+CUST-000824,"Welch, Robinson and Santiago Inc",Jamaica,EMEA,procurement@lopez-ryan.com,330-220-2886,BRONZE,True
+CUST-000825,"Hill, Gonzalez and Garrett Inc",Central African Republic,APAC,procurement@powers.com,944-302-0257,STANDARD,True
+CUST-000826,"Steele, Lozano and Mcconnell Inc",Western Sahara,APAC,procurement@gardner-shepherd.net,248.633.6612,BRONZE,True
+CUST-000827,"Beard, Robinson and Smith PLC",Faroe Islands,APAC,procurement@walker.com,+1-325-386-5018x622,BRONZE,True
+CUST-000828,Young-Williams PLC,Trinidad and Tobago,LATAM,procurement@pratt.com,(237)795-1804x069,GOLD,True
+CUST-000829,Coleman and Sons Group,Holy See (Vatican City State),APAC,procurement@larson.com,941.233.7392x53486,GOLD,True
+CUST-000830,Ward and Sons and Sons,Honduras,North America,procurement@brewer-kramer.com,5692380852,BRONZE,True
+CUST-000831,Thompson-Hogan and Sons,Rwanda,LATAM,procurement@wright-solis.org,613.413.1121x229,SILVER,True
+CUST-000832,Smith-Costa LLC,Nicaragua,EMEA,procurement@mendoza.biz,(784)358-7377x644,STANDARD,True
+CUST-000833,Wagner Ltd Group,Jersey,North America,procurement@rich.biz,(576)713-9777x595,SILVER,True
+CUST-000834,"Coleman, Murray and Keith Inc",Reunion,North America,procurement@miller.com,775.366.2688,BRONZE,True
+CUST-000835,Moore Ltd and Sons,Mozambique,EMEA,procurement@smith.com,547.375.4299x47397,BRONZE,True
+CUST-000836,Adams LLC PLC,Thailand,LATAM,procurement@ramirez.org,+1-966-418-6637,STANDARD,True
+CUST-000837,Mcdonald and Sons Inc,Iran,North America,procurement@perez.com,360-630-6201,STANDARD,True
+CUST-000838,"Mills, Edwards and Smith PLC",Ghana,APAC,procurement@hayes.org,(495)583-2070x874,SILVER,True
+CUST-000839,"Turner, Sanders and Stewart Inc",Sri Lanka,North America,procurement@wagner-beasley.com,(537)689-6125x278,SILVER,True
+CUST-000840,Salinas-Smith and Sons,Kiribati,EMEA,procurement@waters.com,001-732-341-3729,STANDARD,True
+CUST-000841,Vance-Smith LLC,Nicaragua,EMEA,procurement@powell-warner.biz,480.915.5075x538,GOLD,True
+CUST-000842,Bell Inc and Sons,Fiji,APAC,procurement@adams.com,001-755-828-1725x17211,BRONZE,True
+CUST-000843,"Adams, Mitchell and Hansen LLC",Netherlands,EMEA,procurement@johnson-roberts.com,(863)257-6545,BRONZE,True
+CUST-000844,Herring-Briggs PLC,Cook Islands,APAC,procurement@dalton-peters.biz,(857)760-2278x7008,STANDARD,True
+CUST-000845,"Fitzpatrick, West and Pacheco Group",Dominica,EMEA,procurement@orr.com,390-579-1694x814,SILVER,True
+CUST-000846,Solis-Larsen and Sons,Japan,North America,procurement@robinson.net,840-517-4291x8956,SILVER,True
+CUST-000847,Lane Group PLC,Haiti,LATAM,procurement@campos-wallace.biz,(279)378-2579,SILVER,True
+CUST-000848,"Ward, Brooks and Mason Inc",Kenya,APAC,procurement@manning.com,809-728-7431x975,BRONZE,True
+CUST-000849,Yu-Lynch Ltd,Haiti,APAC,procurement@boyle.com,6609003596,BRONZE,True
+CUST-000850,"Allison, Bowen and Romero Ltd",Central African Republic,EMEA,procurement@mitchell.org,230-597-5589x99057,BRONZE,True
+CUST-000851,Mills-Hines PLC,Norway,North America,procurement@brown-carr.com,350.870.2679x8822,BRONZE,True
+CUST-000852,Reynolds Group Group,Oman,LATAM,procurement@white.com,299-941-1442,SILVER,True
+CUST-000853,Chang PLC Inc,Trinidad and Tobago,LATAM,procurement@lewis-morales.org,(470)717-6825,SILVER,True
+CUST-000854,Graves and Sons Ltd,Norfolk Island,LATAM,procurement@williams-galvan.info,001-786-629-6977,GOLD,True
+CUST-000855,Walker Inc PLC,Andorra,EMEA,procurement@hood.com,770.337.0139,BRONZE,True
+CUST-000856,"Meyer, Johnson and Ingram Ltd",El Salvador,LATAM,procurement@reynolds.com,404-966-0284,GOLD,True
+CUST-000857,Macias Inc and Sons,Belize,APAC,procurement@skinner-cohen.info,+1-574-927-1035x04967,SILVER,True
+CUST-000858,Odonnell-Nelson Group,Paraguay,LATAM,procurement@mccormick-arroyo.com,956.221.1810,GOLD,True
+CUST-000859,"Carr, Levine and Fisher Ltd",Belize,North America,procurement@newton.com,298-749-4979,STANDARD,True
+CUST-000860,Bailey-Roberts Group,Hungary,LATAM,procurement@miles.com,(286)643-2689x57831,BRONZE,True
+CUST-000861,Martinez-Cruz and Sons,Heard Island and McDonald Islands,APAC,procurement@shields.com,553-490-2052x398,STANDARD,True
+CUST-000862,"Griffin, Gross and Reynolds Inc",Honduras,North America,procurement@campos.com,649.782.1762,BRONZE,True
+CUST-000863,Henderson-Rodriguez PLC,Suriname,LATAM,procurement@lewis.com,864.350.9014x7062,BRONZE,True
+CUST-000864,Flores Group Ltd,South Africa,APAC,procurement@ruiz.com,293-451-4711,BRONZE,True
+CUST-000865,Bowman PLC LLC,Latvia,North America,procurement@torres.com,+1-732-334-9083x060,STANDARD,True
+CUST-000866,"Watson, Hill and Brown LLC",Moldova,LATAM,procurement@noble.com,865-486-9068x527,SILVER,True
+CUST-000867,"Wiley, Smith and Mckee Ltd",Rwanda,EMEA,procurement@shaw-jefferson.com,832.470.2531x67735,GOLD,True
+CUST-000868,Martin LLC LLC,Dominican Republic,EMEA,procurement@michael.org,001-834-716-8399x74030,BRONZE,True
+CUST-000869,Schwartz Inc and Sons,Bahrain,LATAM,procurement@patterson-pope.com,640-696-2345,GOLD,True
+CUST-000870,"Sandoval, Williams and Richardson Ltd",United States Virgin Islands,EMEA,procurement@roberts-bryant.com,(394)467-1509,BRONZE,True
+CUST-000871,"Johnson, Moore and Rivera LLC",Cook Islands,North America,procurement@sherman.com,+1-453-458-3712x1149,STANDARD,True
+CUST-000872,"Anderson, Tanner and Wood PLC",Pitcairn Islands,LATAM,procurement@roberts-evans.com,239.798.8813,GOLD,True
+CUST-000873,Peterson and Sons Inc,Niue,North America,procurement@mullins.info,501.389.2247,SILVER,True
+CUST-000874,"Berry, Lewis and Butler LLC",Libyan Arab Jamahiriya,APAC,procurement@raymond-farrell.com,001-506-243-0619x76256,SILVER,True
+CUST-000875,Mullins-Mcbride Inc,Bolivia,North America,procurement@atkinson-munoz.com,645.787.4702,GOLD,True
+CUST-000876,Becker-Brooks PLC,Tunisia,EMEA,procurement@blake.org,+1-393-318-5367x9929,STANDARD,True
+CUST-000877,Mcdonald Ltd Group,Samoa,LATAM,procurement@mcguire.biz,3019065172,SILVER,True
+CUST-000878,"Fletcher, Wheeler and Dennis and Sons",Myanmar,LATAM,procurement@lam-atkinson.net,671-506-5690,BRONZE,True
+CUST-000879,Reynolds-Barton Inc,United Arab Emirates,North America,procurement@rivera.com,527-617-9733x7713,GOLD,True
+CUST-000880,Miller-Watson PLC,Cayman Islands,EMEA,procurement@castillo.com,585-460-0466x689,BRONZE,True
+CUST-000881,Caldwell-Brown Ltd,China,LATAM,procurement@briggs.org,(445)468-9150,STANDARD,True
+CUST-000882,"Williams, Martinez and Horn and Sons",Greenland,APAC,procurement@reed.com,+1-242-395-9397x35544,GOLD,True
+CUST-000883,Mcdonald-Nelson Inc,Japan,North America,procurement@young-williams.com,001-689-282-2150x8243,SILVER,True
+CUST-000884,Reed Ltd and Sons,Svalbard & Jan Mayen Islands,North America,procurement@gilbert.com,+1-350-507-2756x319,BRONZE,True
+CUST-000885,"Stone, Jackson and Hudson LLC",Congo,North America,procurement@graham.biz,578-417-3596x4137,BRONZE,True
+CUST-000886,"Carpenter, Anderson and Miller PLC",Gambia,APAC,procurement@miller.info,+1-733-777-8219,GOLD,True
+CUST-000887,Berger-Rhodes Group,Saint Barthelemy,LATAM,procurement@moore.com,444.693.7219x358,STANDARD,True
+CUST-000888,"Alvarez, Miller and Flores Inc",Netherlands Antilles,EMEA,procurement@mccormick.com,622-989-1086x02408,BRONZE,True
+CUST-000889,Holt Ltd and Sons,Pitcairn Islands,LATAM,procurement@greer-kelley.com,9755681070,BRONZE,True
+CUST-000890,Davis-Duncan and Sons,Israel,APAC,procurement@roberts-jefferson.org,(871)479-9046,STANDARD,True
+CUST-000891,"Woodard, Roberts and Walsh PLC",Georgia,LATAM,procurement@mcdaniel.biz,945.516.4356x867,BRONZE,True
+CUST-000892,Pittman-Quinn Inc,Egypt,North America,procurement@hernandez.com,358-229-4571,GOLD,True
+CUST-000893,Wheeler Group Ltd,United States Minor Outlying Islands,APAC,procurement@wyatt.com,594.260.1608,SILVER,True
+CUST-000894,Martin Group LLC,Aruba,LATAM,procurement@jackson.org,856-910-2074x93639,STANDARD,True
+CUST-000895,Hansen Ltd Inc,Palau,LATAM,procurement@ramirez.com,616-709-4176x305,SILVER,True
+CUST-000896,Dean PLC PLC,Palestinian Territory,APAC,procurement@reyes.net,570-359-0292,BRONZE,True
+CUST-000897,"Woods, Mosley and Hale Group",Aruba,APAC,procurement@martin.com,915-973-8819x514,STANDARD,True
+CUST-000898,Mills and Sons Inc,Montenegro,APAC,procurement@garcia.net,939.286.4484,BRONZE,True
+CUST-000899,Luna PLC Inc,Namibia,LATAM,procurement@roberts.com,(440)797-9172x8138,GOLD,True
+CUST-000900,"Stewart, Jones and Wyatt Inc",Togo,APAC,procurement@campbell.com,626-873-2596,GOLD,True
+CUST-000901,"Robinson, Anderson and Burch Group",Togo,North America,procurement@maldonado-hunt.biz,743-842-1892x9994,STANDARD,True
+CUST-000902,Oconnell PLC Inc,Guinea,EMEA,procurement@reynolds-navarro.com,(806)865-5271,STANDARD,True
+CUST-000903,Callahan-Wright Inc,Guinea-Bissau,APAC,procurement@morton.com,+1-561-567-1359x2752,BRONZE,True
+CUST-000904,Patrick-Hammond Ltd,Lithuania,EMEA,procurement@bishop.com,8666697787,SILVER,True
+CUST-000905,"Ramirez, Leonard and Davis LLC",Belize,EMEA,procurement@murray.org,+1-781-885-9459x69042,SILVER,True
+CUST-000906,Brown-Zamora and Sons,Slovakia (Slovak Republic),EMEA,procurement@gonzales-carter.com,001-213-947-5576,STANDARD,True
+CUST-000907,Leonard-Hill and Sons,Saint Lucia,North America,procurement@galvan-peterson.com,+1-510-678-7954x627,STANDARD,True
+CUST-000908,Avila-Martin Ltd,Nauru,LATAM,procurement@williams-ho.org,(692)798-3158x8522,STANDARD,True
+CUST-000909,Bell LLC PLC,American Samoa,LATAM,procurement@jackson-cox.com,583.633.5320x57732,GOLD,True
+CUST-000910,Austin-Cooper Ltd,Malawi,LATAM,procurement@ibarra-erickson.org,(991)573-2012x75377,BRONZE,True
+CUST-000911,"Franklin, Coleman and Grimes Ltd",Serbia,North America,procurement@garcia.com,(455)751-0074x61860,STANDARD,True
+CUST-000912,Massey PLC PLC,Solomon Islands,EMEA,procurement@melendez.net,369.639.8779,GOLD,True
+CUST-000913,Maynard-Henderson Ltd,Chad,APAC,procurement@white.com,(549)254-1751x87422,STANDARD,True
+CUST-000914,"Perez, Vazquez and Trujillo Ltd",Argentina,APAC,procurement@yoder.org,823-819-5547,BRONZE,True
+CUST-000915,Sanchez-Werner Inc,Maldives,North America,procurement@johnson-sampson.com,914-540-8542x591,GOLD,True
+CUST-000916,Chambers and Sons and Sons,Palau,North America,procurement@johnson.com,465.838.2652x293,STANDARD,True
+CUST-000917,Camacho Ltd Group,Korea,APAC,procurement@robles.info,001-851-643-9683x104,BRONZE,True
+CUST-000918,"Dunn, Sanchez and Kelly Group",Taiwan,North America,procurement@reed.biz,401.999.8701x7196,SILVER,True
+CUST-000919,Wyatt-Gutierrez and Sons,Pitcairn Islands,North America,procurement@davis.com,001-988-798-1042,STANDARD,True
+CUST-000920,"Miller, Davis and Bass PLC",Lebanon,North America,procurement@alvarado.com,(761)679-9332x46845,BRONZE,True
+CUST-000921,Hernandez-Park LLC,Nicaragua,APAC,procurement@johnson.com,001-449-582-9650x735,SILVER,True
+CUST-000922,Harris-Johnston Inc,Seychelles,APAC,procurement@willis-nguyen.info,+1-454-747-2507x2865,STANDARD,True
+CUST-000923,Wiggins-Pierce LLC,Denmark,North America,procurement@ray-wright.info,(276)262-1427,BRONZE,True
+CUST-000924,Davis Ltd Ltd,Venezuela,North America,procurement@white.com,001-307-406-0486x11132,BRONZE,True
+CUST-000925,"Perez, Myers and Singleton Inc",Greenland,EMEA,procurement@brown.com,813.305.9035,BRONZE,True
+CUST-000926,White-Ramirez and Sons,Liberia,EMEA,procurement@anderson-taylor.com,001-226-420-4610x30035,STANDARD,True
+CUST-000927,Campos-Johnson Group,Swaziland,LATAM,procurement@ramirez.com,756-866-8268,STANDARD,True
+CUST-000928,"Miranda, Peters and Thomas LLC",South Africa,EMEA,procurement@reynolds-coleman.org,(586)528-2855x6656,STANDARD,True
+CUST-000929,Stephenson-Morgan Inc,Algeria,LATAM,procurement@warner-mathews.org,+1-779-800-5580x064,BRONZE,True
+CUST-000930,Hernandez-Allen Ltd,Dominica,APAC,procurement@diaz.com,(333)206-9966x26669,BRONZE,True
+CUST-000931,"Collins, Smith and Kim LLC",Heard Island and McDonald Islands,LATAM,procurement@valencia.com,001-474-707-6700x434,BRONZE,True
+CUST-000932,Hopkins and Sons and Sons,Kazakhstan,North America,procurement@hughes.biz,001-386-649-0094x4006,BRONZE,True
+CUST-000933,"Marshall, Hall and Gill Group",Afghanistan,EMEA,procurement@soto.com,+1-296-406-3221x576,STANDARD,True
+CUST-000934,"West, Simmons and Campbell PLC",South Africa,LATAM,procurement@stewart.com,(740)634-4161,STANDARD,True
+CUST-000935,Parsons-Hale Group,French Guiana,North America,procurement@thornton.net,+1-961-362-7694x6576,BRONZE,True
+CUST-000936,Rivera Group Inc,Mongolia,EMEA,procurement@higgins-bennett.com,(773)659-4089,SILVER,True
+CUST-000937,Austin Ltd Ltd,Puerto Rico,LATAM,procurement@hernandez.com,+1-455-910-0617,SILVER,True
+CUST-000938,"Cooper, Murphy and Barber PLC",Cambodia,APAC,procurement@white-thornton.com,576.725.9048x2491,GOLD,True
+CUST-000939,"Ramirez, Mccoy and Taylor and Sons",Lao People's Democratic Republic,North America,procurement@smith.info,490-354-1640,STANDARD,True
+CUST-000940,"Byrd, Curtis and Johnson LLC",Kyrgyz Republic,North America,procurement@watson.biz,001-881-837-2920x365,SILVER,True
+CUST-000941,"Cordova, Miller and Wilson LLC",French Southern Territories,LATAM,procurement@hartman.com,469-736-1275,SILVER,True
+CUST-000942,Stephens and Sons LLC,Rwanda,North America,procurement@arias-foley.com,(972)864-9370,BRONZE,True
+CUST-000943,Aguilar PLC PLC,Samoa,LATAM,procurement@williams-wells.biz,001-889-292-4742,SILVER,True
+CUST-000944,Hobbs and Sons and Sons,Liberia,APAC,procurement@jenkins.com,001-598-254-9773x8313,STANDARD,True
+CUST-000945,Gomez Inc Group,Namibia,EMEA,procurement@petty-williams.net,231.921.9769x50294,BRONZE,True
+CUST-000946,Smith Group Ltd,Micronesia,LATAM,procurement@gonzalez.info,+1-730-819-4240x2263,BRONZE,True
+CUST-000947,"Warren, Robinson and Stewart Group",Equatorial Guinea,EMEA,procurement@solis.biz,851.993.5336x7337,BRONZE,True
+CUST-000948,Smith PLC LLC,Bulgaria,EMEA,procurement@white-russell.org,854.540.5263x101,STANDARD,True
+CUST-000949,"Reese, Moore and Roberts Group",Nauru,APAC,procurement@dunn.com,(316)652-4725x965,BRONZE,True
+CUST-000950,"Collins, Wyatt and Delgado and Sons",Jordan,APAC,procurement@rodriguez-russell.com,(817)645-4623x74816,STANDARD,True
+CUST-000951,Miller-Walker PLC,Lebanon,APAC,procurement@cohen.com,(337)745-0975x01555,STANDARD,True
+CUST-000952,"Young, Freeman and Jenkins PLC",Mali,APAC,procurement@reyes.com,(667)307-1289,STANDARD,True
+CUST-000953,"Oconnell, Potter and Sexton Ltd",Hungary,EMEA,procurement@gutierrez-sandoval.com,310-900-4837x3600,SILVER,True
+CUST-000954,Stewart and Sons Group,Benin,EMEA,procurement@freeman-zhang.com,+1-893-207-4344x7303,SILVER,True
+CUST-000955,"Montgomery, Page and Hill LLC",Nepal,APAC,procurement@hunt.com,001-962-723-5492x655,GOLD,True
+CUST-000956,"Green, Griffin and Allen LLC",Lesotho,LATAM,procurement@alvarez-martinez.info,001-501-581-9446x51294,BRONZE,True
+CUST-000957,Lambert-Snyder Group,Niue,North America,procurement@bowman.org,341-983-6616,STANDARD,True
+CUST-000958,"Graham, Roth and Hernandez Inc",Saudi Arabia,EMEA,procurement@potter-dominguez.com,381.564.1988x898,SILVER,True
+CUST-000959,"Nunez, Peterson and Ponce Group",Tokelau,North America,procurement@carter-bass.com,(492)411-0242,BRONZE,True
+CUST-000960,Byrd-Nunez Ltd,Madagascar,EMEA,procurement@larson.com,976.690.7323x312,STANDARD,True
+CUST-000961,"Miller, Martinez and Green PLC",Georgia,EMEA,procurement@day.com,001-203-797-6640x146,STANDARD,True
+CUST-000962,Patrick-Blake LLC,Germany,APAC,procurement@cox.com,+1-308-850-0198x07540,SILVER,True
+CUST-000963,Serrano-Robertson and Sons,Bulgaria,LATAM,procurement@preston-fritz.com,599-629-4018x18863,SILVER,True
+CUST-000964,"Figueroa, Reed and Branch and Sons",Estonia,EMEA,procurement@stone.biz,001-831-228-8458x2686,SILVER,True
+CUST-000965,"Mccoy, Cox and Johnston PLC",Bahrain,LATAM,procurement@lopez.info,+1-273-327-2440x674,GOLD,True
+CUST-000966,"Russell, Watson and Leonard PLC",Jersey,EMEA,procurement@smith.com,(761)707-9785x227,STANDARD,True
+CUST-000967,Myers-Ortiz Inc,Finland,APAC,procurement@washington-rogers.com,690.775.6852,STANDARD,True
+CUST-000968,Wells LLC and Sons,Japan,North America,procurement@carroll.net,(379)555-2097x38582,SILVER,True
+CUST-000969,Miles-Baker PLC,Estonia,APAC,procurement@hall.com,468-292-0123x996,STANDARD,True
+CUST-000970,"Solis, Miller and Reeves Group",Uruguay,APAC,procurement@cole.com,+1-451-234-4763x8958,BRONZE,True
+CUST-000971,Adams-Davis Group,New Caledonia,APAC,procurement@tate.biz,511.871.3622x17345,BRONZE,True
+CUST-000972,Benson Ltd Ltd,Colombia,APAC,procurement@robinson-parks.biz,720.627.2017x13612,BRONZE,True
+CUST-000973,"Guzman, Ball and Morgan and Sons",Spain,EMEA,procurement@brown.com,2777898501,GOLD,True
+CUST-000974,Meyer-Morrison Group,Peru,LATAM,procurement@martinez-howard.info,8023762254,GOLD,True
+CUST-000975,"Brown, Brady and Cook PLC",Antarctica (the territory South of 60 deg S),APAC,procurement@smith.com,873.961.1013,BRONZE,True
+CUST-000976,Clark Inc and Sons,Malawi,EMEA,procurement@scott-arias.com,852-754-9634,BRONZE,True
+CUST-000977,Mcdowell-Bauer LLC,Papua New Guinea,North America,procurement@roberts.com,001-570-794-7780x4662,STANDARD,True
+CUST-000978,Johnston and Sons Ltd,Mali,North America,procurement@pena.com,926.312.2134,SILVER,True
+CUST-000979,Blake-Walters Ltd,France,EMEA,procurement@allen.com,(431)432-9046x62370,STANDARD,True
+CUST-000980,David Ltd LLC,Cape Verde,LATAM,procurement@gaines.com,(204)908-3911x35776,BRONZE,True
+CUST-000981,Lang and Sons Ltd,Uzbekistan,LATAM,procurement@hodges.com,5179073583,GOLD,True
+CUST-000982,"Porter, Obrien and Patterson and Sons",India,North America,procurement@williams-lin.com,+1-473-825-9198,STANDARD,True
+CUST-000983,Dillon-Nguyen Group,Lebanon,LATAM,procurement@ford.biz,(812)500-2794x459,SILVER,True
+CUST-000984,Ryan and Sons and Sons,Lesotho,EMEA,procurement@guerrero-berry.com,285-365-8497x991,STANDARD,True
+CUST-000985,Reyes-Pham LLC,French Southern Territories,North America,procurement@johnson.info,001-348-906-8486x627,SILVER,True
+CUST-000986,Wright-Ellison PLC,Slovenia,LATAM,procurement@ritter.org,335-310-8602,GOLD,True
+CUST-000987,Smith and Sons and Sons,Brunei Darussalam,North America,procurement@johnson.org,+1-505-975-9483x74623,SILVER,True
+CUST-000988,Ingram LLC Inc,Burkina Faso,LATAM,procurement@bryan.com,(444)427-8590x770,GOLD,True
+CUST-000989,Mueller PLC Inc,United States of America,APAC,procurement@pierce.com,5619722049,SILVER,True
+CUST-000990,"Castillo, Hughes and Thomas PLC",Montserrat,APAC,procurement@jones.net,564-936-1600x09777,SILVER,True
+CUST-000991,Rogers and Sons Group,Barbados,North America,procurement@hughes-campos.net,421-219-3412x44973,STANDARD,True
+CUST-000992,"Murphy, Webster and Martinez Ltd",Guam,LATAM,procurement@wilson-brown.com,606-564-3887,BRONZE,True
+CUST-000993,Kirk-Cross Ltd,Nauru,North America,procurement@morales.biz,5288446017,BRONZE,True
+CUST-000994,Delgado and Sons Ltd,San Marino,EMEA,procurement@johnson.com,991.818.9672x0326,SILVER,True
+CUST-000995,Morris-Williams PLC,Libyan Arab Jamahiriya,LATAM,procurement@hill.net,(887)955-4328,STANDARD,True
+CUST-000996,Valdez-Jackson LLC,Tunisia,North America,procurement@cooper-morrison.org,640.512.7363,SILVER,True
+CUST-000997,"Castro, Eaton and Summers Ltd",Turks and Caicos Islands,APAC,procurement@mercado.com,(641)667-3919,SILVER,True
+CUST-000998,"Erickson, Turner and Jenkins PLC",Gibraltar,LATAM,procurement@williams-moore.com,320.440.5070,SILVER,True
+CUST-000999,"Franklin, Galvan and Jones Group",Heard Island and McDonald Islands,EMEA,procurement@foster.net,+1-658-496-9581,STANDARD,True
+CUST-001000,Smith Ltd Group,Bangladesh,LATAM,procurement@doyle-contreras.com,738.566.2125,BRONZE,True

@@ -1,0 +1,73 @@
+[
+  {
+    "exception_id": "EXC-000001",
+    "issue_type": "MISSING_INPUT_LOT",
+    "entity_type": "FINISHED_LOT",
+    "entity_id": "FINLOT-2026-000011",
+    "detection_status": "DETECTED",
+    "impact_description": "Loss of upstream traceability; potential unverified allergen or contaminant",
+    "expected_decision": "Quarantine finished lot immediately; conduct BOM verification audit",
+    "ground_truth_label": {
+      "issue_type": "MISSING_INPUT_LOT",
+      "finished_lot_id": "FINLOT-2026-000011",
+      "missing_material_lot_id": "RAWLOT-SUP-999999-2026-999999",
+      "expected_decision": "Quarantine finished lot immediately; conduct BOM verification audit",
+      "operational_impact": "Loss of upstream traceability; potential unverified allergen or contaminant",
+      "is_ground_truth": true
+    }
+  },
+  {
+    "exception_id": "EXC-000002",
+    "issue_type": "DELIVERY_OVERRUN",
+    "entity_type": "FINISHED_LOT",
+    "entity_id": "FINLOT-2026-000026",
+    "detection_status": "DETECTED",
+    "impact_description": "Inventory phantom stock; potential unrecorded parallel production or billing error",
+    "expected_decision": "Halt matching shipment settlement; reconcile warehouse physical stock against ERP",
+    "ground_truth_label": {
+      "issue_type": "DELIVERY_OVERRUN",
+      "finished_lot_id": "FINLOT-2026-000026",
+      "produced_quantity": 1353.43,
+      "overrun_quantity": 500.0,
+      "expected_decision": "Halt matching shipment settlement; reconcile warehouse physical stock against ERP",
+      "operational_impact": "Inventory phantom stock; potential unrecorded parallel production or billing error",
+      "is_ground_truth": true
+    }
+  },
+  {
+    "exception_id": "EXC-000003",
+    "issue_type": "MISSED_CUSTOMER",
+    "entity_type": "CUSTOMER",
+    "entity_id": "CUST-000492",
+    "detection_status": "DETECTED",
+    "impact_description": "End consumer exposure to tainted goods; regulatory fine risk",
+    "expected_decision": "Dispatch immediate priority recall telegram and dispatch field rep",
+    "ground_truth_label": {
+      "issue_type": "MISSED_CUSTOMER",
+      "recall_id": "REC-2026-000001",
+      "customer_id": "CUST-000492",
+      "delivery_id": "DEL-001909",
+      "expected_decision": "Dispatch immediate priority recall telegram and dispatch field rep",
+      "operational_impact": "End consumer exposure to tainted goods; regulatory fine risk",
+      "is_ground_truth": true
+    }
+  },
+  {
+    "exception_id": "EXC-000004",
+    "issue_type": "INVENTORY_NOT_QUARANTINED",
+    "entity_type": "FINISHED_LOT",
+    "entity_id": "FINLOT-2026-000780",
+    "detection_status": "DETECTED",
+    "impact_description": "Contaminated units risk being picked and shipped during active recall",
+    "expected_decision": "Lock warehouse bin immediately in WMS; cancel all pending pick waves",
+    "ground_truth_label": {
+      "issue_type": "INVENTORY_NOT_QUARANTINED",
+      "recall_id": "REC-2026-000001",
+      "finished_lot_id": "FINLOT-2026-000780",
+      "available_quantity": 350.0,
+      "expected_decision": "Lock warehouse bin immediately in WMS; cancel all pending pick waves",
+      "operational_impact": "Contaminated units risk being picked and shipped during active recall",
+      "is_ground_truth": true
+    }
+  }
+]

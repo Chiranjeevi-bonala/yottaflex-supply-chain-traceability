@@ -1,0 +1,147 @@
+[
+  {
+    "recall_id": "REC-2026-000001",
+    "finished_lot_id": "FINLOT-2026-000780",
+    "qty_in_scope": 589.76
+  },
+  {
+    "recall_id": "REC-2026-000001",
+    "finished_lot_id": "FINLOT-2026-006200",
+    "qty_in_scope": 1697.11
+  },
+  {
+    "recall_id": "REC-2026-000001",
+    "finished_lot_id": "FINLOT-2026-000779",
+    "qty_in_scope": 589.76
+  },
+  {
+    "recall_id": "REC-2026-000002",
+    "finished_lot_id": "FINLOT-2026-001891",
+    "qty_in_scope": 252.385
+  },
+  {
+    "recall_id": "REC-2026-000002",
+    "finished_lot_id": "FINLOT-2026-001892",
+    "qty_in_scope": 252.385
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "finished_lot_id": "FINLOT-2026-007923",
+    "qty_in_scope": 724.18
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "finished_lot_id": "FINLOT-2026-006043",
+    "qty_in_scope": 2730.12
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "finished_lot_id": "FINLOT-2026-001239",
+    "qty_in_scope": 1315.89
+  },
+  {
+    "recall_id": "REC-2026-000003",
+    "finished_lot_id": "FINLOT-2026-001240",
+    "qty_in_scope": 1315.89
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "finished_lot_id": "FINLOT-2026-006621",
+    "qty_in_scope": 1643.93
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "finished_lot_id": "FINLOT-2026-003750",
+    "qty_in_scope": 1250.6
+  },
+  {
+    "recall_id": "REC-2026-000004",
+    "finished_lot_id": "FINLOT-2026-003749",
+    "qty_in_scope": 1250.6
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "finished_lot_id": "FINLOT-2026-004701",
+    "qty_in_scope": 831.99
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "finished_lot_id": "FINLOT-2026-003485",
+    "qty_in_scope": 401.205
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "finished_lot_id": "FINLOT-2026-003486",
+    "qty_in_scope": 401.205
+  },
+  {
+    "recall_id": "REC-2026-000005",
+    "finished_lot_id": "FINLOT-2026-004702",
+    "qty_in_scope": 831.99
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "finished_lot_id": "FINLOT-2026-004999",
+    "qty_in_scope": 1312.585
+  },
+  {
+    "recall_id": "REC-2026-000006",
+    "finished_lot_id": "FINLOT-2026-005000",
+    "qty_in_scope": 1312.585
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "finished_lot_id": "FINLOT-2026-005050",
+    "qty_in_scope": 861.865
+  },
+  {
+    "recall_id": "REC-2026-000007",
+    "finished_lot_id": "FINLOT-2026-005049",
+    "qty_in_scope": 861.865
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "finished_lot_id": "FINLOT-2026-007698",
+    "qty_in_scope": 961.29
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "finished_lot_id": "FINLOT-2026-007480",
+    "qty_in_scope": 1585.77
+  },
+  {
+    "recall_id": "REC-2026-000008",
+    "finished_lot_id": "FINLOT-2026-007865",
+    "qty_in_scope": 2080.24
+  },
+  {
+    "recall_id": "REC-2026-000009",
+    "finished_lot_id": "FINLOT-2026-006827",
+    "qty_in_scope": 2282.61
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "finished_lot_id": "FINLOT-2026-005820",
+    "qty_in_scope": 255.85
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "finished_lot_id": "FINLOT-2026-000834",
+    "qty_in_scope": 504.535
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "finished_lot_id": "FINLOT-2026-000833",
+    "qty_in_scope": 504.535
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "finished_lot_id": "FINLOT-2026-005819",
+    "qty_in_scope": 255.85
+  },
+  {
+    "recall_id": "REC-2026-000010",
+    "finished_lot_id": "FINLOT-2026-006937",
+    "qty_in_scope": 755.79
+  }
+]
